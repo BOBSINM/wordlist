@@ -1,0 +1,7628 @@
+#:: merge [oxford3k] :adjust-pos
+
+10 cefr: a <d> (level a1)
+
+20 cefr: abandon <v> (level b2)
+
+10 cefr: ability <n> (level a2)
+
+10 cefr: able <aj> (level a2)
+
+10 cefr: about <av> (level a1)
+
+10 cefr: about <pp> (level a1)
+
+10 cefr: above <av> (level a1)
+
+10 cefr: above <pp> (level a1)
+
+20 cefr: abroad <av> (level a2)
+
+10 cefr: absolute <aj> (level b2)
+
+10 cefr: absolutely <av> (level b1)
+
+10 cefr: academic <aj> (level b1)
+
+10 cefr: academic <n> (level b2)
+
+10 cefr: accept <v> (level a2)
+
+10 cefr: acceptable <aj> (level b2)
+
+10 cefr: access <n> (level b1)
+
+10 cefr: access <v> (level b1)
+
+10 cefr: accident <n> (level a2)
+
+35 cefr: accommodation <n> (level b1)
+
+20 cefr: accompany <v> (level b2)
+
+10 cefr: according to <pp> (level a2)
+
+10 cefr: account <n> (level b1)
+
+10 cefr: account <v> (level b2)
+
+10 cefr: accurate <aj> (level b2)
+
+20 cefr: accuse <v> (level b2)
+
+10 cefr: achieve <v> (level a2)
+
+20 cefr: achievement <n> (level b1)
+
+20 cefr: acknowledge <v> (level b2)
+
+10 cefr: acquire <v> (level b2)
+
+10 cefr: across <av> (level a1)
+
+10 cefr: across <pp> (level a1)
+
+10 cefr: act <n> (level b1)
+
+10 cefr: act <v> (level a2)
+
+10 cefr: action <n> (level a1)
+
+10 cefr: active <aj> (level a2)
+
+10 cefr: activity <n> (level a1)
+
+20 cefr: actor <n> (level a1)
+
+35 cefr: actress <n> (level a1)
+
+10 cefr: actual <aj> (level b2)
+
+10 cefr: actually <av> (level a2)
+
+35 cefr: ad <n> (level b1)
+
+20 cefr: adapt <v> (level b2)
+
+10 cefr: add <v> (level a1)
+
+10 cefr: addition <n> (level b1)
+
+10 cefr: additional <aj> (level b2)
+
+10 cefr: address <n> (level a1)
+
+10 cefr: address <v> (level b2)
+
+50 cefr: administration <n> (level b2)
+
+20 cefr: admire <v> (level b1)
+
+10 cefr: admit <v> (level b1)
+
+10 cefr: adopt <v> (level b2)
+
+20 cefr: adult <aj> (level a2)
+
+20 cefr: adult <n> (level a1)
+
+10 cefr: advance <aj> (level b2)
+
+10 cefr: advance <n> (level b2)
+
+10 cefr: advance <v> (level b2)
+
+10 cefr: advanced <aj> (level b1)
+
+10 cefr: advantage <n> (level a2)
+
+20 cefr: adventure <n> (level a2)
+
+10 cefr: advertise <v> (level a2)
+
+10 cefr: advertisement <n> (level a2)
+
+10 cefr: advertising <n> (level a2)
+
+10 cefr: advice <n> (level a1)
+
+10 cefr: advise <v> (level b1)
+
+10 cefr: affair <n> (level b2)
+
+10 cefr: affect <v> (level a2)
+
+10 cefr: afford <v> (level b1)
+
+10 cefr: afraid <aj> (level a1)
+
+10 cefr: after <av> (level a2)
+
+10 cefr: after <c> (level a2)
+
+10 cefr: after <pp> (level a1)
+
+10 cefr: afternoon <n> (level a1)
+
+10 cefr: afterwards <av> (level b2)
+
+10 cefr: again <av> (level a1)
+
+10 cefr: against <pp> (level a2)
+
+10 cefr: age <n> (level a1)
+
+10 cefr: age <v> (level b1)
+
+20 cefr: aged <aj> (level b1)
+
+10 cefr: agency <n> (level b2)
+
+20 cefr: agenda <n> (level b2)
+
+20 cefr: agent <n> (level b1)
+
+20 cefr: aggressive <aj> (level b2)
+
+10 cefr: ago <av> (level a1)
+
+10 cefr: agree <v> (level a1)
+
+10 cefr: agreement <n> (level b1)
+
+35 cefr: ah <i> (level a2)
+
+10 cefr: ahead <av> (level b1)
+
+10 cefr: aid <n> (level b2)
+
+10 cefr: aid <v> (level b2)
+
+10 cefr: aim <n> (level b1)
+
+10 cefr: aim <v> (level b1)
+
+10 cefr: air <n> (level a1)
+
+20 cefr: aircraft <n> (level b2)
+
+35 cefr: airline <n> (level a2)
+
+20 cefr: airport <n> (level a1)
+
+10 cefr: alarm <n> (level b1)
+
+10 cefr: alarm <v> (level b2)
+
+10 cefr: album <n> (level b1)
+
+20 cefr: alcohol <n> (level b1)
+
+20 cefr: alcoholic <aj> (level b1)
+
+10 cefr: alive <aj> (level a2)
+
+10 cefr: all <av> (level a2)
+
+10 cefr: all <d> (level a1)
+
+10 cefr: all <pn> (level a1)
+
+10 cefr: all right <aj> (level a2)
+
+10 cefr: all right <av> (level a2)
+
+10 cefr: all right <i> (level a2)
+
+10 cefr: allow <v> (level a2)
+
+10 cefr: almost <av> (level a2)
+
+10 cefr: alone <aj> (level a2)
+
+10 cefr: alone <av> (level a2)
+
+10 cefr: along <av> (level a2)
+
+10 cefr: along <pp> (level a2)
+
+10 cefr: already <av> (level a2)
+
+10 cefr: also <av> (level a1)
+
+10 cefr: alter <v> (level b2)
+
+10 cefr: alternative <aj> (level b1)
+
+10 cefr: alternative <n> (level a2)
+
+10 cefr: although <c> (level a2)
+
+10 cefr: always <av> (level a1)
+
+20 cefr: amazed <aj> (level b1)
+
+20 cefr: amazing <aj> (level a1)
+
+35 cefr: ambition <n> (level b1)
+
+20 cefr: ambitious <aj> (level b1)
+
+10 cefr: among <pp> (level a2)
+
+10 cefr: amount <n> (level a2)
+
+10 cefr: amount <v> (level b2)
+
+20 cefr: analyse <v> (level b1)
+
+10 cefr: analysis <n> (level b1)
+
+10 cefr: ancient <aj> (level a2)
+
+10 cefr: and <c> (level a1)
+
+20 cefr: anger <n> (level b2)
+
+10 cefr: angle <n> (level b2)
+
+10 cefr: angry <aj> (level a1)
+
+10 cefr: animal <n> (level a1)
+
+35 cefr: ankle <n> (level a2)
+
+20 cefr: anniversary <n> (level b2)
+
+10 cefr: announce <v> (level b1)
+
+10 cefr: announcement <n> (level b1)
+
+10 cefr: annoy <v> (level b1)
+
+10 cefr: annoyed <aj> (level b1)
+
+10 cefr: annoying <aj> (level b1)
+
+10 cefr: annual <aj> (level b2)
+
+10 cefr: another <d> (level a1)
+
+10 cefr: another <pn> (level a1)
+
+10 cefr: answer <n> (level a1)
+
+10 cefr: answer <v> (level a1)
+
+20 cefr: anxious <aj> (level b2)
+
+10 cefr: any <av> (level a2)
+
+10 cefr: any <d> (level a1)
+
+10 cefr: any <pn> (level a1)
+
+10 cefr: any more <av> (level a2)
+
+10 cefr: anybody <pn> (level a2)
+
+10 cefr: anyone <pn> (level a1)
+
+10 cefr: anything <pn> (level a1)
+
+10 cefr: anyway <av> (level a2)
+
+10 cefr: anywhere <av> (level a2)
+
+10 cefr: anywhere <pn> (level a2)
+
+10 cefr: apart <av> (level b1)
+
+35 cefr: apartment <n> (level a1)
+
+10 cefr: apologize <v> (level b1)
+
+50 cefr: app <n> (level a2)
+
+10 cefr: apparent <aj> (level b2)
+
+10 cefr: apparently <av> (level b2)
+
+10 cefr: appeal <n> (level b2)
+
+10 cefr: appeal <v> (level b2)
+
+10 cefr: appear <v> (level a2)
+
+10 cefr: appearance <n> (level a2)
+
+10 cefr: apple <n> (level a1)
+
+10 cefr: application <n> (level b1)
+
+10 cefr: apply <v> (level a2)
+
+20 cefr: appointment <n> (level b1)
+
+10 cefr: appreciate <v> (level b1)
+
+10 cefr: approach <n> (level b2)
+
+10 cefr: approach <v> (level b2)
+
+10 cefr: appropriate <aj> (level b2)
+
+10 cefr: approval <n> (level b2)
+
+10 cefr: approve <v> (level b2)
+
+35 cefr: approximately <av> (level b1)
+
+35 cefr: April <n> (level a1)
+
+35 cefr: architect <n> (level a2)
+
+20 cefr: architecture <n> (level a2)
+
+10 cefr: area <n> (level a1)
+
+10 cefr: argue <v> (level a2)
+
+10 cefr: argument <n> (level a2)
+
+10 cefr: arise <v> (level b2)
+
+10 cefr: arm <n> (level a1)
+
+20 cefr: armed <aj> (level b2)
+
+20 cefr: arms <n> (level b2)
+
+10 cefr: army <n> (level a2)
+
+10 cefr: around <av> (level a1)
+
+10 cefr: around <pp> (level a1)
+
+10 cefr: arrange <v> (level a2)
+
+10 cefr: arrangement <n> (level a2)
+
+20 cefr: arrest <n> (level b1)
+
+20 cefr: arrest <v> (level b1)
+
+20 cefr: arrival <n> (level b1)
+
+10 cefr: arrive <v> (level a1)
+
+10 cefr: art <n> (level a1)
+
+10 cefr: article <n> (level a1)
+
+10 cefr: artificial <aj> (level b2)
+
+10 cefr: artist <n> (level a1)
+
+20 cefr: artistic <aj> (level b2)
+
+10 cefr: as <av> (level a2)
+
+10 cefr: as <c> (level a2)
+
+10 cefr: as <pp> (level a1)
+
+20 cefr: ashamed <aj> (level b2)
+
+10 cefr: ask <v> (level a1)
+
+10 cefr: asleep <aj> (level a2)
+
+10 cefr: aspect <n> (level b2)
+
+20 cefr: assess <v> (level b2)
+
+20 cefr: assessment <n> (level b2)
+
+20 cefr: assignment <n> (level b1)
+
+20 cefr: assist <v> (level b1)
+
+10 cefr: assistant <aj> (level a2)
+
+10 cefr: assistant <n> (level a2)
+
+10 cefr: associate <v> (level b2)
+
+10 cefr: associated <aj> (level b2)
+
+10 cefr: association <n> (level b2)
+
+10 cefr: assume <v> (level b2)
+
+10 cefr: at <pp> (level a1)
+
+35 cefr: athlete <n> (level a2)
+
+10 cefr: atmosphere <n> (level b1)
+
+10 cefr: attach <v> (level b1)
+
+10 cefr: attack <n> (level a2)
+
+10 cefr: attack <v> (level a2)
+
+10 cefr: attempt <n> (level b2)
+
+10 cefr: attempt <v> (level b2)
+
+10 cefr: attend <v> (level a2)
+
+10 cefr: attention <i> (level a2)
+
+10 cefr: attention <n> (level a2)
+
+10 cefr: attitude <n> (level b1)
+
+10 cefr: attract <v> (level b1)
+
+20 cefr: attraction <n> (level b1)
+
+10 cefr: attractive <aj> (level a2)
+
+10 cefr: audience <n> (level a2)
+
+35 cefr: August <n> (level a1)
+
+20 cefr: aunt <n> (level a1)
+
+10 cefr: author <n> (level a2)
+
+10 cefr: authority <n> (level b1)
+
+10 cefr: autumn <n> (level a1)
+
+10 cefr: available <aj> (level a2)
+
+10 cefr: average <aj> (level a2)
+
+10 cefr: average <n> (level a2)
+
+10 cefr: average <v> (level b1)
+
+10 cefr: avoid <v> (level a2)
+
+10 cefr: award <n> (level a2)
+
+10 cefr: award <v> (level b1)
+
+10 cefr: aware <aj> (level b1)
+
+10 cefr: away <av> (level a1)
+
+10 cefr: awful <aj> (level a2)
+
+20 cefr: baby <n> (level a1)
+
+10 cefr: back <aj> (level a2)
+
+10 cefr: back <av> (level a1)
+
+10 cefr: back <n> (level a1)
+
+10 cefr: back <v> (level b2)
+
+10 cefr: background <n> (level a2)
+
+10 cefr: backwards <av> (level b1)
+
+20 cefr: bacteria <n> (level b2)
+
+10 cefr: bad <aj> (level a1)
+
+10 cefr: badly <av> (level a2)
+
+20 cefr: bag <n> (level a1)
+
+20 cefr: bake <v> (level b1)
+
+10 cefr: balance <n> (level b1)
+
+10 cefr: balance <v> (level b1)
+
+10 cefr: ball <n> (level a1)
+
+10 cefr: ban <n> (level b1)
+
+10 cefr: ban <v> (level b1)
+
+20 cefr: banana <n> (level a1)
+
+10 cefr: band <n> (level a1)
+
+10 cefr: bank <n> {money} (level a1)
+
+10 cefr: bank <n> {river} (level b1)
+
+10 cefr: bar <n> (level a2)
+
+10 cefr: bar <v> (level b2)
+
+20 cefr: barrier <n> (level b2)
+
+10 cefr: base <n> (level b1)
+
+10 cefr: base <v> (level b1)
+
+35 cefr: baseball <n> (level a2)
+
+10 cefr: based <aj> (level a2)
+
+10 cefr: basic <aj> (level b1)
+
+10 cefr: basically <av> (level b2)
+
+10 cefr: basis <n> (level b1)
+
+35 cefr: basketball <n> (level a2)
+
+20 cefr: bath <n> (level a1)
+
+20 cefr: bathroom <n> (level a1)
+
+10 cefr: battery <n> (level b1)
+
+20 cefr: battle <n> (level b1)
+
+20 cefr: battle <v> (level b2)
+
+10 cefr: be <v> (level a1)
+
+10 cefr: be <v/auxiliary> (level a1)
+
+20 cefr: beach <n> (level a1)
+
+20 cefr: bean <n> (level a2)
+
+10 cefr: bear <n> {animal} (level a2)
+
+10 cefr: bear <v> {deal with} (level b2)
+
+20 cefr: beat <n> (level b2)
+
+20 cefr: beat <v> (level a2)
+
+10 cefr: beautiful <aj> (level a1)
+
+20 cefr: beauty <n> (level b1)
+
+10 cefr: because <c> (level a1)
+
+10 cefr: become <v> (level a1)
+
+10 cefr: bed <n> (level a1)
+
+20 cefr: bedroom <n> (level a1)
+
+35 cefr: bee <n> (level b1)
+
+20 cefr: beef <n> (level a2)
+
+20 cefr: beer <n> (level a1)
+
+10 cefr: before <av> (level a2)
+
+10 cefr: before <c> (level a2)
+
+10 cefr: before <pp> (level a1)
+
+20 cefr: beg <v> (level b2)
+
+10 cefr: begin <v> (level a1)
+
+10 cefr: beginning <n> (level a1)
+
+10 cefr: behave <v> (level a2)
+
+55 cefr: behaviour <n> (level a2)
+
+10 cefr: behind <av> (level a1)
+
+10 cefr: behind <pp> (level a1)
+
+10 cefr: being <n> (level b2)
+
+20 cefr: belief <n> (level b1)
+
+10 cefr: believe <v> (level a1)
+
+20 cefr: bell <n> (level b1)
+
+10 cefr: belong <v> (level a2)
+
+10 cefr: below <av> (level a1)
+
+10 cefr: below <pp> (level a1)
+
+20 cefr: belt <n> (level a2)
+
+20 cefr: bend <n> (level b1)
+
+20 cefr: bend <v> (level b1)
+
+10 cefr: benefit <n> (level a2)
+
+10 cefr: benefit <v> (level b1)
+
+20 cefr: bent <aj> (level b2)
+
+10 cefr: best <aj> (level a1)
+
+10 cefr: best <av> (level a2)
+
+10 cefr: best <n> (level a2)
+
+10 cefr: bet <n> (level b2)
+
+10 cefr: bet <v> (level b2)
+
+10 cefr: better <aj> (level a1)
+
+10 cefr: better <av> (level a2)
+
+10 cefr: better <n> (level b1)
+
+10 cefr: between <av> (level a2)
+
+10 cefr: between <pp> (level a1)
+
+10 cefr: beyond <av> (level b2)
+
+10 cefr: beyond <pp> (level b2)
+
+20 cefr: bicycle <n> (level a1)
+
+10 cefr: big <aj> (level a1)
+
+35 cefr: bike <n> (level a1)
+
+10 cefr: bill <n> (level a1)
+
+10 cefr: bill <v> (level b2)
+
+20 cefr: billion <n> (level a2)
+
+20 cefr: bin <n> (level a2)
+
+10 cefr: biology <n> (level a2)
+
+20 cefr: bird <n> (level a1)
+
+20 cefr: birth <n> (level a2)
+
+20 cefr: birthday <n> (level a1)
+
+20 cefr: biscuit <n> (level a2)
+
+10 cefr: bit <n> (level a2)
+
+10 cefr: bite <n> (level b1)
+
+10 cefr: bite <v> (level b1)
+
+20 cefr: bitter <aj> (level b2)
+
+10 cefr: black <aj> (level a1)
+
+10 cefr: black <n> (level a1)
+
+10 cefr: blame <n> (level b2)
+
+10 cefr: blame <v> (level b2)
+
+10 cefr: blank <aj> (level a2)
+
+10 cefr: blank <n> (level a2)
+
+20 cefr: blind <aj> (level b2)
+
+10 cefr: block <n> (level b1)
+
+10 cefr: block <v> (level b1)
+
+35 cefr: blog <n> (level a1)
+
+35 cefr: blonde <aj> (level a1)
+
+20 cefr: blood <n> (level a2)
+
+10 cefr: blow <v> (level a2)
+
+10 cefr: blue <aj> (level a1)
+
+10 cefr: blue <n> (level a1)
+
+10 cefr: board <n> (level a2)
+
+10 cefr: board <v> (level b1)
+
+10 cefr: boat <n> (level a1)
+
+10 cefr: body <n> (level a1)
+
+20 cefr: boil <v> (level a2)
+
+20 cefr: bomb <n> (level b1)
+
+20 cefr: bomb <v> (level b1)
+
+20 cefr: bond <n> (level b2)
+
+20 cefr: bone <n> (level a2)
+
+10 cefr: book <n> (level a1)
+
+10 cefr: book <v> (level a2)
+
+10 cefr: boot <n> (level a1)
+
+20 cefr: border <n> (level b1)
+
+20 cefr: border <v> (level b2)
+
+20 cefr: bored <aj> (level a1)
+
+20 cefr: boring <aj> (level a1)
+
+20 cefr: born <v> (level a1)
+
+10 cefr: borrow <v> (level a2)
+
+20 cefr: boss <n> (level a2)
+
+10 cefr: both <d> (level a1)
+
+10 cefr: both <pn> (level a1)
+
+10 cefr: bother <v> (level b1)
+
+10 cefr: bottle <n> (level a1)
+
+10 cefr: bottom <aj> (level a2)
+
+10 cefr: bottom <n> (level a2)
+
+20 cefr: bowl <n> (level a2)
+
+10 cefr: box <n> (level a1)
+
+10 cefr: boy <n> (level a1)
+
+35 cefr: boyfriend <n> (level a1)
+
+20 cefr: brain <n> (level a2)
+
+10 cefr: branch <n> (level b1)
+
+10 cefr: brand <n> (level b1)
+
+10 cefr: brand <v> (level b1)
+
+20 cefr: brave <aj> (level b1)
+
+20 cefr: bread <n> (level a1)
+
+10 cefr: break <n> (level a1)
+
+10 cefr: break <v> (level a1)
+
+20 cefr: breakfast <n> (level a1)
+
+35 cefr: breast <n> (level b2)
+
+20 cefr: breath <n> (level b1)
+
+20 cefr: breathe <v> (level b1)
+
+20 cefr: breathing <n> (level b1)
+
+35 cefr: bride <n> (level b1)
+
+10 cefr: bridge <n> (level a2)
+
+10 cefr: brief <aj> (level b2)
+
+10 cefr: bright <aj> (level a2)
+
+20 cefr: brilliant <aj> (level a2)
+
+10 cefr: bring <v> (level a1)
+
+20 cefr: broad <aj> (level b2)
+
+10 cefr: broadcast <n> (level b2)
+
+10 cefr: broadcast <v> (level b2)
+
+10 cefr: broken <aj> (level a2)
+
+10 cefr: brother <n> (level a1)
+
+10 cefr: brown <aj> (level a1)
+
+10 cefr: brown <n> (level a1)
+
+20 cefr: brush <n> (level a2)
+
+20 cefr: brush <v> (level a2)
+
+20 cefr: bubble <n> (level b1)
+
+10 cefr: budget <n> (level b2)
+
+10 cefr: build <v> (level a1)
+
+10 cefr: building <n> (level a1)
+
+20 cefr: bullet <n> (level b2)
+
+20 cefr: bunch <n> (level b2)
+
+20 cefr: burn <n> (level b2)
+
+20 cefr: burn <v> (level a2)
+
+10 cefr: bury <v> (level b1)
+
+10 cefr: bus <n> (level a1)
+
+20 cefr: bush <n> (level b2)
+
+10 cefr: business <n> (level a1)
+
+35 cefr: businessman <n> (level a2)
+
+10 cefr: busy <aj> (level a1)
+
+10 cefr: but <c> (level a1)
+
+10 cefr: but <pp> (level b2)
+
+20 cefr: butter <n> (level a1)
+
+10 cefr: button <n> (level a2)
+
+10 cefr: buy <v> (level a1)
+
+10 cefr: by <av> (level b1)
+
+10 cefr: by <pp> (level a1)
+
+20 cefr: bye <i> (level a1)
+
+20 cefr: cable <n> (level b2)
+
+20 cefr: cafe <n> (level a1)
+
+20 cefr: cake <n> (level a1)
+
+10 cefr: calculate <v> (level b2)
+
+10 cefr: call <n> (level a1)
+
+10 cefr: call <v> (level a1)
+
+20 cefr: calm <aj> (level b1)
+
+20 cefr: calm <n> (level b1)
+
+20 cefr: calm <v> (level b1)
+
+20 cefr: camera <n> (level a1)
+
+20 cefr: camp <n> (level a2)
+
+20 cefr: camp <v> (level a2)
+
+10 cefr: campaign <n> (level b1)
+
+10 cefr: campaign <v> (level b1)
+
+35 cefr: camping <n> (level a2)
+
+20 cefr: campus <n> (level b1)
+
+10 cefr: can <n> (level a2)
+
+10 cefr: can <v/modal> (level a1)
+
+20 cefr: cancel <v> (level b2)
+
+20 cefr: cancer <n> (level b2)
+
+10 cefr: candidate <n> (level b1)
+
+10 cefr: cannot <v/modal> (level a1)
+
+20 cefr: cap <n> (level b1)
+
+10 cefr: capable <aj> (level b2)
+
+10 cefr: capacity <n> (level b2)
+
+10 cefr: capital <aj> (level a1)
+
+10 cefr: capital <n> (level a1)
+
+10 cefr: captain <n> (level b1)
+
+20 cefr: capture <n> (level b2)
+
+20 cefr: capture <v> (level b2)
+
+10 cefr: car <n> (level a1)
+
+10 cefr: card <n> (level a1)
+
+10 cefr: care <n> (level a2)
+
+10 cefr: care <v> (level a2)
+
+20 cefr: career <n> (level a1)
+
+10 cefr: careful <aj> (level a2)
+
+10 cefr: carefully <av> (level a2)
+
+20 cefr: careless <aj> (level b1)
+
+20 cefr: carpet <n> (level a2)
+
+20 cefr: carrot <n> (level a1)
+
+10 cefr: carry <v> (level a1)
+
+20 cefr: cartoon <n> (level a2)
+
+10 cefr: case <n> (level a2)
+
+20 cefr: cash <n> (level a2)
+
+20 cefr: cast <n> (level b2)
+
+20 cefr: cast <v> (level b2)
+
+20 cefr: castle <n> (level a2)
+
+10 cefr: cat <n> (level a1)
+
+10 cefr: catch <n> (level b2)
+
+10 cefr: catch <v> (level a2)
+
+10 cefr: category <n> (level b1)
+
+10 cefr: cause <n> (level a2)
+
+10 cefr: cause <v> (level a2)
+
+70 cefr: CD <n> (level a1)
+
+20 cefr: ceiling <n> (level b1)
+
+20 cefr: celebrate <v> (level a2)
+
+20 cefr: celebration <n> (level b1)
+
+35 cefr: celebrity <n> (level a2)
+
+10 cefr: cell <n> (level b2)
+
+10 cefr: cent <n> (level a1)
+
+10 cefr: central <aj> (level b1)
+
+35 cefr: centre <n> (level a1)
+
+35 cefr: centre <v> (level b1)
+
+10 cefr: century <n> (level a1)
+
+20 cefr: ceremony <n> (level b1)
+
+10 cefr: certain <aj> (level a2)
+
+10 cefr: certainly <av> (level a2)
+
+10 cefr: chain <n> (level b1)
+
+10 cefr: chain <v> (level b2)
+
+10 cefr: chair <n> (level a1)
+
+10 cefr: chair <v> (level b2)
+
+10 cefr: chairman <n> (level b2)
+
+20 cefr: challenge <n> (level b1)
+
+20 cefr: challenge <v> (level b2)
+
+20 cefr: champion <n> (level b1)
+
+10 cefr: chance <n> (level a2)
+
+10 cefr: change <n> (level a1)
+
+10 cefr: change <v> (level a1)
+
+10 cefr: channel <n> (level b1)
+
+10 cefr: chapter <n> (level b1)
+
+10 cefr: character <n> (level a2)
+
+80 cefr: characteristic <aj> (level b2)
+
+80 cefr: characteristic <n> (level b2)
+
+10 cefr: charge <n> (level b1)
+
+10 cefr: charge <v> (level b1)
+
+20 cefr: charity <n> (level a2)
+
+20 cefr: chart <n> (level a1)
+
+20 cefr: chart <v> (level b2)
+
+20 cefr: chat <n> (level a2)
+
+20 cefr: chat <v> (level a2)
+
+10 cefr: cheap <aj> (level a1)
+
+10 cefr: cheap <av> (level b1)
+
+20 cefr: cheat <n> (level b1)
+
+20 cefr: cheat <v> (level b1)
+
+10 cefr: check <n> (level a2)
+
+10 cefr: check <v> (level a1)
+
+20 cefr: cheerful <aj> (level b1)
+
+20 cefr: cheese <n> (level a1)
+
+35 cefr: chef <n> (level a2)
+
+10 cefr: chemical <aj> (level b1)
+
+10 cefr: chemical <n> (level b1)
+
+20 cefr: chemistry <n> (level a2)
+
+20 cefr: chest <n> (level b1)
+
+20 cefr: chicken <n> (level a1)
+
+20 cefr: chief <aj> (level b2)
+
+20 cefr: chief <n> (level b2)
+
+10 cefr: child <n> (level a1)
+
+20 cefr: childhood <n> (level b1)
+
+10 cefr: chip <n> (level a2)
+
+20 cefr: chocolate <n> (level a1)
+
+10 cefr: choice <n> (level a2)
+
+10 cefr: choose <v> (level a1)
+
+10 cefr: church <n> (level a2)
+
+20 cefr: cigarette <n> (level a2)
+
+20 cefr: cinema <n> (level a1)
+
+10 cefr: circle <n> (level a2)
+
+10 cefr: circle <v> (level a2)
+
+10 cefr: circumstance <n> (level b2)
+
+20 cefr: cite <v> (level b2)
+
+10 cefr: citizen <n> (level b2)
+
+10 cefr: city <n> (level a1)
+
+20 cefr: civil <aj> (level b2)
+
+10 cefr: claim <n> (level b1)
+
+10 cefr: claim <v> (level b1)
+
+10 cefr: class <n> (level a1)
+
+20 cefr: classic <aj> (level b2)
+
+20 cefr: classic <n> (level b2)
+
+20 cefr: classical <aj> (level a2)
+
+35 cefr: classroom <n> (level a1)
+
+20 cefr: clause <n> (level b1)
+
+10 cefr: clean <aj> (level a1)
+
+10 cefr: clean <v> (level a1)
+
+10 cefr: clear <aj> (level a2)
+
+10 cefr: clear <v> (level b1)
+
+10 cefr: clearly <av> (level a2)
+
+10 cefr: clever <aj> (level a2)
+
+20 cefr: click <n> (level b1)
+
+20 cefr: click <v> (level b1)
+
+20 cefr: client <n> (level b1)
+
+20 cefr: climate <n> (level a2)
+
+20 cefr: climb <n> (level b1)
+
+20 cefr: climb <v> (level a1)
+
+10 cefr: clock <n> (level a1)
+
+10 cefr: close <aj> (level a2)
+
+10 cefr: close <av> (level b1)
+
+10 cefr: close <n> (level b2)
+
+10 cefr: close <v> (level a1)
+
+10 cefr: closed <aj> (level a2)
+
+10 cefr: closely <av> (level b2)
+
+20 cefr: cloth <n> (level b1)
+
+20 cefr: clothes <n> (level a1)
+
+20 cefr: clothing <n> (level a2)
+
+20 cefr: cloud <n> (level a2)
+
+10 cefr: club <n> (level a1)
+
+10 cefr: clue <n> (level b1)
+
+20 cefr: coach <n> (level a2)
+
+20 cefr: coach <v> (level b1)
+
+20 cefr: coal <n> (level b1)
+
+20 cefr: coast <n> (level a2)
+
+20 cefr: coat <n> (level a1)
+
+10 cefr: code <n> (level a2)
+
+10 cefr: coffee <n> (level a1)
+
+20 cefr: coin <n> (level b1)
+
+10 cefr: cold <aj> (level a1)
+
+10 cefr: cold <n> (level a1)
+
+10 cefr: collapse <n> (level b2)
+
+10 cefr: collapse <v> (level b2)
+
+20 cefr: colleague <n> (level a2)
+
+10 cefr: collect <v> (level a2)
+
+10 cefr: collection <n> (level b1)
+
+10 cefr: college <n> (level a1)
+
+70 cefr: colour <n> (level a1)
+
+70 cefr: coloured <aj> (level b1)
+
+10 cefr: column <n> (level a2)
+
+10 cefr: combination <n> (level b2)
+
+10 cefr: combine <v> (level b1)
+
+10 cefr: come <v> (level a1)
+
+20 cefr: comedy <n> (level a2)
+
+20 cefr: comfort <n> (level b2)
+
+20 cefr: comfort <v> (level b2)
+
+20 cefr: comfortable <aj> (level a2)
+
+10 cefr: command <n> (level b2)
+
+10 cefr: command <v> (level b2)
+
+10 cefr: comment <n> (level a2)
+
+10 cefr: comment <v> (level b1)
+
+10 cefr: commercial <aj> (level b1)
+
+10 cefr: commercial <n> (level b1)
+
+10 cefr: commission <n> (level b2)
+
+10 cefr: commission <v> (level b2)
+
+20 cefr: commit <v> (level b1)
+
+10 cefr: commitment <n> (level b2)
+
+10 cefr: committee <n> (level b2)
+
+10 cefr: common <aj> (level a1)
+
+10 cefr: commonly <av> (level b2)
+
+10 cefr: communicate <v> (level a2)
+
+20 cefr: communication <n> (level b1)
+
+10 cefr: community <n> (level a2)
+
+10 cefr: company <n> (level a1)
+
+10 cefr: compare <v> (level a1)
+
+10 cefr: comparison <n> (level b1)
+
+20 cefr: compete <v> (level a2)
+
+10 cefr: competition <n> (level a2)
+
+20 cefr: competitive <aj> (level b1)
+
+20 cefr: competitor <n> (level b1)
+
+10 cefr: complain <v> (level a2)
+
+10 cefr: complaint <n> (level b1)
+
+10 cefr: complete <aj> (level a1)
+
+10 cefr: complete <v> (level a1)
+
+10 cefr: completely <av> (level a2)
+
+10 cefr: complex <aj> (level b1)
+
+10 cefr: complex <n> (level b2)
+
+10 cefr: complicated <aj> (level b2)
+
+10 cefr: component <n> (level b2)
+
+10 cefr: computer <n> (level a1)
+
+20 cefr: concentrate <v> (level b1)
+
+20 cefr: concentration <n> (level b2)
+
+10 cefr: concept <n> (level b2)
+
+10 cefr: concern <n> (level b2)
+
+10 cefr: concern <v> (level b2)
+
+10 cefr: concerned <aj> (level b2)
+
+20 cefr: concert <n> (level a1)
+
+20 cefr: conclude <v> (level b1)
+
+10 cefr: conclusion <n> (level b1)
+
+10 cefr: condition <n> (level a2)
+
+20 cefr: conduct <n> (level b2)
+
+20 cefr: conduct <v> (level b2)
+
+10 cefr: conference <n> (level a2)
+
+20 cefr: confidence <n> (level b2)
+
+10 cefr: confident <aj> (level b1)
+
+10 cefr: confirm <v> (level b1)
+
+20 cefr: conflict <n> (level b2)
+
+20 cefr: conflict <v> (level b2)
+
+10 cefr: confuse <v> (level b1)
+
+10 cefr: confused <aj> (level b1)
+
+10 cefr: confusing <aj> (level b2)
+
+10 cefr: connect <v> (level a2)
+
+10 cefr: connected <aj> (level a2)
+
+10 cefr: connection <n> (level b1)
+
+20 cefr: conscious <aj> (level b2)
+
+10 cefr: consequence <n> (level b1)
+
+20 cefr: conservative <aj> (level b2)
+
+20 cefr: conservative <n> (level b2)
+
+10 cefr: consider <v> (level a2)
+
+20 cefr: consideration <n> (level b2)
+
+10 cefr: consist <v> (level b1)
+
+10 cefr: consistent <aj> (level b2)
+
+10 cefr: constant <aj> (level b2)
+
+20 cefr: constantly <av> (level b2)
+
+10 cefr: construct <v> (level b2)
+
+20 cefr: construction <n> (level b2)
+
+20 cefr: consume <v> (level b1)
+
+20 cefr: consumer <n> (level b1)
+
+10 cefr: contact <n> (level b1)
+
+10 cefr: contact <v> (level b1)
+
+10 cefr: contain <v> (level a2)
+
+20 cefr: container <n> (level b1)
+
+20 cefr: contemporary <aj> (level b2)
+
+10 cefr: content <n> (level b1)
+
+20 cefr: contest <n> (level b2)
+
+20 cefr: contest <v> (level b2)
+
+10 cefr: context <n> (level a2)
+
+20 cefr: continent <n> (level a2)
+
+10 cefr: continue <v> (level a2)
+
+10 cefr: continuous <aj> (level b1)
+
+10 cefr: contract <n> (level b2)
+
+10 cefr: contract <v> (level b2)
+
+10 cefr: contrast <n> (level b1)
+
+10 cefr: contrast <v> (level b1)
+
+10 cefr: contribute <v> (level b2)
+
+10 cefr: contribution <n> (level b2)
+
+10 cefr: control <n> (level a2)
+
+10 cefr: control <v> (level a2)
+
+10 cefr: convenient <aj> (level b1)
+
+10 cefr: conversation <n> (level a1)
+
+10 cefr: convert <v> (level b2)
+
+10 cefr: convince <v> (level b1)
+
+10 cefr: convinced <aj> (level b2)
+
+20 cefr: cook <n> (level a2)
+
+20 cefr: cook <v> (level a1)
+
+35 cefr: cooker <n> (level a2)
+
+20 cefr: cooking <n> (level a1)
+
+20 cefr: cool <aj> (level a1)
+
+20 cefr: cool <v> (level b1)
+
+10 cefr: copy <n> (level a2)
+
+10 cefr: copy <v> (level a2)
+
+10 cefr: core <aj> (level b2)
+
+10 cefr: core <n> (level b2)
+
+10 cefr: corner <n> (level a2)
+
+20 cefr: corporate <aj> (level b2)
+
+10 cefr: correct <aj> (level a1)
+
+10 cefr: correct <v> (level a1)
+
+10 cefr: correctly <av> (level a2)
+
+10 cefr: cost <n> (level a1)
+
+10 cefr: cost <v> (level a1)
+
+35 cefr: costume <n> (level b1)
+
+35 cefr: cottage <n> (level b1)
+
+20 cefr: cotton <n> (level b1)
+
+10 cefr: could <v/modal> (level a1)
+
+10 cefr: council <n> (level b2)
+
+10 cefr: count <n> (level b1)
+
+10 cefr: count <v> (level a2)
+
+10 cefr: country <n> (level a1)
+
+20 cefr: countryside <n> (level b1)
+
+10 cefr: county <n> (level b2)
+
+10 cefr: couple <n> (level a2)
+
+20 cefr: courage <n> (level b2)
+
+10 cefr: course <n> (level a1)
+
+10 cefr: court <n> (level b1)
+
+20 cefr: cousin <n> (level a1)
+
+10 cefr: cover <n> (level b1)
+
+10 cefr: cover <v> (level a2)
+
+10 cefr: covered <aj> (level b1)
+
+20 cefr: cow <n> (level a1)
+
+10 cefr: crash <n> (level b2)
+
+10 cefr: crash <v> (level b2)
+
+10 cefr: crazy <aj> (level a2)
+
+20 cefr: cream <aj> (level b1)
+
+20 cefr: cream <n> (level a1)
+
+10 cefr: create <v> (level a1)
+
+10 cefr: creation <n> (level b2)
+
+20 cefr: creative <aj> (level a2)
+
+10 cefr: creature <n> (level b2)
+
+10 cefr: credit <n> (level a2)
+
+10 cefr: credit <v> (level b2)
+
+20 cefr: crew <n> (level b2)
+
+20 cefr: crime <n> (level a2)
+
+20 cefr: criminal <aj> (level b1)
+
+20 cefr: criminal <n> (level a2)
+
+10 cefr: crisis <n> (level b2)
+
+20 cefr: criterion <n> (level b2)
+
+20 cefr: critic <n> (level b2)
+
+10 cefr: critical <aj> (level b2)
+
+10 cefr: criticism <n> (level b2)
+
+20 cefr: criticize <v> (level b2)
+
+20 cefr: crop <n> (level b2)
+
+10 cefr: cross <n> (level a2)
+
+10 cefr: cross <v> (level a2)
+
+20 cefr: crowd <n> (level a2)
+
+20 cefr: crowded <aj> (level a2)
+
+20 cefr: crucial <aj> (level b2)
+
+20 cefr: cruel <aj> (level b1)
+
+10 cefr: cry <n> (level b2)
+
+10 cefr: cry <v> (level a2)
+
+20 cefr: cultural <aj> (level b1)
+
+10 cefr: culture <n> (level a1)
+
+10 cefr: cup <n> (level a1)
+
+20 cefr: cupboard <n> (level a2)
+
+10 cefr: cure <n> (level b2)
+
+10 cefr: cure <v> (level b2)
+
+20 cefr: curly <aj> (level a2)
+
+20 cefr: currency <n> (level b1)
+
+10 cefr: current <aj> (level b1)
+
+10 cefr: current <n> (level b2)
+
+10 cefr: currently <av> (level b1)
+
+20 cefr: curtain <n> (level b1)
+
+20 cefr: curve <n> (level b2)
+
+20 cefr: curve <v> (level b2)
+
+35 cefr: curved <aj> (level b2)
+
+20 cefr: custom <n> (level b1)
+
+10 cefr: customer <n> (level a1)
+
+10 cefr: cut <n> (level b1)
+
+10 cefr: cut <v> (level a1)
+
+10 cefr: cycle <n> (level a2)
+
+10 cefr: cycle <v> (level a2)
+
+35 cefr: dad <n> (level a1)
+
+10 cefr: daily <aj> (level a2)
+
+10 cefr: daily <av> (level b1)
+
+10 cefr: damage <n> (level b1)
+
+10 cefr: damage <v> (level b1)
+
+20 cefr: dance <n> (level a1)
+
+20 cefr: dance <v> (level a1)
+
+35 cefr: dancer <n> (level a1)
+
+20 cefr: dancing <n> (level a1)
+
+10 cefr: danger <n> (level a2)
+
+10 cefr: dangerous <aj> (level a1)
+
+10 cefr: dark <aj> (level a1)
+
+10 cefr: dark <n> (level a2)
+
+10 cefr: data <n> (level a2)
+
+10 cefr: date <n> (level a1)
+
+10 cefr: date <v> (level b2)
+
+20 cefr: daughter <n> (level a1)
+
+10 cefr: day <n> (level a1)
+
+10 cefr: dead <aj> (level a2)
+
+10 cefr: deal <n> (level b1)
+
+10 cefr: deal <v> (level a2)
+
+10 cefr: dear <aj> (level a1)
+
+10 cefr: dear <i> (level a2)
+
+10 cefr: death <n> (level a2)
+
+10 cefr: debate <n> (level b2)
+
+10 cefr: debate <v> (level b2)
+
+20 cefr: debt <n> (level b2)
+
+10 cefr: decade <n> (level b1)
+
+70 cefr: December <n> (level a1)
+
+10 cefr: decent <aj> (level b2)
+
+10 cefr: decide <v> (level a1)
+
+10 cefr: decision <n> (level a2)
+
+10 cefr: declare <v> (level b2)
+
+20 cefr: decline <n> (level b2)
+
+20 cefr: decline <v> (level b2)
+
+35 cefr: decorate <v> (level b1)
+
+35 cefr: decoration <n> (level b2)
+
+10 cefr: decrease <n> (level b2)
+
+10 cefr: decrease <v> (level b2)
+
+10 cefr: deep <aj> (level a2)
+
+10 cefr: deep <av> (level b1)
+
+10 cefr: deeply <av> (level b2)
+
+20 cefr: defeat <n> (level b2)
+
+20 cefr: defeat <v> (level b2)
+
+80 cefr: defence <n> (level b2)
+
+20 cefr: defend <v> (level b2)
+
+10 cefr: define <v> (level b1)
+
+10 cefr: definite <aj> (level b1)
+
+10 cefr: definitely <av> (level a2)
+
+10 cefr: definition <n> (level b1)
+
+10 cefr: degree <n> (level a2)
+
+10 cefr: delay <n> (level b2)
+
+10 cefr: delay <v> (level b2)
+
+10 cefr: deliberate <aj> (level b2)
+
+10 cefr: deliberately <av> (level b2)
+
+20 cefr: delicious <aj> (level a1)
+
+20 cefr: delight <n> (level b2)
+
+20 cefr: delight <v> (level b2)
+
+20 cefr: delighted <aj> (level b2)
+
+10 cefr: deliver <v> (level b1)
+
+10 cefr: delivery <n> (level b2)
+
+10 cefr: demand <n> (level b2)
+
+10 cefr: demand <v> (level b2)
+
+10 cefr: demonstrate <v> (level b2)
+
+20 cefr: dentist <n> (level a2)
+
+20 cefr: deny <v> (level b2)
+
+10 cefr: department <n> (level a2)
+
+20 cefr: departure <n> (level b1)
+
+10 cefr: depend <v> (level a2)
+
+20 cefr: depressed <aj> (level b2)
+
+20 cefr: depressing <aj> (level b2)
+
+10 cefr: depth <n> (level b2)
+
+10 cefr: describe <v> (level a1)
+
+10 cefr: description <n> (level a1)
+
+20 cefr: desert <n> (level a2)
+
+20 cefr: desert <v> (level b2)
+
+20 cefr: deserve <v> (level b2)
+
+10 cefr: design <n> (level a1)
+
+10 cefr: design <v> (level a1)
+
+20 cefr: designer <n> (level a2)
+
+10 cefr: desire <n> (level b2)
+
+10 cefr: desire <v> (level b2)
+
+10 cefr: desk <n> (level a1)
+
+10 cefr: desperate <aj> (level b2)
+
+10 cefr: despite <pp> (level b1)
+
+20 cefr: destination <n> (level b1)
+
+10 cefr: destroy <v> (level a2)
+
+10 cefr: detail <n> (level a1)
+
+10 cefr: detail <v> (level b2)
+
+10 cefr: detailed <aj> (level b2)
+
+10 cefr: detect <v> (level b2)
+
+20 cefr: detective <n> (level a2)
+
+10 cefr: determine <v> (level b1)
+
+10 cefr: determined <aj> (level b1)
+
+10 cefr: develop <v> (level a2)
+
+10 cefr: development <n> (level b1)
+
+10 cefr: device <n> (level a2)
+
+20 cefr: diagram <n> (level b1)
+
+20 cefr: dialogue <n> (level a1)
+
+35 cefr: diamond <n> (level b1)
+
+20 cefr: diary <n> (level a2)
+
+10 cefr: dictionary <n> (level a1)
+
+10 cefr: die <v> (level a1)
+
+20 cefr: diet <n> (level a1)
+
+10 cefr: difference <n> (level a1)
+
+10 cefr: different <aj> (level a1)
+
+10 cefr: differently <av> (level a2)
+
+10 cefr: difficult <aj> (level a1)
+
+10 cefr: difficulty <n> (level b1)
+
+20 cefr: dig <v> (level b2)
+
+10 cefr: digital <aj> (level a2)
+
+10 cefr: dinner <n> (level a1)
+
+10 cefr: direct <aj> (level a2)
+
+10 cefr: direct <av> (level b1)
+
+10 cefr: direct <v> (level b1)
+
+10 cefr: direction <n> (level a2)
+
+10 cefr: directly <av> (level b1)
+
+10 cefr: director <n> (level a2)
+
+20 cefr: dirt <n> (level b1)
+
+10 cefr: dirty <aj> (level a1)
+
+10 cefr: disadvantage <n> (level b1)
+
+10 cefr: disagree <v> (level a2)
+
+10 cefr: disappear <v> (level a2)
+
+20 cefr: disappointed <aj> (level b1)
+
+20 cefr: disappointing <aj> (level b1)
+
+10 cefr: disaster <n> (level a2)
+
+10 cefr: disc <n> (level b2)
+
+10 cefr: discipline <n> (level b2)
+
+10 cefr: discount <n> (level b1)
+
+10 cefr: discount <v> (level b2)
+
+10 cefr: discover <v> (level a2)
+
+20 cefr: discovery <n> (level a2)
+
+10 cefr: discuss <v> (level a1)
+
+10 cefr: discussion <n> (level a2)
+
+20 cefr: disease <n> (level a2)
+
+20 cefr: dish <n> (level a1)
+
+20 cefr: dishonest <aj> (level b2)
+
+10 cefr: disk <n> (level b2)
+
+10 cefr: dislike <n> (level b1)
+
+10 cefr: dislike <v> (level b1)
+
+20 cefr: dismiss <v> (level b2)
+
+10 cefr: display <n> (level b2)
+
+10 cefr: display <v> (level b2)
+
+10 cefr: distance <n> (level a2)
+
+10 cefr: distribute <v> (level b2)
+
+10 cefr: distribution <n> (level b2)
+
+10 cefr: district <n> (level b2)
+
+10 cefr: divide <n> (level b2)
+
+10 cefr: divide <v> (level b1)
+
+10 cefr: division <n> (level b2)
+
+35 cefr: divorced <aj> (level a2)
+
+10 cefr: do <v> (level a1)
+
+10 cefr: do <v/auxiliary> (level a1)
+
+20 cefr: doctor <n> (level a1)
+
+10 cefr: document <n> (level a2)
+
+10 cefr: document <v> (level b2)
+
+20 cefr: documentary <n> (level b1)
+
+10 cefr: dog <n> (level a1)
+
+10 cefr: dollar <n> (level a1)
+
+20 cefr: domestic <aj> (level b2)
+
+20 cefr: dominate <v> (level b2)
+
+20 cefr: donate <v> (level b1)
+
+10 cefr: door <n> (level a1)
+
+10 cefr: double <aj> (level a2)
+
+10 cefr: double <av> (level b1)
+
+10 cefr: double <d> (level a2)
+
+10 cefr: double <pn> (level a2)
+
+10 cefr: double <v> (level a2)
+
+10 cefr: doubt <n> (level b1)
+
+10 cefr: doubt <v> (level b1)
+
+10 cefr: down <av> (level a1)
+
+10 cefr: down <pp> (level a1)
+
+40 cefr: download <n> (level a2)
+
+40 cefr: download <v> (level a2)
+
+20 cefr: downstairs <aj> (level a2)
+
+20 cefr: downstairs <av> (level a1)
+
+20 cefr: downwards <av> (level b2)
+
+10 cefr: dozen <d> (level b2)
+
+10 cefr: dozen <n> (level b2)
+
+20 cefr: draft <n> (level b2)
+
+20 cefr: draft <v> (level b2)
+
+20 cefr: drag <v> (level b2)
+
+20 cefr: drama <n> (level a2)
+
+20 cefr: dramatic <aj> (level b2)
+
+10 cefr: draw <v> (level a1)
+
+10 cefr: drawing <n> (level a2)
+
+10 cefr: dream <n> (level a2)
+
+10 cefr: dream <v> (level a2)
+
+20 cefr: dress <n> (level a1)
+
+20 cefr: dress <v> (level a1)
+
+20 cefr: dressed <aj> (level b1)
+
+10 cefr: drink <n> (level a1)
+
+10 cefr: drink <v> (level a1)
+
+10 cefr: drive <n> (level a2)
+
+10 cefr: drive <v> (level a1)
+
+10 cefr: driver <n> (level a1)
+
+10 cefr: driving <n> (level a2)
+
+10 cefr: drop <n> (level b1)
+
+10 cefr: drop <v> (level a2)
+
+20 cefr: drug <n> (level a2)
+
+20 cefr: drum <n> (level b1)
+
+20 cefr: drunk <aj> (level b1)
+
+10 cefr: dry <aj> (level a2)
+
+10 cefr: dry <v> (level a2)
+
+10 cefr: due <aj> (level b1)
+
+10 cefr: during <pp> (level a1)
+
+20 cefr: dust <n> (level b1)
+
+10 cefr: duty <n> (level b1)
+
+80 cefr: DVD <n> (level a1)
+
+80 cefr: each <av> (level a1)
+
+80 cefr: each <d> (level a1)
+
+80 cefr: each <pn> (level a1)
+
+20 cefr: ear <n> (level a1)
+
+10 cefr: early <aj> (level a1)
+
+10 cefr: early <av> (level a1)
+
+20 cefr: earn <v> (level a2)
+
+10 cefr: earth <n> (level a2)
+
+35 cefr: earthquake <n> (level b1)
+
+10 cefr: easily <av> (level a2)
+
+10 cefr: east <aj> (level a1)
+
+10 cefr: east <av> (level a1)
+
+10 cefr: east <n> (level a1)
+
+20 cefr: eastern <aj> (level b1)
+
+10 cefr: easy <aj> (level a1)
+
+10 cefr: eat <v> (level a1)
+
+10 cefr: economic <aj> (level b1)
+
+10 cefr: economy <n> (level b1)
+
+10 cefr: edge <n> (level b1)
+
+10 cefr: edit <v> (level b2)
+
+10 cefr: edition <n> (level b2)
+
+10 cefr: editor <n> (level b1)
+
+20 cefr: educate <v> (level b1)
+
+20 cefr: educated <aj> (level b1)
+
+10 cefr: education <n> (level a2)
+
+10 cefr: educational <aj> (level b1)
+
+10 cefr: effect <n> (level a2)
+
+10 cefr: effective <aj> (level b1)
+
+10 cefr: effectively <av> (level b1)
+
+10 cefr: efficient <aj> (level b2)
+
+10 cefr: effort <n> (level b1)
+
+20 cefr: egg <n> (level a1)
+
+10 cefr: eight <n> (level a1)
+
+20 cefr: eighteen <n> (level a1)
+
+35 cefr: eighty <n> (level a1)
+
+10 cefr: either <av> (level a2)
+
+10 cefr: either <d> (level a2)
+
+10 cefr: either <pn> (level a2)
+
+20 cefr: elderly <aj> (level b2)
+
+10 cefr: elect <v> (level b2)
+
+10 cefr: election <n> (level b1)
+
+10 cefr: electric <aj> (level a2)
+
+20 cefr: electrical <aj> (level a2)
+
+20 cefr: electricity <n> (level a2)
+
+10 cefr: electronic <aj> (level a2)
+
+10 cefr: element <n> (level b1)
+
+20 cefr: elephant <n> (level a1)
+
+20 cefr: eleven <n> (level a1)
+
+10 cefr: else <av> (level a1)
+
+10 cefr: elsewhere <av> (level b2)
+
+35 cefr: email <n> (level a1)
+
+35 cefr: email <v> (level a1)
+
+10 cefr: embarrassed <aj> (level b1)
+
+10 cefr: embarrassing <aj> (level b1)
+
+20 cefr: emerge <v> (level b2)
+
+10 cefr: emergency <n> (level b1)
+
+20 cefr: emotion <n> (level b1)
+
+20 cefr: emotional <aj> (level b2)
+
+10 cefr: emphasis <n> (level b2)
+
+20 cefr: emphasize <v> (level b2)
+
+20 cefr: employ <v> (level a2)
+
+10 cefr: employee <n> (level a2)
+
+20 cefr: employer <n> (level a2)
+
+20 cefr: employment <n> (level b1)
+
+10 cefr: empty <aj> (level a2)
+
+10 cefr: empty <v> (level b1)
+
+10 cefr: enable <v> (level b2)
+
+10 cefr: encounter <n> (level b2)
+
+10 cefr: encounter <v> (level b2)
+
+10 cefr: encourage <v> (level b1)
+
+10 cefr: end <n> (level a1)
+
+10 cefr: end <v> (level a1)
+
+10 cefr: ending <n> (level a2)
+
+10 cefr: enemy <n> (level b1)
+
+20 cefr: energy <n> (level a2)
+
+20 cefr: engage <v> (level b2)
+
+20 cefr: engaged <aj> (level b1)
+
+20 cefr: engine <n> (level a2)
+
+10 cefr: engineer <n> (level a2)
+
+10 cefr: engineering <n> (level b1)
+
+20 cefr: enhance <v> (level b2)
+
+10 cefr: enjoy <v> (level a1)
+
+10 cefr: enormous <aj> (level a2)
+
+10 cefr: enough <av> (level a1)
+
+10 cefr: enough <d> (level a1)
+
+10 cefr: enough <pn> (level a1)
+
+20 cefr: enquiry <n> (level b2)
+
+10 cefr: ensure <v> (level b2)
+
+10 cefr: enter <v> (level a2)
+
+20 cefr: entertain <v> (level b1)
+
+20 cefr: entertainment <n> (level b1)
+
+20 cefr: enthusiasm <n> (level b2)
+
+20 cefr: enthusiastic <aj> (level b2)
+
+10 cefr: entire <aj> (level b2)
+
+10 cefr: entirely <av> (level b2)
+
+10 cefr: entrance <n> (level b1)
+
+10 cefr: entry <n> (level b1)
+
+10 cefr: environment <n> (level a2)
+
+10 cefr: environmental <aj> (level b1)
+
+20 cefr: episode <n> (level b1)
+
+10 cefr: equal <aj> (level b1)
+
+10 cefr: equal <n> (level b2)
+
+10 cefr: equal <v> (level b1)
+
+10 cefr: equally <av> (level b1)
+
+10 cefr: equipment <n> (level a2)
+
+10 cefr: error <n> (level a2)
+
+10 cefr: escape <n> (level b1)
+
+10 cefr: escape <v> (level b1)
+
+10 cefr: especially <av> (level a2)
+
+20 cefr: essay <n> (level a2)
+
+10 cefr: essential <aj> (level b1)
+
+10 cefr: establish <v> (level b2)
+
+20 cefr: estate <n> (level b2)
+
+10 cefr: estimate <n> (level b2)
+
+10 cefr: estimate <v> (level b2)
+
+20 cefr: ethical <aj> (level b2)
+
+50 cefr: euro <n> (level a1)
+
+20 cefr: evaluate <v> (level b2)
+
+10 cefr: even <aj> (level b2)
+
+10 cefr: even <av> (level a1)
+
+10 cefr: evening <n> (level a1)
+
+10 cefr: event <n> (level a1)
+
+10 cefr: eventually <av> (level b1)
+
+10 cefr: ever <av> (level a1)
+
+10 cefr: every <d> (level a1)
+
+10 cefr: everybody <pn> (level a1)
+
+20 cefr: everyday <aj> (level a2)
+
+10 cefr: everyone <pn> (level a1)
+
+10 cefr: everything <pn> (level a1)
+
+10 cefr: everywhere <av> (level a2)
+
+10 cefr: evidence <n> (level a2)
+
+20 cefr: evil <aj> (level b2)
+
+20 cefr: evil <n> (level b2)
+
+10 cefr: exact <aj> (level a2)
+
+10 cefr: exactly <av> (level a2)
+
+20 cefr: exam <n> (level a1)
+
+20 cefr: examination <n> (level b2)
+
+10 cefr: examine <v> (level b1)
+
+10 cefr: example <n> (level a1)
+
+10 cefr: excellent <aj> (level a2)
+
+10 cefr: except <c> (level b1)
+
+10 cefr: except <pp> (level a2)
+
+10 cefr: exchange <n> (level b1)
+
+10 cefr: exchange <v> (level b1)
+
+20 cefr: excited <aj> (level a1)
+
+20 cefr: excitement <n> (level b1)
+
+20 cefr: exciting <aj> (level a1)
+
+10 cefr: excuse <n> (level b2)
+
+10 cefr: excuse <v> (level b2)
+
+20 cefr: executive <aj> (level b2)
+
+20 cefr: executive <n> (level b2)
+
+10 cefr: exercise <n> (level a1)
+
+10 cefr: exercise <v> (level a1)
+
+20 cefr: exhibition <n> (level b1)
+
+10 cefr: exist <v> (level a2)
+
+10 cefr: existence <n> (level b2)
+
+10 cefr: expand <v> (level b1)
+
+10 cefr: expect <v> (level a2)
+
+20 cefr: expectation <n> (level b2)
+
+10 cefr: expected <aj> (level b1)
+
+20 cefr: expedition <n> (level b1)
+
+10 cefr: expense <n> (level b2)
+
+10 cefr: expensive <aj> (level a1)
+
+10 cefr: experience <n> (level a2)
+
+10 cefr: experience <v> (level b1)
+
+10 cefr: experienced <aj> (level b1)
+
+10 cefr: experiment <n> (level a2)
+
+10 cefr: experiment <v> (level b1)
+
+10 cefr: expert <aj> (level a2)
+
+10 cefr: expert <n> (level a2)
+
+10 cefr: explain <v> (level a1)
+
+10 cefr: explanation <n> (level a2)
+
+20 cefr: explode <v> (level b1)
+
+20 cefr: exploration <n> (level b2)
+
+20 cefr: explore <v> (level b1)
+
+20 cefr: explosion <n> (level b1)
+
+20 cefr: export <n> (level b1)
+
+20 cefr: export <v> (level b1)
+
+20 cefr: expose <v> (level b2)
+
+10 cefr: express <v> (level a2)
+
+10 cefr: expression <n> (level a2)
+
+10 cefr: extend <v> (level b2)
+
+10 cefr: extent <n> (level b2)
+
+10 cefr: external <aj> (level b2)
+
+10 cefr: extra <aj> (level a1)
+
+10 cefr: extra <av> (level b1)
+
+10 cefr: extra <n> (level b1)
+
+70 cefr: extraordinary <aj> (level b2)
+
+10 cefr: extreme <aj> (level a2)
+
+10 cefr: extreme <n> (level b2)
+
+10 cefr: extremely <av> (level a2)
+
+10 cefr: eye <n> (level a1)
+
+10 cefr: face <n> (level a1)
+
+10 cefr: face <v> (level b1)
+
+10 cefr: facility <n> (level b2)
+
+10 cefr: fact <n> (level a1)
+
+10 cefr: factor <n> (level a2)
+
+20 cefr: factory <n> (level a2)
+
+10 cefr: fail <v> (level a2)
+
+10 cefr: failure <n> (level b2)
+
+10 cefr: fair <aj> (level a2)
+
+10 cefr: fairly <av> (level b1)
+
+10 cefr: faith <n> (level b2)
+
+10 cefr: fall <n> (level a2)
+
+10 cefr: fall <v> (level a1)
+
+10 cefr: false <aj> (level a1)
+
+10 cefr: familiar <aj> (level b1)
+
+10 cefr: family <aj> (level a1)
+
+10 cefr: family <n> (level a1)
+
+10 cefr: famous <aj> (level a1)
+
+10 cefr: fan <n> (level a2)
+
+10 cefr: fancy <aj> (level b1)
+
+10 cefr: fancy <v> (level b1)
+
+20 cefr: fantastic <aj> (level a1)
+
+10 cefr: far <aj> (level b1)
+
+10 cefr: far <av> (level a1)
+
+10 cefr: farm <n> (level a1)
+
+10 cefr: farm <v> (level a2)
+
+20 cefr: farmer <n> (level a1)
+
+35 cefr: farming <n> (level a2)
+
+20 cefr: fascinating <aj> (level b1)
+
+10 cefr: fashion <n> (level a2)
+
+20 cefr: fashionable <aj> (level b1)
+
+10 cefr: fast <aj> (level a1)
+
+10 cefr: fast <av> (level a1)
+
+35 cefr: fasten <v> (level b1)
+
+20 cefr: fat <aj> (level a1)
+
+20 cefr: fat <n> (level a2)
+
+10 cefr: father <n> (level a1)
+
+10 cefr: fault <n> (level b2)
+
+80 cefr: favour <n> (level b1)
+
+80 cefr: favour <v> (level b2)
+
+80 cefr: favourite <aj> (level a1)
+
+80 cefr: favourite <n> (level a1)
+
+10 cefr: fear <n> (level a2)
+
+10 cefr: fear <v> (level b1)
+
+35 cefr: feather <n> (level b2)
+
+10 cefr: feature <n> (level a2)
+
+10 cefr: feature <v> (level b1)
+
+70 cefr: February <n> (level a1)
+
+20 cefr: fee <n> (level b2)
+
+10 cefr: feed <n> (level b2)
+
+10 cefr: feed <v> (level a2)
+
+10 cefr: feedback <n> (level b2)
+
+10 cefr: feel <n> (level b2)
+
+10 cefr: feel <v> (level a1)
+
+10 cefr: feeling <n> (level a1)
+
+20 cefr: fellow <aj> (level b2)
+
+20 cefr: female <aj> (level a2)
+
+20 cefr: female <n> (level a2)
+
+20 cefr: fence <n> (level b1)
+
+20 cefr: festival <n> (level a1)
+
+10 cefr: few <aj> (level a1)
+
+10 cefr: few <d> (level a1)
+
+10 cefr: few <pn> (level a1)
+
+20 cefr: fiction <n> (level a2)
+
+10 cefr: field <n> (level a2)
+
+20 cefr: fifteen <n> (level a1)
+
+20 cefr: fifth <n/ordinal> (level a1)
+
+20 cefr: fifty <n> (level a1)
+
+10 cefr: fight <n> (level a2)
+
+10 cefr: fight <v> (level a2)
+
+20 cefr: fighting <n> (level b1)
+
+10 cefr: figure <n> (level a2)
+
+10 cefr: figure <v> (level b2)
+
+10 cefr: file <n> (level b1)
+
+10 cefr: file <v> (level b2)
+
+10 cefr: fill <v> (level a1)
+
+10 cefr: film <n> (level a1)
+
+10 cefr: film <v> (level a2)
+
+10 cefr: final <aj> (level a1)
+
+10 cefr: final <n> (level a2)
+
+10 cefr: finally <av> (level a2)
+
+20 cefr: finance <n> (level b2)
+
+20 cefr: finance <v> (level b2)
+
+10 cefr: financial <aj> (level b1)
+
+10 cefr: find <v> (level a1)
+
+10 cefr: finding <n> (level b2)
+
+10 cefr: fine <aj> (level a1)
+
+10 cefr: finger <n> (level a2)
+
+10 cefr: finish <n> (level a2)
+
+10 cefr: finish <v> (level a1)
+
+10 cefr: fire <n> (level a1)
+
+10 cefr: fire <v> (level b1)
+
+10 cefr: first <av> (level a1)
+
+10 cefr: first <d> (level a1)
+
+10 cefr: first <n> (level a2)
+
+10 cefr: first <n/ordinal> (level a1)
+
+10 cefr: firstly <av> (level a2)
+
+10 cefr: fish <n> (level a1)
+
+10 cefr: fish <v> (level a2)
+
+20 cefr: fishing <n> (level a2)
+
+10 cefr: fit <aj> (level a2)
+
+10 cefr: fit <v> (level a2)
+
+35 cefr: fitness <n> (level b1)
+
+10 cefr: five <n> (level a1)
+
+10 cefr: fix <n> (level b2)
+
+10 cefr: fix <v> (level a2)
+
+10 cefr: fixed <aj> (level b1)
+
+10 cefr: flag <n> (level b1)
+
+20 cefr: flame <n> (level b2)
+
+10 cefr: flash <n> (level b2)
+
+10 cefr: flash <v> (level b2)
+
+10 cefr: flat <aj> (level a2)
+
+10 cefr: flat <n> (level a1)
+
+10 cefr: flexible <aj> (level b2)
+
+10 cefr: flight <n> (level a1)
+
+10 cefr: float <v> (level b2)
+
+20 cefr: flood <n> (level b1)
+
+20 cefr: flood <v> (level b1)
+
+10 cefr: floor <n> (level a1)
+
+20 cefr: flour <n> (level b1)
+
+10 cefr: flow <n> (level b1)
+
+10 cefr: flow <v> (level b1)
+
+20 cefr: flower <n> (level a1)
+
+35 cefr: flu <n> (level a2)
+
+10 cefr: fly <n> (level a2)
+
+10 cefr: fly <v> (level a1)
+
+10 cefr: flying <aj> (level a2)
+
+10 cefr: flying <n> (level a2)
+
+20 cefr: focus <n> (level a2)
+
+20 cefr: focus <v> (level a2)
+
+20 cefr: fold <n> (level b2)
+
+20 cefr: fold <v> (level b1)
+
+20 cefr: folding <aj> (level b2)
+
+10 cefr: folk <aj> (level b1)
+
+10 cefr: folk <n> (level b1)
+
+10 cefr: follow <v> (level a1)
+
+10 cefr: following <aj> (level a2)
+
+10 cefr: following <n> (level b1)
+
+10 cefr: following <pp> (level b2)
+
+10 cefr: food <n> (level a1)
+
+10 cefr: foot <n> (level a1)
+
+20 cefr: football <n> (level a1)
+
+10 cefr: for <pp> (level a1)
+
+10 cefr: force <n> (level b1)
+
+10 cefr: force <v> (level b1)
+
+10 cefr: foreign <aj> (level a2)
+
+20 cefr: forest <n> (level a2)
+
+10 cefr: forever <av> (level b1)
+
+10 cefr: forget <v> (level a1)
+
+20 cefr: forgive <v> (level b2)
+
+20 cefr: fork <n> (level a2)
+
+10 cefr: form <n> (level a1)
+
+10 cefr: form <v> (level a1)
+
+10 cefr: formal <aj> (level a2)
+
+10 cefr: former <aj> (level b2)
+
+10 cefr: fortunately <av> (level a2)
+
+10 cefr: fortune <n> (level b2)
+
+20 cefr: forty <n> (level a1)
+
+10 cefr: forward <aj> (level b2)
+
+10 cefr: forward <av> (level a2)
+
+10 cefr: found <v> (level b2)
+
+10 cefr: four <n> (level a1)
+
+20 cefr: fourteen <n> (level a1)
+
+10 cefr: fourth <n/ordinal> (level a1)
+
+10 cefr: frame <n> (level b1)
+
+10 cefr: frame <v> (level b1)
+
+10 cefr: free <aj> (level a1)
+
+10 cefr: free <av> (level a2)
+
+10 cefr: free <v> (level b2)
+
+10 cefr: freedom <n> (level b2)
+
+20 cefr: freeze <v> (level b1)
+
+20 cefr: frequency <n> (level b2)
+
+10 cefr: frequently <av> (level b1)
+
+10 cefr: fresh <aj> (level a2)
+
+55 cefr: Friday <n> (level a1)
+
+40 cefr: fridge <n> (level a2)
+
+10 cefr: friend <n> (level a1)
+
+10 cefr: friendly <aj> (level a1)
+
+20 cefr: friendship <n> (level b1)
+
+20 cefr: frighten <v> (level b1)
+
+20 cefr: frightened <aj> (level b1)
+
+20 cefr: frightening <aj> (level b1)
+
+20 cefr: frog <n> (level a2)
+
+10 cefr: from <pp> (level a1)
+
+10 cefr: front <aj> (level a1)
+
+10 cefr: front <n> (level a1)
+
+20 cefr: frozen <aj> (level b1)
+
+20 cefr: fruit <n> (level a1)
+
+10 cefr: fry <v> (level b1)
+
+20 cefr: fuel <n> (level b1)
+
+20 cefr: fuel <v> (level b2)
+
+10 cefr: full <aj> (level a1)
+
+10 cefr: fully <av> (level b2)
+
+10 cefr: fun <aj> (level a2)
+
+10 cefr: fun <n> (level a1)
+
+10 cefr: function <n> (level b1)
+
+10 cefr: function <v> (level b2)
+
+10 cefr: fund <n> (level b2)
+
+10 cefr: fund <v> (level b2)
+
+10 cefr: fundamental <aj> (level b2)
+
+20 cefr: funding <n> (level b2)
+
+10 cefr: funny <aj> (level a1)
+
+20 cefr: fur <n> (level b1)
+
+20 cefr: furniture <n> (level a2)
+
+10 cefr: further <aj> (level a2)
+
+10 cefr: further <av> (level b1)
+
+20 cefr: furthermore <av> (level b2)
+
+10 cefr: future <aj> (level a2)
+
+10 cefr: future <n> (level a1)
+
+10 cefr: gain <n> (level b2)
+
+10 cefr: gain <v> (level b2)
+
+35 cefr: gallery <n> (level a2)
+
+10 cefr: game <n> (level a1)
+
+20 cefr: gang <n> (level b2)
+
+10 cefr: gap <n> (level a2)
+
+20 cefr: garage <n> (level b1)
+
+10 cefr: garden <n> (level a1)
+
+10 cefr: gas <n> (level a2)
+
+20 cefr: gate <n> (level a2)
+
+10 cefr: gather <v> (level b1)
+
+10 cefr: general <aj> (level a2)
+
+10 cefr: generally <av> (level b1)
+
+10 cefr: generate <v> (level b2)
+
+10 cefr: generation <n> (level b1)
+
+20 cefr: generous <aj> (level b1)
+
+20 cefr: genre <n> (level b2)
+
+20 cefr: gentle <aj> (level b1)
+
+20 cefr: gentleman <n> (level b1)
+
+20 cefr: geography <n> (level a1)
+
+10 cefr: get <v> (level a1)
+
+20 cefr: ghost <n> (level b1)
+
+20 cefr: giant <aj> (level b1)
+
+20 cefr: giant <n> (level b1)
+
+20 cefr: gift <n> (level a2)
+
+10 cefr: girl <n> (level a1)
+
+20 cefr: girlfriend <n> (level a1)
+
+10 cefr: give <v> (level a1)
+
+10 cefr: glad <aj> (level b1)
+
+10 cefr: glass <n> (level a1)
+
+10 cefr: global <aj> (level b1)
+
+20 cefr: glove <n> (level b1)
+
+10 cefr: go <n> (level b1)
+
+10 cefr: go <v> (level a1)
+
+20 cefr: goal <n> (level a2)
+
+20 cefr: god <n> (level a2)
+
+20 cefr: gold <aj> (level a2)
+
+20 cefr: gold <n> (level a2)
+
+20 cefr: golf <n> (level a2)
+
+10 cefr: good <aj> (level a1)
+
+10 cefr: good <n> (level a2)
+
+20 cefr: goodbye <i> (level a1)
+
+20 cefr: goodbye <n> (level a1)
+
+10 cefr: goods <n> (level b1)
+
+20 cefr: govern <v> (level b2)
+
+10 cefr: government <n> (level a2)
+
+20 cefr: grab <v> (level b2)
+
+20 cefr: grade <n> (level b1)
+
+20 cefr: grade <v> (level b2)
+
+10 cefr: gradually <av> (level b2)
+
+10 cefr: graduate <n> (level b1)
+
+10 cefr: graduate <v> (level b1)
+
+20 cefr: grain <n> (level b1)
+
+10 cefr: grand <aj> (level b2)
+
+20 cefr: grandfather <n> (level a1)
+
+20 cefr: grandmother <n> (level a1)
+
+35 cefr: grandparent <n> (level a1)
+
+10 cefr: grant <n> (level b2)
+
+10 cefr: grant <v> (level b2)
+
+20 cefr: grass <n> (level a2)
+
+10 cefr: grateful <aj> (level b1)
+
+10 cefr: great <aj> (level a1)
+
+10 cefr: green <aj> (level a1)
+
+10 cefr: green <n> (level a1)
+
+35 cefr: greet <v> (level a2)
+
+10 cefr: grey <aj> (level a1)
+
+10 cefr: grey <n> (level a1)
+
+10 cefr: ground <n> (level a2)
+
+10 cefr: group <n> (level a1)
+
+10 cefr: grow <v> (level a1)
+
+10 cefr: growth <n> (level b1)
+
+10 cefr: guarantee <n> (level b2)
+
+10 cefr: guarantee <v> (level b2)
+
+10 cefr: guard <n> (level b1)
+
+10 cefr: guard <v> (level b1)
+
+10 cefr: guess <n> (level a1)
+
+10 cefr: guess <v> (level a1)
+
+20 cefr: guest <n> (level a2)
+
+10 cefr: guide <n> (level a2)
+
+10 cefr: guide <v> (level a2)
+
+20 cefr: guilty <aj> (level b1)
+
+20 cefr: guitar <n> (level a1)
+
+10 cefr: gun <n> (level a2)
+
+10 cefr: guy <n> (level a2)
+
+35 cefr: gym <n> (level a1)
+
+10 cefr: habit <n> (level a2)
+
+10 cefr: hair <n> (level a1)
+
+10 cefr: half <av> (level a2)
+
+10 cefr: half <d> (level a1)
+
+10 cefr: half <n> (level a1)
+
+10 cefr: half <pn> (level a1)
+
+10 cefr: hall <n> (level a2)
+
+10 cefr: hand <n> (level a1)
+
+10 cefr: hand <v> (level b1)
+
+10 cefr: handle <n> (level b2)
+
+10 cefr: handle <v> (level b2)
+
+10 cefr: hang <v> (level b1)
+
+10 cefr: happen <v> (level a1)
+
+10 cefr: happily <av> (level a2)
+
+20 cefr: happiness <n> (level b1)
+
+10 cefr: happy <aj> (level a1)
+
+10 cefr: hard <aj> (level a1)
+
+10 cefr: hard <av> (level a1)
+
+10 cefr: hardly <av> (level b1)
+
+10 cefr: harm <n> (level b2)
+
+10 cefr: harm <v> (level b2)
+
+10 cefr: harmful <aj> (level b2)
+
+10 cefr: hat <n> (level a1)
+
+10 cefr: hate <n> (level b1)
+
+10 cefr: hate <v> (level a1)
+
+10 cefr: have <v> (level a1)
+
+10 cefr: have <v/auxiliary> (level a2)
+
+10 cefr: have to <v/modal> (level a1)
+
+10 cefr: he <pn> (level a1)
+
+10 cefr: head <n> (level a1)
+
+10 cefr: head <v> (level b1)
+
+20 cefr: headache <n> (level a2)
+
+20 cefr: headline <n> (level b1)
+
+10 cefr: health <n> (level a1)
+
+10 cefr: healthy <aj> (level a1)
+
+10 cefr: hear <v> (level a1)
+
+10 cefr: hearing <n> (level b2)
+
+10 cefr: heart <n> (level a2)
+
+10 cefr: heat <n> (level a2)
+
+10 cefr: heat <v> (level a2)
+
+20 cefr: heating <n> (level b1)
+
+20 cefr: heaven <n> (level b2)
+
+10 cefr: heavily <av> (level b1)
+
+10 cefr: heavy <aj> (level a2)
+
+20 cefr: heel <n> (level b2)
+
+20 cefr: height <n> (level a2)
+
+20 cefr: helicopter <n> (level b1)
+
+10 cefr: hell <n> (level b2)
+
+10 cefr: hello <i> (level a1)
+
+10 cefr: hello <n> (level a1)
+
+10 cefr: help <n> (level a1)
+
+10 cefr: help <v> (level a1)
+
+10 cefr: helpful <aj> (level a2)
+
+10 cefr: her <d> (level a1)
+
+10 cefr: her <pn> (level a1)
+
+10 cefr: here <av> (level a1)
+
+20 cefr: hero <n> (level a2)
+
+35 cefr: hers <pn> (level a2)
+
+10 cefr: herself <pn> (level a2)
+
+20 cefr: hesitate <v> (level b2)
+
+20 cefr: hey <i> (level a1)
+
+35 cefr: hi <i> (level a1)
+
+10 cefr: hide <v> (level a2)
+
+10 cefr: high <aj> (level a1)
+
+10 cefr: high <av> (level a2)
+
+10 cefr: high <n> (level b2)
+
+20 cefr: highlight <n> (level b1)
+
+20 cefr: highlight <v> (level b1)
+
+10 cefr: highly <av> (level b1)
+
+10 cefr: hill <n> (level a2)
+
+10 cefr: him <pn> (level a1)
+
+10 cefr: himself <pn> (level a2)
+
+20 cefr: hire <n> (level b2)
+
+20 cefr: hire <v> (level b1)
+
+10 cefr: his <d> (level a1)
+
+10 cefr: his <pn> (level a2)
+
+20 cefr: historic <aj> (level b1)
+
+10 cefr: historical <aj> (level b1)
+
+10 cefr: history <n> (level a1)
+
+10 cefr: hit <n> (level a2)
+
+10 cefr: hit <v> (level a2)
+
+20 cefr: hobby <n> (level a1)
+
+35 cefr: hockey <n> (level a2)
+
+10 cefr: hold <n> (level b2)
+
+10 cefr: hold <v> (level a2)
+
+10 cefr: hole <n> (level a2)
+
+10 cefr: holiday <n> (level a1)
+
+20 cefr: hollow <aj> (level b2)
+
+20 cefr: holy <aj> (level b2)
+
+10 cefr: home <aj> (level a2)
+
+10 cefr: home <av> (level a1)
+
+10 cefr: home <n> (level a1)
+
+35 cefr: homework <n> (level a1)
+
+10 cefr: honest <aj> (level b1)
+
+20 cefr: honour <n> (level b2)
+
+20 cefr: honour <v> (level b2)
+
+10 cefr: hope <n> (level a2)
+
+10 cefr: hope <v> (level a1)
+
+10 cefr: horrible <aj> (level b1)
+
+20 cefr: horror <n> (level b1)
+
+10 cefr: horse <n> (level a1)
+
+10 cefr: hospital <n> (level a1)
+
+10 cefr: host <n> (level b1)
+
+10 cefr: host <v> (level b2)
+
+10 cefr: hot <aj> (level a1)
+
+10 cefr: hotel <n> (level a1)
+
+10 cefr: hour <n> (level a1)
+
+10 cefr: house <n> (level a1)
+
+10 cefr: house <v> (level b2)
+
+20 cefr: household <n> (level b2)
+
+20 cefr: housing <n> (level b2)
+
+10 cefr: how <av> (level a1)
+
+10 cefr: however <av> (level a1)
+
+10 cefr: huge <aj> (level a2)
+
+10 cefr: human <aj> (level a2)
+
+10 cefr: human <n> (level a2)
+
+20 cefr: humorous <aj> (level b2)
+
+80 cefr: humour <n> (level b2)
+
+10 cefr: hundred <n> (level a1)
+
+20 cefr: hungry <aj> (level a1)
+
+10 cefr: hunt <n> (level b2)
+
+10 cefr: hunt <v> (level b1)
+
+20 cefr: hunting <n> (level b2)
+
+35 cefr: hurricane <n> (level b1)
+
+10 cefr: hurry <n> (level b1)
+
+10 cefr: hurry <v> (level b1)
+
+20 cefr: hurt <aj> (level a2)
+
+20 cefr: hurt <n> (level b2)
+
+20 cefr: hurt <v> (level a2)
+
+10 cefr: husband <n> (level a1)
+
+80 cefr: i <pn> (level a1)
+
+10 cefr: ice <n> (level a1)
+
+10 cefr: ice cream <n> (level a1)
+
+10 cefr: idea <n> (level a1)
+
+10 cefr: ideal <aj> (level a2)
+
+10 cefr: ideal <n> (level b2)
+
+10 cefr: identify <v> (level a2)
+
+10 cefr: identity <n> (level b1)
+
+10 cefr: if <c> (level a1)
+
+10 cefr: ignore <v> (level b1)
+
+10 cefr: ill <aj> (level a2)
+
+10 cefr: illegal <aj> (level b1)
+
+20 cefr: illness <n> (level a2)
+
+20 cefr: illustrate <v> (level b2)
+
+20 cefr: illustration <n> (level b2)
+
+10 cefr: image <n> (level a2)
+
+20 cefr: imaginary <aj> (level b1)
+
+10 cefr: imagination <n> (level b2)
+
+10 cefr: imagine <v> (level a1)
+
+10 cefr: immediate <aj> (level b1)
+
+10 cefr: immediately <av> (level a2)
+
+35 cefr: immigrant <n> (level b1)
+
+10 cefr: impact <n> (level b1)
+
+10 cefr: impact <v> (level b1)
+
+35 cefr: impatient <aj> (level b2)
+
+10 cefr: imply <v> (level b2)
+
+20 cefr: import <n> (level b1)
+
+20 cefr: import <v> (level b1)
+
+10 cefr: importance <n> (level b1)
+
+10 cefr: important <aj> (level a1)
+
+10 cefr: impose <v> (level b2)
+
+10 cefr: impossible <aj> (level a2)
+
+20 cefr: impress <v> (level b2)
+
+20 cefr: impressed <aj> (level b2)
+
+10 cefr: impression <n> (level b1)
+
+20 cefr: impressive <aj> (level b1)
+
+10 cefr: improve <v> (level a1)
+
+10 cefr: improvement <n> (level b1)
+
+10 cefr: in <av> (level a1)
+
+10 cefr: in <pp> (level a1)
+
+10 cefr: inch <n> (level b2)
+
+10 cefr: incident <n> (level b2)
+
+10 cefr: include <v> (level a1)
+
+10 cefr: included <aj> (level a2)
+
+10 cefr: including <pp> (level a2)
+
+10 cefr: income <n> (level b2)
+
+10 cefr: increase <n> (level a2)
+
+10 cefr: increase <v> (level a2)
+
+20 cefr: increasingly <av> (level b2)
+
+20 cefr: incredible <aj> (level a2)
+
+20 cefr: incredibly <av> (level b1)
+
+10 cefr: indeed <av> (level b1)
+
+10 cefr: independent <aj> (level a2)
+
+10 cefr: indicate <v> (level b1)
+
+20 cefr: indirect <aj> (level b1)
+
+10 cefr: individual <aj> (level a2)
+
+10 cefr: individual <n> (level a2)
+
+35 cefr: indoor <aj> (level b1)
+
+35 cefr: indoors <av> (level b1)
+
+10 cefr: industrial <aj> (level b2)
+
+10 cefr: industry <n> (level a2)
+
+20 cefr: infection <n> (level b2)
+
+10 cefr: influence <n> (level b1)
+
+10 cefr: influence <v> (level b1)
+
+10 cefr: inform <v> (level b2)
+
+20 cefr: informal <aj> (level a2)
+
+10 cefr: information <n> (level a1)
+
+20 cefr: ingredient <n> (level b1)
+
+10 cefr: initial <aj> (level b2)
+
+10 cefr: initially <av> (level b2)
+
+20 cefr: initiative <n> (level b2)
+
+20 cefr: injure <v> (level b1)
+
+20 cefr: injured <aj> (level b1)
+
+20 cefr: injury <n> (level a2)
+
+10 cefr: inner <aj> (level b2)
+
+10 cefr: innocent <aj> (level b1)
+
+20 cefr: inquiry <n> (level b2)
+
+20 cefr: insect <n> (level a2)
+
+10 cefr: inside <aj> (level a2)
+
+10 cefr: inside <av> (level a2)
+
+10 cefr: inside <n> (level a2)
+
+10 cefr: inside <pp> (level a2)
+
+20 cefr: insight <n> (level b2)
+
+10 cefr: insist <v> (level b2)
+
+20 cefr: inspire <v> (level b2)
+
+10 cefr: install <v> (level b2)
+
+10 cefr: instance <n> (level b2)
+
+10 cefr: instead <av> (level a2)
+
+20 cefr: institute <n> (level b2)
+
+10 cefr: institution <n> (level b2)
+
+10 cefr: instruction <n> (level a2)
+
+35 cefr: instructor <n> (level a2)
+
+20 cefr: instrument <n> (level a2)
+
+10 cefr: insurance <n> (level b2)
+
+10 cefr: intelligence <n> (level b1)
+
+10 cefr: intelligent <aj> (level a2)
+
+10 cefr: intend <v> (level b1)
+
+10 cefr: intended <aj> (level b2)
+
+20 cefr: intense <aj> (level b2)
+
+10 cefr: intention <n> (level b1)
+
+10 cefr: interest <n> (level a1)
+
+10 cefr: interest <v> (level a1)
+
+10 cefr: interested <aj> (level a1)
+
+10 cefr: interesting <aj> (level a1)
+
+10 cefr: internal <aj> (level b2)
+
+70 cefr: international <aj> (level a2)
+
+35 cefr: internet <n> (level a1)
+
+10 cefr: interpret <v> (level b2)
+
+20 cefr: interrupt <v> (level b2)
+
+20 cefr: interview <n> (level a1)
+
+20 cefr: interview <v> (level a1)
+
+10 cefr: into <pp> (level a1)
+
+10 cefr: introduce <v> (level a1)
+
+10 cefr: introduction <n> (level a2)
+
+10 cefr: invent <v> (level a2)
+
+20 cefr: invention <n> (level a2)
+
+20 cefr: invest <v> (level b1)
+
+10 cefr: investigate <v> (level b1)
+
+20 cefr: investigation <n> (level b2)
+
+20 cefr: investment <n> (level b2)
+
+10 cefr: invitation <n> (level a2)
+
+10 cefr: invite <v> (level a2)
+
+10 cefr: involve <v> (level a2)
+
+10 cefr: involved <aj> (level b1)
+
+20 cefr: iron <n> (level b1)
+
+20 cefr: iron <v> (level b1)
+
+20 cefr: island <n> (level a1)
+
+10 cefr: issue <n> (level b1)
+
+10 cefr: issue <v> (level b2)
+
+10 cefr: IT <abbr> (level b1)
+
+10 cefr: it <pn> (level a1)
+
+10 cefr: item <n> (level a2)
+
+10 cefr: its <d> (level a1)
+
+10 cefr: itself <pn> (level a2)
+
+20 cefr: jacket <n> (level a1)
+
+20 cefr: jam <n> (level a2)
+
+80 cefr: January <n> (level a1)
+
+20 cefr: jazz <n> (level a2)
+
+20 cefr: jeans <n> (level a1)
+
+35 cefr: jewellery <n> (level a2)
+
+10 cefr: job <n> (level a1)
+
+10 cefr: join <v> (level a1)
+
+10 cefr: joke <n> (level a2)
+
+10 cefr: joke <v> (level a2)
+
+20 cefr: journal <n> (level b1)
+
+20 cefr: journalist <n> (level a2)
+
+20 cefr: journey <n> (level a1)
+
+10 cefr: joy <n> (level b2)
+
+10 cefr: judge <n> (level b1)
+
+10 cefr: judge <v> (level b1)
+
+10 cefr: judgement <n> (level b2)
+
+20 cefr: juice <n> (level a1)
+
+80 cefr: July <n> (level a1)
+
+10 cefr: jump <n> (level a2)
+
+10 cefr: jump <v> (level a2)
+
+80 cefr: June <n> (level a1)
+
+20 cefr: junior <aj> (level b2)
+
+10 cefr: just <av> (level a1)
+
+20 cefr: justice <n> (level b2)
+
+10 cefr: justify <v> (level b2)
+
+10 cefr: keen <aj> (level b1)
+
+10 cefr: keep <v> (level a1)
+
+10 cefr: key <aj> (level a1)
+
+10 cefr: key <n> (level a1)
+
+10 cefr: key <v> (level b1)
+
+10 cefr: keyboard <n> (level b1)
+
+20 cefr: kick <n> (level b1)
+
+20 cefr: kick <v> (level b1)
+
+10 cefr: kid <n> (level a2)
+
+10 cefr: kill <v> (level a2)
+
+10 cefr: killing <n> (level b1)
+
+35 cefr: kilometre <n> (level a1)
+
+10 cefr: kind <aj> {caring} (level b1)
+
+10 cefr: kind <n> {type} (level a1)
+
+10 cefr: king <n> (level a2)
+
+20 cefr: kiss <n> (level b1)
+
+20 cefr: kiss <v> (level b1)
+
+20 cefr: kitchen <n> (level a1)
+
+20 cefr: knee <n> (level a2)
+
+20 cefr: knife <n> (level a2)
+
+10 cefr: knock <n> (level b1)
+
+10 cefr: knock <v> (level a2)
+
+10 cefr: know <v> (level a1)
+
+10 cefr: knowledge <n> (level a2)
+
+20 cefr: lab <n> (level a2)
+
+10 cefr: label <n> (level b1)
+
+10 cefr: label <v> (level b1)
+
+10 cefr: laboratory <n> (level b1)
+
+80 cefr: labour <n> (level b2)
+
+10 cefr: lack <n> (level b1)
+
+10 cefr: lack <v> (level b1)
+
+10 cefr: lady <n> (level a2)
+
+20 cefr: lake <n> (level a2)
+
+20 cefr: lamp <n> (level a2)
+
+10 cefr: land <n> (level a1)
+
+10 cefr: land <v> (level a2)
+
+20 cefr: landscape <n> (level b2)
+
+10 cefr: language <n> (level a1)
+
+40 cefr: laptop <n> (level a2)
+
+10 cefr: large <aj> (level a1)
+
+10 cefr: largely <av> (level b2)
+
+10 cefr: last <av> (level a2)
+
+10 cefr: last <d> {final} (level a1)
+
+10 cefr: last <n> {final} (level a2)
+
+10 cefr: last <v> {taking time} (level a2)
+
+10 cefr: late <aj> (level a1)
+
+10 cefr: late <av> (level a1)
+
+10 cefr: later <aj> (level a2)
+
+10 cefr: later <av> (level a1)
+
+10 cefr: latest <aj> (level b1)
+
+10 cefr: latest <n> (level b2)
+
+20 cefr: laugh <n> (level a1)
+
+20 cefr: laugh <v> (level a1)
+
+20 cefr: laughter <n> (level a2)
+
+20 cefr: launch <n> (level b2)
+
+20 cefr: launch <v> (level b2)
+
+10 cefr: law <n> (level a2)
+
+20 cefr: lawyer <n> (level a2)
+
+10 cefr: lay <v> (level b1)
+
+20 cefr: layer <n> (level b1)
+
+10 cefr: lazy <aj> (level a2)
+
+10 cefr: lead <n> (level b1)
+
+10 cefr: lead <v> (level a2)
+
+10 cefr: leader <n> (level a2)
+
+20 cefr: leadership <n> (level b2)
+
+10 cefr: leading <aj> (level b1)
+
+10 cefr: leaf <n> (level b1)
+
+20 cefr: league <n> (level b2)
+
+20 cefr: lean <v> (level b2)
+
+10 cefr: learn <v> (level a1)
+
+10 cefr: learning <n> (level a2)
+
+10 cefr: least <av> (level a2)
+
+10 cefr: least <d> (level a2)
+
+10 cefr: least <pn> (level a2)
+
+20 cefr: leather <n> (level b1)
+
+10 cefr: leave <n> (level b2)
+
+10 cefr: leave <v> (level a1)
+
+10 cefr: lecture <n> (level a2)
+
+10 cefr: lecture <v> (level a2)
+
+10 cefr: left <aj> (level a1)
+
+10 cefr: left <av> (level a1)
+
+10 cefr: left <n> (level a1)
+
+10 cefr: leg <n> (level a1)
+
+10 cefr: legal <aj> (level b1)
+
+20 cefr: leisure <n> (level b1)
+
+20 cefr: lemon <n> (level a2)
+
+10 cefr: lend <v> (level a2)
+
+10 cefr: length <n> (level b1)
+
+10 cefr: less <av> (level a2)
+
+10 cefr: less <d> (level a2)
+
+10 cefr: less <pn> (level a2)
+
+10 cefr: lesson <n> (level a1)
+
+10 cefr: let <v> (level a1)
+
+10 cefr: letter <n> (level a1)
+
+10 cefr: level <aj> (level b1)
+
+10 cefr: level <n> (level a2)
+
+10 cefr: level <v> (level b2)
+
+10 cefr: library <n> (level a1)
+
+20 cefr: licence <n> (level b2)
+
+10 cefr: lie <v> (level a1)
+
+10 cefr: lie <n> {tell a lie} (level b1)
+
+10 cefr: lie <v> {tell a lie} (level b1)
+
+10 cefr: life <n> (level a1)
+
+20 cefr: lifestyle <n> (level a2)
+
+10 cefr: lift <n> (level a2)
+
+10 cefr: lift <v> (level a2)
+
+10 cefr: light <aj> {from the sun/a lamp} (level a1)
+
+10 cefr: light <n> {from the sun/a lamp} (level a1)
+
+10 cefr: light <v> {from the sun/a lamp} (level a2)
+
+10 cefr: light <aj> {not heavy} (level a2)
+
+10 cefr: like <pp> {similar} (level a1)
+
+10 cefr: like <n> {find somebody/something pleasant} (level b1)
+
+10 cefr: like <v> {find somebody/something pleasant} (level a1)
+
+10 cefr: likely <aj> (level a2)
+
+10 cefr: limit <n> (level b1)
+
+10 cefr: limit <v> (level b1)
+
+10 cefr: limited <aj> (level b2)
+
+10 cefr: line <n> (level a1)
+
+10 cefr: line <v> (level b2)
+
+10 cefr: link <n> (level a2)
+
+10 cefr: link <v> (level a2)
+
+20 cefr: lion <n> (level a1)
+
+20 cefr: lip <n> (level b1)
+
+20 cefr: liquid <aj> (level b1)
+
+20 cefr: liquid <n> (level b1)
+
+10 cefr: list <n> (level a1)
+
+10 cefr: list <v> (level a1)
+
+10 cefr: listen <v> (level a1)
+
+20 cefr: listener <n> (level a2)
+
+10 cefr: literature <n> (level b1)
+
+10 cefr: little <aj> (level a1)
+
+10 cefr: little <av> (level a2)
+
+10 cefr: little <d> (level a1)
+
+10 cefr: little <pn> (level a1)
+
+10 cefr: live <aj> (level b1)
+
+10 cefr: live <av> (level b1)
+
+10 cefr: live <v> (level a1)
+
+20 cefr: lively <aj> (level b2)
+
+10 cefr: living <aj> (level b1)
+
+10 cefr: living <n> (level b1)
+
+10 cefr: load <n> (level b2)
+
+10 cefr: load <v> (level b2)
+
+10 cefr: loan <n> (level b2)
+
+10 cefr: local <aj> (level a1)
+
+10 cefr: local <n> (level b1)
+
+20 cefr: locate <v> (level b1)
+
+20 cefr: located <aj> (level b1)
+
+10 cefr: location <n> (level b1)
+
+10 cefr: lock <n> (level a2)
+
+10 cefr: lock <v> (level a2)
+
+10 cefr: logical <aj> (level b2)
+
+20 cefr: lonely <aj> (level b1)
+
+10 cefr: long <aj> (level a1)
+
+10 cefr: long <av> (level a1)
+
+80 cefr: long-term <aj> (level b2)
+
+80 cefr: long-term <av> (level b2)
+
+10 cefr: look <n> (level a2)
+
+10 cefr: look <v> (level a1)
+
+10 cefr: loose <aj> (level b2)
+
+20 cefr: lord <n> (level b2)
+
+10 cefr: lorry <n> (level a2)
+
+10 cefr: lose <v> (level a1)
+
+10 cefr: loss <n> (level b1)
+
+10 cefr: lost <aj> (level a2)
+
+10 cefr: lot <av> (level a1)
+
+10 cefr: lot <d> (level a1)
+
+10 cefr: lot <pn> (level a1)
+
+20 cefr: loud <aj> (level a2)
+
+20 cefr: loud <av> (level a2)
+
+10 cefr: loudly <av> (level a2)
+
+10 cefr: love <n> (level a1)
+
+10 cefr: love <v> (level a1)
+
+20 cefr: lovely <aj> (level a2)
+
+10 cefr: low <aj> (level a2)
+
+10 cefr: low <av> (level a2)
+
+10 cefr: low <n> (level b2)
+
+10 cefr: lower <v> (level b2)
+
+10 cefr: luck <n> (level a2)
+
+10 cefr: lucky <aj> (level a2)
+
+10 cefr: lunch <n> (level a1)
+
+20 cefr: lung <n> (level b2)
+
+20 cefr: luxury <aj> (level b1)
+
+20 cefr: luxury <n> (level b1)
+
+10 cefr: machine <n> (level a1)
+
+10 cefr: mad <aj> (level b1)
+
+20 cefr: magazine <n> (level a1)
+
+10 cefr: magic <aj> (level b1)
+
+10 cefr: magic <n> (level b1)
+
+10 cefr: mail <n> (level a2)
+
+10 cefr: mail <v> (level a2)
+
+10 cefr: main <aj> (level a1)
+
+10 cefr: mainly <av> (level b1)
+
+10 cefr: maintain <v> (level b2)
+
+10 cefr: major <aj> (level a2)
+
+10 cefr: major <n> (level a2)
+
+10 cefr: majority <n> (level b2)
+
+10 cefr: make <n> (level b2)
+
+10 cefr: make <v> (level a1)
+
+20 cefr: male <aj> (level a2)
+
+20 cefr: male <n> (level a2)
+
+35 cefr: mall <n> (level b1)
+
+10 cefr: man <n> (level a1)
+
+10 cefr: manage <v> (level a2)
+
+20 cefr: management <n> (level b1)
+
+10 cefr: manager <n> (level a2)
+
+10 cefr: manner <n> (level a2)
+
+10 cefr: many <d> (level a1)
+
+10 cefr: many <pn> (level a1)
+
+10 cefr: map <n> (level a1)
+
+10 cefr: map <v> (level b2)
+
+10 cefr: March <n> (level a1)
+
+10 cefr: mark <n> (level a2)
+
+10 cefr: mark <v> (level a2)
+
+10 cefr: market <n> (level a1)
+
+10 cefr: market <v> (level b1)
+
+20 cefr: marketing <n> (level b1)
+
+10 cefr: marriage <n> (level b1)
+
+20 cefr: married <aj> (level a1)
+
+10 cefr: marry <v> (level a2)
+
+10 cefr: mass <aj> (level b2)
+
+10 cefr: mass <n> (level b2)
+
+10 cefr: massive <aj> (level b2)
+
+10 cefr: master <n> (level b2)
+
+10 cefr: master <v> (level b2)
+
+10 cefr: match <n> {contest/correspond} (level a1)
+
+10 cefr: match <v> {contest/correspond} (level a1)
+
+20 cefr: matching <aj> (level b2)
+
+10 cefr: material <aj> (level b2)
+
+10 cefr: material <n> (level a2)
+
+10 cefr: mathematics <n> (level a2)
+
+80 cefr: maths <n> (level a2)
+
+10 cefr: matter <n> (level a2)
+
+10 cefr: matter <v> (level a2)
+
+10 cefr: maximum <aj> (level b2)
+
+10 cefr: maximum <n> (level b2)
+
+10 cefr: May <n> (level a1)
+
+10 cefr: may <v/modal> (level a2)
+
+10 cefr: maybe <av> (level a1)
+
+10 cefr: me <pn> (level a1)
+
+20 cefr: meal <n> (level a1)
+
+10 cefr: mean <v> (level a1)
+
+10 cefr: meaning <n> (level a1)
+
+10 cefr: means <n> (level b2)
+
+20 cefr: meanwhile <av> (level b1)
+
+10 cefr: measure <n> (level b1)
+
+10 cefr: measure <v> (level b1)
+
+20 cefr: measurement <n> (level b2)
+
+20 cefr: meat <n> (level a1)
+
+10 cefr: media <n> (level a2)
+
+10 cefr: medical <aj> (level a2)
+
+20 cefr: medicine <n> (level a2)
+
+10 cefr: medium <aj> (level b1)
+
+10 cefr: medium <n> (level b2)
+
+10 cefr: meet <v> (level a1)
+
+10 cefr: meeting <n> (level a1)
+
+20 cefr: melt <v> (level b2)
+
+10 cefr: member <n> (level a1)
+
+10 cefr: memory <n> (level a2)
+
+20 cefr: mental <aj> (level b1)
+
+10 cefr: mention <n> (level b1)
+
+10 cefr: mention <v> (level a2)
+
+20 cefr: menu <n> (level a1)
+
+10 cefr: mess <n> (level b1)
+
+10 cefr: message <n> (level a1)
+
+10 cefr: metal <n> (level a2)
+
+10 cefr: method <n> (level a2)
+
+70 cefr: metre <n> (level a1)
+
+10 cefr: middle <aj> (level a2)
+
+10 cefr: middle <n> (level a2)
+
+10 cefr: midnight <n> (level a1)
+
+10 cefr: might <v/modal> (level a2)
+
+20 cefr: mild <aj> (level b1)
+
+10 cefr: mile <n> (level a1)
+
+10 cefr: military <aj> (level b2)
+
+10 cefr: military <n> (level b2)
+
+20 cefr: milk <n> (level a1)
+
+10 cefr: million <n> (level a1)
+
+10 cefr: mind <n> (level a2)
+
+10 cefr: mind <v> (level a2)
+
+10 cefr: mine <n> {hole in the ground} (level b1)
+
+10 cefr: mine <pn> {belongs to me} (level a2)
+
+35 cefr: mineral <n> (level b2)
+
+10 cefr: minimum <aj> (level b2)
+
+10 cefr: minimum <n> (level b2)
+
+20 cefr: minister <n> (level b2)
+
+10 cefr: minor <aj> (level b2)
+
+10 cefr: minority <n> (level b2)
+
+10 cefr: minute <n> (level a1)
+
+20 cefr: mirror <n> (level a2)
+
+10 cefr: miss <v> (level a1)
+
+10 cefr: missing <aj> (level a2)
+
+20 cefr: mission <n> (level b2)
+
+10 cefr: mistake <n> (level a1)
+
+10 cefr: mistake <v> (level b2)
+
+10 cefr: mix <n> (level b1)
+
+10 cefr: mix <v> (level b1)
+
+10 cefr: mixed <aj> (level b2)
+
+20 cefr: mixture <n> (level b1)
+
+20 cefr: mobile <aj> (level a2)
+
+20 cefr: mobile <n> (level a2)
+
+10 cefr: model <n> (level a1)
+
+10 cefr: model <v> (level b2)
+
+10 cefr: modern <aj> (level a1)
+
+10 cefr: modify <v> (level b2)
+
+10 cefr: moment <n> (level a1)
+
+80 cefr: Monday <n> (level a1)
+
+10 cefr: money <n> (level a1)
+
+10 cefr: monitor <n> (level b2)
+
+10 cefr: monitor <v> (level b2)
+
+20 cefr: monkey <n> (level a2)
+
+10 cefr: month <n> (level a1)
+
+20 cefr: mood <n> (level b1)
+
+20 cefr: moon <n> (level a2)
+
+10 cefr: moral <aj> (level b2)
+
+10 cefr: moral <n> (level b2)
+
+10 cefr: more <av> (level a1)
+
+10 cefr: more <d> (level a1)
+
+10 cefr: more <pn> (level a1)
+
+10 cefr: morning <n> (level a1)
+
+10 cefr: most <av> (level a1)
+
+10 cefr: most <d> (level a1)
+
+10 cefr: most <pn> (level a1)
+
+10 cefr: mostly <av> (level a2)
+
+10 cefr: mother <n> (level a1)
+
+20 cefr: motor <aj> (level b2)
+
+20 cefr: motor <n> (level b2)
+
+35 cefr: motorcycle <n> (level a2)
+
+20 cefr: mount <v> (level b2)
+
+20 cefr: mountain <n> (level a1)
+
+20 cefr: mouse <n> (level a1)
+
+10 cefr: mouth <n> (level a1)
+
+10 cefr: move <n> (level b1)
+
+10 cefr: move <v> (level a1)
+
+10 cefr: movement <n> (level a2)
+
+10 cefr: movie <n> (level a1)
+
+10 cefr: much <av> (level a1)
+
+10 cefr: much <d> (level a1)
+
+10 cefr: much <pn> (level a1)
+
+20 cefr: mud <n> (level b1)
+
+10 cefr: multiple <aj> (level b2)
+
+20 cefr: multiply <v> (level b2)
+
+20 cefr: mum <n> (level a1)
+
+20 cefr: murder <n> (level b1)
+
+20 cefr: murder <v> (level b1)
+
+20 cefr: muscle <n> (level b1)
+
+20 cefr: museum <n> (level a1)
+
+10 cefr: music <n> (level a1)
+
+20 cefr: musical <aj> (level a2)
+
+20 cefr: musical <n> (level b1)
+
+20 cefr: musician <n> (level a2)
+
+10 cefr: must <v/modal> (level a1)
+
+10 cefr: my <d> (level a1)
+
+10 cefr: myself <pn> (level a2)
+
+10 cefr: mysterious <aj> (level b2)
+
+20 cefr: mystery <n> (level b1)
+
+20 cefr: nail <n> (level b1)
+
+10 cefr: name <n> (level a1)
+
+10 cefr: name <v> (level a1)
+
+20 cefr: narrative <aj> (level b1)
+
+20 cefr: narrative <n> (level b1)
+
+20 cefr: narrow <aj> (level a2)
+
+20 cefr: narrow <v> (level b2)
+
+10 cefr: nation <n> (level b1)
+
+10 cefr: national <aj> (level a2)
+
+10 cefr: national <n> (level b2)
+
+20 cefr: native <aj> (level b1)
+
+20 cefr: native <n> (level b1)
+
+10 cefr: natural <aj> (level a1)
+
+10 cefr: naturally <av> (level b1)
+
+10 cefr: nature <n> (level a2)
+
+10 cefr: near <aj> (level a1)
+
+10 cefr: near <av> (level a1)
+
+10 cefr: near <pp> (level a1)
+
+10 cefr: nearly <av> (level a2)
+
+20 cefr: neat <aj> (level b2)
+
+10 cefr: necessarily <av> (level b1)
+
+10 cefr: necessary <aj> (level a2)
+
+10 cefr: neck <n> (level a2)
+
+10 cefr: need <n> (level a2)
+
+10 cefr: need <v> (level a1)
+
+10 cefr: need <v/modal> (level b1)
+
+20 cefr: needle <n> (level b1)
+
+10 cefr: negative <aj> (level a1)
+
+10 cefr: negative <n> (level b2)
+
+20 cefr: neighbour <n> (level a1)
+
+20 cefr: neighbourhood <n> (level b1)
+
+10 cefr: neither <av> (level b1)
+
+10 cefr: neither <d> (level a2)
+
+10 cefr: neither <pn> (level a2)
+
+20 cefr: nerve <n> (level b2)
+
+10 cefr: nervous <aj> (level a2)
+
+10 cefr: net <n> (level b1)
+
+10 cefr: network <n> (level a2)
+
+10 cefr: never <av> (level a1)
+
+10 cefr: nevertheless <av> (level b2)
+
+10 cefr: new <aj> (level a1)
+
+10 cefr: news <n> (level a1)
+
+20 cefr: newspaper <n> (level a1)
+
+10 cefr: next <aj> (level a1)
+
+10 cefr: next <av> (level a1)
+
+10 cefr: next <n> (level b1)
+
+10 cefr: next to <pp> (level a1)
+
+10 cefr: nice <aj> (level a1)
+
+10 cefr: night <n> (level a1)
+
+20 cefr: nightmare <n> (level b2)
+
+10 cefr: nine <n> (level a1)
+
+35 cefr: nineteen <n> (level a1)
+
+35 cefr: ninety <n> (level a1)
+
+10 cefr: no <d> (level a1)
+
+10 cefr: no <i> (level a1)
+
+10 cefr: no one <pn> (level a1)
+
+10 cefr: nobody <pn> (level a1)
+
+10 cefr: noise <n> (level a2)
+
+10 cefr: noisy <aj> (level a2)
+
+10 cefr: none <pn> (level a2)
+
+10 cefr: nor <av> (level b1)
+
+10 cefr: nor <c> (level b1)
+
+10 cefr: normal <aj> (level a2)
+
+10 cefr: normal <n> (level b1)
+
+10 cefr: normally <av> (level a2)
+
+10 cefr: north <aj> (level a1)
+
+10 cefr: north <av> (level a1)
+
+10 cefr: north <n> (level a1)
+
+20 cefr: northern <aj> (level b1)
+
+20 cefr: nose <n> (level a1)
+
+10 cefr: not <av> (level a1)
+
+10 cefr: note <n> (level a1)
+
+10 cefr: note <v> (level b1)
+
+10 cefr: nothing <pn> (level a1)
+
+10 cefr: notice <n> (level a2)
+
+10 cefr: notice <v> (level a2)
+
+20 cefr: notion <n> (level b2)
+
+10 cefr: novel <n> (level a2)
+
+20 cefr: November <n> (level a1)
+
+10 cefr: now <av> (level a1)
+
+10 cefr: now <c> (level b1)
+
+10 cefr: nowhere <av> (level a2)
+
+20 cefr: nuclear <aj> (level b1)
+
+10 cefr: number <n> (level a1)
+
+10 cefr: number <v> (level a2)
+
+10 cefr: numerous <aj> (level b2)
+
+20 cefr: nurse <n> (level a1)
+
+20 cefr: nut <n> (level a2)
+
+55 cefr: o'clock <av> (level a1)
+
+10 cefr: obey <v> (level b2)
+
+10 cefr: object <n> (level a1)
+
+10 cefr: object <v> (level b2)
+
+20 cefr: objective <aj> (level b2)
+
+20 cefr: objective <n> (level b2)
+
+20 cefr: obligation <n> (level b2)
+
+10 cefr: observation <n> (level b2)
+
+10 cefr: observe <v> (level b2)
+
+10 cefr: obtain <v> (level b2)
+
+10 cefr: obvious <aj> (level b1)
+
+10 cefr: obviously <av> (level b1)
+
+10 cefr: occasion <n> (level b1)
+
+10 cefr: occasionally <av> (level b2)
+
+10 cefr: occur <v> (level b1)
+
+20 cefr: ocean <n> (level a2)
+
+80 cefr: October <n> (level a1)
+
+10 cefr: odd <aj> (level b1)
+
+10 cefr: of <pp> (level a1)
+
+10 cefr: off <av> (level a1)
+
+10 cefr: off <pp> (level a1)
+
+35 cefr: offence <n> (level b2)
+
+20 cefr: offend <v> (level b2)
+
+20 cefr: offensive <aj> (level b2)
+
+10 cefr: offer <n> (level a2)
+
+10 cefr: offer <v> (level a2)
+
+10 cefr: office <n> (level a1)
+
+10 cefr: officer <n> (level a2)
+
+10 cefr: official <aj> (level b1)
+
+10 cefr: official <n> (level b2)
+
+10 cefr: often <av> (level a1)
+
+10 cefr: oh <i> (level a1)
+
+10 cefr: oil <n> (level a2)
+
+80 cefr: ok <aj> (level a1)
+
+80 cefr: ok <av> (level a1)
+
+80 cefr: ok <i> (level a1)
+
+10 cefr: old <aj> (level a1)
+
+70 cefr: old-fashioned <aj> (level b1)
+
+10 cefr: on <av> (level a1)
+
+10 cefr: on <pp> (level a1)
+
+10 cefr: once <av> (level a1)
+
+10 cefr: once <c> (level b1)
+
+10 cefr: one <d> (level a1)
+
+10 cefr: one <n> (level a1)
+
+10 cefr: one <pn> (level a1)
+
+20 cefr: onion <n> (level a1)
+
+50 cefr: online <aj> (level a1)
+
+50 cefr: online <av> (level a1)
+
+10 cefr: only <aj> (level a1)
+
+10 cefr: only <av> (level a1)
+
+10 cefr: onto <pp> (level a2)
+
+10 cefr: open <aj> (level a1)
+
+10 cefr: open <v> (level a1)
+
+10 cefr: opening <n> (level b2)
+
+10 cefr: operate <v> (level b2)
+
+10 cefr: operation <n> (level b1)
+
+10 cefr: opinion <n> (level a1)
+
+20 cefr: opponent <n> (level b2)
+
+10 cefr: opportunity <n> (level a2)
+
+10 cefr: oppose <v> (level b2)
+
+10 cefr: opposed <aj> (level b2)
+
+10 cefr: opposite <aj> (level a1)
+
+10 cefr: opposite <av> (level a1)
+
+10 cefr: opposite <n> (level a1)
+
+10 cefr: opposite <pp> (level a1)
+
+10 cefr: opposition <n> (level b2)
+
+10 cefr: option <n> (level a2)
+
+10 cefr: or <c> (level a1)
+
+20 cefr: orange <aj> (level a1)
+
+20 cefr: orange <n> (level a1)
+
+10 cefr: order <n> (level a1)
+
+10 cefr: order <v> (level a1)
+
+10 cefr: ordinary <aj> (level a2)
+
+20 cefr: organ <n> (level b2)
+
+10 cefr: organization <n> (level a2)
+
+10 cefr: organize <v> (level a2)
+
+10 cefr: organized <aj> (level b1)
+
+20 cefr: organizer <n> (level b1)
+
+10 cefr: origin <n> (level b2)
+
+10 cefr: original <aj> (level a2)
+
+10 cefr: original <n> (level b1)
+
+10 cefr: originally <av> (level b1)
+
+10 cefr: other <aj> (level a1)
+
+10 cefr: other <pn> (level a1)
+
+10 cefr: otherwise <av> (level b2)
+
+10 cefr: ought <v/modal> (level b1)
+
+10 cefr: our <d> (level a1)
+
+10 cefr: ours <pn> (level b1)
+
+10 cefr: ourselves <pn> (level a2)
+
+10 cefr: out <av> (level a1)
+
+10 cefr: out <pp> (level a1)
+
+20 cefr: outcome <n> (level b2)
+
+35 cefr: outdoor <aj> (level b1)
+
+35 cefr: outdoors <av> (level b1)
+
+10 cefr: outer <aj> (level b2)
+
+20 cefr: outline <n> (level b2)
+
+20 cefr: outline <v> (level b2)
+
+10 cefr: outside <aj> (level a2)
+
+10 cefr: outside <av> (level a1)
+
+10 cefr: outside <n> (level a2)
+
+10 cefr: outside <pp> (level a2)
+
+35 cefr: oven <n> (level a2)
+
+10 cefr: over <av> (level a1)
+
+10 cefr: over <pp> (level a1)
+
+10 cefr: overall <aj> (level b2)
+
+10 cefr: overall <av> (level b2)
+
+10 cefr: owe <v> (level b2)
+
+10 cefr: own <aj> (level a1)
+
+10 cefr: own <pn> (level a1)
+
+10 cefr: own <v> (level a2)
+
+10 cefr: owner <n> (level a2)
+
+20 cefr: pace <n> (level b2)
+
+20 cefr: pace <v> (level b2)
+
+10 cefr: pack <n> (level b1)
+
+10 cefr: pack <v> (level a2)
+
+10 cefr: package <n> (level b1)
+
+10 cefr: package <v> (level b2)
+
+10 cefr: page <n> (level a1)
+
+10 cefr: pain <n> (level a2)
+
+10 cefr: painful <aj> (level b1)
+
+20 cefr: paint <n> (level a1)
+
+20 cefr: paint <v> (level a1)
+
+35 cefr: painter <n> (level a2)
+
+20 cefr: painting <n> (level a1)
+
+10 cefr: pair <n> (level a1)
+
+20 cefr: palace <n> (level a2)
+
+20 cefr: pale <aj> (level b1)
+
+20 cefr: pan <n> (level b1)
+
+20 cefr: panel <n> (level b2)
+
+20 cefr: pants <n> (level a2)
+
+10 cefr: paper <n> (level a1)
+
+10 cefr: paragraph <n> (level a1)
+
+10 cefr: parent <n> (level a1)
+
+10 cefr: park <n> (level a1)
+
+10 cefr: park <v> (level a1)
+
+20 cefr: parking <n> (level a2)
+
+20 cefr: parliament <n> (level b2)
+
+10 cefr: part <n> (level a1)
+
+20 cefr: participant <n> (level b2)
+
+20 cefr: participate <v> (level b1)
+
+10 cefr: particular <aj> (level a2)
+
+10 cefr: particularly <av> (level b1)
+
+10 cefr: partly <av> (level b2)
+
+20 cefr: partner <n> (level a1)
+
+10 cefr: party <n> (level a1)
+
+10 cefr: pass <n> (level b1)
+
+10 cefr: pass <v> (level a2)
+
+20 cefr: passage <n> (level b2)
+
+20 cefr: passenger <n> (level a2)
+
+20 cefr: passion <n> (level b1)
+
+20 cefr: passport <n> (level a1)
+
+10 cefr: past <aj> (level a1)
+
+10 cefr: past <av> (level a2)
+
+10 cefr: past <n> (level a1)
+
+10 cefr: past <pp> (level a1)
+
+10 cefr: path <n> (level b1)
+
+10 cefr: patient <aj> (level b2)
+
+10 cefr: patient <n> (level a2)
+
+10 cefr: pattern <n> (level a2)
+
+10 cefr: pay <n> (level a2)
+
+10 cefr: pay <v> (level a1)
+
+20 cefr: payment <n> (level b1)
+
+10 cefr: peace <n> (level a2)
+
+20 cefr: peaceful <aj> (level b1)
+
+10 cefr: pen <n> (level a1)
+
+20 cefr: pencil <n> (level a1)
+
+20 cefr: penny <n> (level a2)
+
+35 cefr: pension <n> (level b2)
+
+10 cefr: people <n> (level a1)
+
+35 cefr: pepper <n> (level a1)
+
+10 cefr: per <pp> (level a2)
+
+10 cefr: per cent <aj> (level a2)
+
+10 cefr: per cent <av> (level a2)
+
+10 cefr: per cent <n> (level a2)
+
+20 cefr: percentage <n> (level b1)
+
+10 cefr: perfect <aj> (level a1)
+
+10 cefr: perfectly <av> (level b1)
+
+10 cefr: perform <v> (level a2)
+
+10 cefr: performance <n> (level b1)
+
+10 cefr: perhaps <av> (level a2)
+
+10 cefr: period <n> (level a1)
+
+10 cefr: permanent <aj> (level b2)
+
+10 cefr: permission <n> (level a2)
+
+10 cefr: permit <n> (level b2)
+
+10 cefr: permit <v> (level b2)
+
+10 cefr: person <n> (level a1)
+
+10 cefr: personal <aj> (level a1)
+
+20 cefr: personality <n> (level a2)
+
+10 cefr: personally <av> (level b1)
+
+20 cefr: perspective <n> (level b2)
+
+10 cefr: persuade <v> (level b1)
+
+20 cefr: pet <n> (level a2)
+
+10 cefr: petrol <n> (level a2)
+
+10 cefr: phase <n> (level b2)
+
+10 cefr: phenomenon <n> (level b2)
+
+10 cefr: philosophy <n> (level b2)
+
+10 cefr: phone <n> (level a1)
+
+10 cefr: phone <v> (level a1)
+
+20 cefr: photo <n> (level a1)
+
+20 cefr: photograph <n> (level a1)
+
+20 cefr: photograph <v> (level a2)
+
+35 cefr: photographer <n> (level b1)
+
+35 cefr: photography <n> (level b1)
+
+10 cefr: phrase <n> (level a1)
+
+10 cefr: physical <aj> (level a2)
+
+20 cefr: physics <n> (level a2)
+
+20 cefr: piano <n> (level a1)
+
+10 cefr: pick <n> (level b2)
+
+10 cefr: pick <v> (level a2)
+
+10 cefr: picture <n> (level a1)
+
+10 cefr: picture <v> (level b2)
+
+10 cefr: piece <n> (level a1)
+
+20 cefr: pig <n> (level a1)
+
+10 cefr: pile <n> (level b2)
+
+10 cefr: pile <v> (level b2)
+
+20 cefr: pilot <n> (level a2)
+
+20 cefr: pin <n> (level b1)
+
+20 cefr: pin <v> (level b1)
+
+20 cefr: pink <aj> (level a1)
+
+20 cefr: pink <n> (level a1)
+
+10 cefr: pipe <n> (level b1)
+
+20 cefr: pitch <n> (level b2)
+
+10 cefr: place <n> (level a1)
+
+10 cefr: place <v> (level b1)
+
+10 cefr: plain <aj> (level b2)
+
+10 cefr: plan <n> (level a1)
+
+10 cefr: plan <v> (level a1)
+
+10 cefr: plane <n> (level a1)
+
+10 cefr: planet <n> (level a2)
+
+10 cefr: planning <n> (level b1)
+
+10 cefr: plant <n> (level a1)
+
+10 cefr: plant <v> (level a2)
+
+10 cefr: plastic <aj> (level a2)
+
+10 cefr: plastic <n> (level a2)
+
+20 cefr: plate <n> (level a2)
+
+20 cefr: platform <n> (level a2)
+
+10 cefr: play <n> (level a1)
+
+10 cefr: play <v> (level a1)
+
+20 cefr: player <n> (level a1)
+
+10 cefr: pleasant <aj> (level b1)
+
+10 cefr: please <i> (level a1)
+
+10 cefr: please <v> (level a2)
+
+10 cefr: pleased <aj> (level a2)
+
+20 cefr: pleasure <n> (level b1)
+
+10 cefr: plenty <pn> (level b1)
+
+10 cefr: plot <n> (level b1)
+
+10 cefr: plot <v> (level b2)
+
+10 cefr: plus <aj> (level b2)
+
+10 cefr: plus <c> (level b2)
+
+10 cefr: plus <n> (level b2)
+
+10 cefr: plus <pp> (level b1)
+
+10 cefr: pocket <n> (level a2)
+
+10 cefr: poem <n> (level b1)
+
+10 cefr: poet <n> (level b1)
+
+20 cefr: poetry <n> (level b1)
+
+10 cefr: point <n> (level a1)
+
+10 cefr: point <v> (level b1)
+
+10 cefr: pointed <aj> (level b2)
+
+20 cefr: poison <n> (level b1)
+
+20 cefr: poison <v> (level b1)
+
+35 cefr: poisonous <aj> (level b1)
+
+10 cefr: police <n> (level a1)
+
+20 cefr: policeman <n> (level a1)
+
+10 cefr: policy <n> (level b1)
+
+20 cefr: polite <aj> (level a2)
+
+10 cefr: political <aj> (level b1)
+
+20 cefr: politician <n> (level b1)
+
+20 cefr: politics <n> (level b1)
+
+20 cefr: pollution <n> (level a2)
+
+10 cefr: pool <n> (level a1)
+
+10 cefr: poor <aj> (level a1)
+
+10 cefr: pop <aj> (level a2)
+
+10 cefr: pop <n> (level a2)
+
+10 cefr: popular <aj> (level a1)
+
+20 cefr: popularity <n> (level b2)
+
+10 cefr: population <n> (level a2)
+
+10 cefr: port <n> (level b1)
+
+35 cefr: portrait <n> (level b1)
+
+20 cefr: pose <v> (level b2)
+
+10 cefr: position <n> (level a2)
+
+10 cefr: position <v> (level b2)
+
+10 cefr: positive <aj> (level a1)
+
+10 cefr: positive <n> (level b2)
+
+20 cefr: possess <v> (level b2)
+
+20 cefr: possession <n> (level a2)
+
+10 cefr: possibility <n> (level a2)
+
+10 cefr: possible <aj> (level a1)
+
+10 cefr: possibly <av> (level b1)
+
+10 cefr: post <n> (level a1)
+
+10 cefr: post <v> (level a1)
+
+20 cefr: poster <n> (level a2)
+
+20 cefr: pot <n> (level b1)
+
+20 cefr: potato <n> (level a1)
+
+10 cefr: potential <aj> (level b2)
+
+10 cefr: potential <n> (level b2)
+
+10 cefr: pound <n> (level a1)
+
+20 cefr: pour <v> (level b1)
+
+20 cefr: poverty <n> (level b1)
+
+20 cefr: powder <n> (level b1)
+
+10 cefr: power <n> (level a2)
+
+10 cefr: power <v> (level b2)
+
+10 cefr: powerful <aj> (level b1)
+
+10 cefr: practical <aj> (level b1)
+
+10 cefr: practice <n> (level a1)
+
+10 cefr: practise <v> (level a1)
+
+20 cefr: praise <n> (level b2)
+
+20 cefr: praise <v> (level b2)
+
+20 cefr: pray <v> (level b1)
+
+20 cefr: prayer <n> (level b1)
+
+20 cefr: predict <v> (level a2)
+
+20 cefr: prediction <n> (level b1)
+
+10 cefr: prefer <v> (level a1)
+
+20 cefr: pregnant <aj> (level b2)
+
+10 cefr: preparation <n> (level b2)
+
+10 cefr: prepare <v> (level a1)
+
+10 cefr: prepared <aj> (level b1)
+
+10 cefr: presence <n> (level b2)
+
+10 cefr: present <aj> (level a1)
+
+10 cefr: present <n> (level a1)
+
+10 cefr: present <v> (level a2)
+
+20 cefr: presentation <n> (level b1)
+
+10 cefr: preserve <v> (level b2)
+
+10 cefr: president <n> (level a2)
+
+10 cefr: press <n> (level b1)
+
+10 cefr: press <v> (level b1)
+
+10 cefr: pressure <n> (level b1)
+
+20 cefr: pretend <v> (level b1)
+
+10 cefr: pretty <aj> (level a1)
+
+10 cefr: pretty <av> (level a1)
+
+10 cefr: prevent <v> (level a2)
+
+10 cefr: previous <aj> (level b1)
+
+10 cefr: previously <av> (level b1)
+
+10 cefr: price <n> (level a1)
+
+10 cefr: price <v> (level b2)
+
+20 cefr: priest <n> (level b1)
+
+10 cefr: primary <aj> (level b1)
+
+10 cefr: prime <aj> (level b2)
+
+20 cefr: prince <n> (level b1)
+
+35 cefr: princess <n> (level b1)
+
+10 cefr: principle <n> (level b2)
+
+10 cefr: print <n> (level b2)
+
+10 cefr: print <v> (level a2)
+
+10 cefr: printer <n> (level a2)
+
+10 cefr: printing <n> (level b1)
+
+20 cefr: priority <n> (level b2)
+
+20 cefr: prison <n> (level a2)
+
+20 cefr: prisoner <n> (level b1)
+
+20 cefr: privacy <n> (level b2)
+
+10 cefr: private <aj> (level b1)
+
+20 cefr: prize <n> (level a2)
+
+10 cefr: probably <av> (level a1)
+
+10 cefr: problem <n> (level a1)
+
+10 cefr: procedure <n> (level b2)
+
+10 cefr: process <n> (level a2)
+
+10 cefr: process <v> (level b2)
+
+10 cefr: produce <n> (level b2)
+
+10 cefr: produce <v> (level a2)
+
+20 cefr: producer <n> (level b1)
+
+10 cefr: product <n> (level a1)
+
+10 cefr: production <n> (level b1)
+
+20 cefr: profession <n> (level b1)
+
+10 cefr: professional <aj> (level a2)
+
+10 cefr: professional <n> (level b2)
+
+20 cefr: professor <n> (level a2)
+
+20 cefr: profile <n> (level a2)
+
+20 cefr: profit <n> (level b1)
+
+10 cefr: program <n> (level a2)
+
+10 cefr: program <v> (level b1)
+
+10 cefr: programme <n> (level a1)
+
+10 cefr: progress <n> (level a2)
+
+10 cefr: progress <v> (level b2)
+
+10 cefr: project <n> (level a1)
+
+10 cefr: project <v> (level b2)
+
+10 cefr: promise <n> (level a2)
+
+10 cefr: promise <v> (level a2)
+
+20 cefr: promote <v> (level b1)
+
+20 cefr: pronounce <v> (level a2)
+
+10 cefr: proof <n> (level b2)
+
+10 cefr: proper <aj> (level b1)
+
+10 cefr: properly <av> (level b1)
+
+10 cefr: property <n> (level b1)
+
+10 cefr: proposal <n> (level b2)
+
+10 cefr: propose <v> (level b2)
+
+10 cefr: prospect <n> (level b2)
+
+10 cefr: protect <v> (level a2)
+
+10 cefr: protection <n> (level b2)
+
+10 cefr: protest <n> (level b1)
+
+10 cefr: protest <v> (level b1)
+
+20 cefr: proud <aj> (level b1)
+
+10 cefr: prove <v> (level b1)
+
+10 cefr: provide <v> (level a2)
+
+20 cefr: psychologist <n> (level b2)
+
+20 cefr: psychology <n> (level b2)
+
+20 cefr: pub <n> (level a2)
+
+10 cefr: public <aj> (level a2)
+
+10 cefr: public <n> (level a2)
+
+10 cefr: publication <n> (level b2)
+
+10 cefr: publish <v> (level a2)
+
+10 cefr: pull <n> (level b1)
+
+10 cefr: pull <v> (level a2)
+
+20 cefr: punish <v> (level b1)
+
+20 cefr: punishment <n> (level b1)
+
+20 cefr: pupil <n> (level b2)
+
+10 cefr: purchase <n> (level b2)
+
+10 cefr: purchase <v> (level b2)
+
+10 cefr: pure <aj> (level b2)
+
+20 cefr: purple <aj> (level a1)
+
+20 cefr: purple <n> (level a1)
+
+10 cefr: purpose <n> (level a2)
+
+20 cefr: pursue <v> (level b2)
+
+10 cefr: push <n> (level b1)
+
+10 cefr: push <v> (level a2)
+
+10 cefr: put <v> (level a1)
+
+80 cefr: qualification <n> (level b1)
+
+10 cefr: qualified <aj> (level b1)
+
+10 cefr: qualify <v> (level b1)
+
+10 cefr: quality <n> (level a2)
+
+10 cefr: quantity <n> (level a2)
+
+10 cefr: quarter <n> (level a1)
+
+20 cefr: queen <n> (level a2)
+
+10 cefr: question <n> (level a1)
+
+10 cefr: question <v> (level a2)
+
+10 cefr: queue <n> (level b1)
+
+10 cefr: queue <v> (level b1)
+
+10 cefr: quick <aj> (level a1)
+
+10 cefr: quickly <av> (level a1)
+
+10 cefr: quiet <aj> (level a1)
+
+10 cefr: quietly <av> (level a2)
+
+10 cefr: quit <v> (level b1)
+
+10 cefr: quite <av> (level a1)
+
+20 cefr: quotation <n> (level b1)
+
+10 cefr: quote <n> (level b1)
+
+10 cefr: quote <v> (level b1)
+
+10 cefr: race <n> {competition} (level a2)
+
+10 cefr: race <v> {competition} (level a2)
+
+10 cefr: race <n> {people} (level b1)
+
+20 cefr: racing <n> (level b1)
+
+10 cefr: radio <n> (level a1)
+
+20 cefr: railway <n> (level a2)
+
+10 cefr: rain <n> (level a1)
+
+10 cefr: rain <v> (level a1)
+
+10 cefr: raise <v> (level a2)
+
+10 cefr: range <n> (level b1)
+
+10 cefr: range <v> (level b2)
+
+20 cefr: rank <n> (level b2)
+
+20 cefr: rank <v> (level b2)
+
+10 cefr: rapid <aj> (level b2)
+
+10 cefr: rapidly <av> (level b2)
+
+10 cefr: rare <aj> (level b1)
+
+10 cefr: rarely <av> (level b1)
+
+10 cefr: rate <n> (level a2)
+
+10 cefr: rate <v> (level b2)
+
+10 cefr: rather <av> (level a2)
+
+10 cefr: raw <aj> (level b2)
+
+10 cefr: reach <n> (level b2)
+
+10 cefr: reach <v> (level a2)
+
+10 cefr: react <v> (level a2)
+
+10 cefr: reaction <n> (level b1)
+
+10 cefr: read <v> (level a1)
+
+10 cefr: reader <n> (level a1)
+
+10 cefr: reading <n> (level a1)
+
+10 cefr: ready <aj> (level a1)
+
+10 cefr: real <aj> (level a1)
+
+20 cefr: realistic <aj> (level b2)
+
+10 cefr: reality <n> (level b1)
+
+10 cefr: realize <v> (level a2)
+
+10 cefr: really <av> (level a1)
+
+10 cefr: reason <n> (level a1)
+
+10 cefr: reasonable <aj> (level b2)
+
+10 cefr: recall <v> (level b2)
+
+20 cefr: receipt <n> (level b1)
+
+10 cefr: receive <v> (level a2)
+
+10 cefr: recent <aj> (level a2)
+
+10 cefr: recently <av> (level a2)
+
+10 cefr: reception <n> (level a2)
+
+20 cefr: recipe <n> (level a2)
+
+10 cefr: recognize <v> (level a2)
+
+10 cefr: recommend <v> (level a2)
+
+10 cefr: recommendation <n> (level b1)
+
+10 cefr: record <n> (level a2)
+
+10 cefr: record <v> (level a2)
+
+10 cefr: recording <n> (level a2)
+
+10 cefr: recover <v> (level b2)
+
+20 cefr: recycle <v> (level a2)
+
+10 cefr: red <aj> (level a1)
+
+10 cefr: red <n> (level a1)
+
+10 cefr: reduce <v> (level a2)
+
+10 cefr: reduction <n> (level b2)
+
+10 cefr: refer <v> (level a2)
+
+10 cefr: reference <n> (level b1)
+
+10 cefr: reflect <v> (level b1)
+
+10 cefr: refuse <v> (level a2)
+
+10 cefr: regard <n> (level b2)
+
+10 cefr: regard <v> (level b2)
+
+10 cefr: region <n> (level a2)
+
+20 cefr: regional <aj> (level b2)
+
+10 cefr: register <n> (level b2)
+
+10 cefr: register <v> (level b2)
+
+10 cefr: regret <n> (level b2)
+
+10 cefr: regret <v> (level b2)
+
+10 cefr: regular <aj> (level a2)
+
+10 cefr: regularly <av> (level b1)
+
+10 cefr: regulation <n> (level b2)
+
+10 cefr: reject <v> (level b1)
+
+10 cefr: relate <v> (level b1)
+
+10 cefr: related <aj> (level b1)
+
+10 cefr: relation <n> (level b1)
+
+10 cefr: relationship <n> (level a2)
+
+10 cefr: relative <aj> (level b1)
+
+10 cefr: relative <n> (level b1)
+
+10 cefr: relatively <av> (level b2)
+
+20 cefr: relax <v> (level a1)
+
+20 cefr: relaxed <aj> (level b1)
+
+20 cefr: relaxing <aj> (level b1)
+
+10 cefr: release <n> (level b1)
+
+10 cefr: release <v> (level b1)
+
+10 cefr: relevant <aj> (level b2)
+
+10 cefr: reliable <aj> (level b1)
+
+20 cefr: relief <n> (level b2)
+
+10 cefr: religion <n> (level b1)
+
+10 cefr: religious <aj> (level b1)
+
+10 cefr: rely <v> (level b2)
+
+10 cefr: remain <v> (level b1)
+
+10 cefr: remark <n> (level b2)
+
+10 cefr: remark <v> (level b2)
+
+10 cefr: remember <v> (level a1)
+
+10 cefr: remind <v> (level b1)
+
+10 cefr: remote <aj> (level b1)
+
+10 cefr: remove <v> (level a2)
+
+20 cefr: rent <n> (level b1)
+
+20 cefr: rent <v> (level b1)
+
+10 cefr: repair <n> (level b1)
+
+10 cefr: repair <v> (level a2)
+
+10 cefr: repeat <n> (level b1)
+
+10 cefr: repeat <v> (level a1)
+
+10 cefr: repeated <aj> (level b1)
+
+10 cefr: replace <v> (level a2)
+
+10 cefr: reply <n> (level a2)
+
+10 cefr: reply <v> (level a2)
+
+10 cefr: report <n> (level a1)
+
+10 cefr: report <v> (level a2)
+
+20 cefr: reporter <n> (level a2)
+
+10 cefr: represent <v> (level b1)
+
+80 cefr: representative <aj> (level b2)
+
+80 cefr: representative <n> (level b2)
+
+20 cefr: reputation <n> (level b2)
+
+10 cefr: request <n> (level a2)
+
+10 cefr: request <v> (level b1)
+
+10 cefr: require <v> (level b1)
+
+10 cefr: requirement <n> (level b2)
+
+20 cefr: rescue <n> (level b2)
+
+20 cefr: rescue <v> (level b2)
+
+10 cefr: research <n> (level a2)
+
+10 cefr: research <v> (level a2)
+
+20 cefr: researcher <n> (level a2)
+
+20 cefr: reservation <n> (level b1)
+
+10 cefr: reserve <n> (level b2)
+
+10 cefr: reserve <v> (level b2)
+
+10 cefr: resident <aj> (level b2)
+
+10 cefr: resident <n> (level b2)
+
+20 cefr: resist <v> (level b2)
+
+20 cefr: resolve <v> (level b2)
+
+10 cefr: resort <n> (level b2)
+
+10 cefr: resource <n> (level b1)
+
+10 cefr: respect <n> (level b1)
+
+10 cefr: respect <v> (level b1)
+
+10 cefr: respond <v> (level a2)
+
+10 cefr: response <n> (level a2)
+
+10 cefr: responsibility <n> (level b1)
+
+10 cefr: responsible <aj> (level b1)
+
+10 cefr: rest <n> {remaining part} (level a2)
+
+10 cefr: rest <n> {sleep/relax} (level a2)
+
+10 cefr: rest <v> {sleep/relax} (level a2)
+
+20 cefr: restaurant <n> (level a1)
+
+10 cefr: result <n> (level a1)
+
+10 cefr: result <v> (level b1)
+
+10 cefr: retain <v> (level b2)
+
+20 cefr: retire <v> (level b1)
+
+20 cefr: retired <aj> (level b1)
+
+10 cefr: return <n> (level a1)
+
+10 cefr: return <v> (level a1)
+
+10 cefr: reveal <v> (level b2)
+
+10 cefr: review <n> (level a2)
+
+10 cefr: review <v> (level a2)
+
+20 cefr: revise <v> (level b1)
+
+20 cefr: revolution <n> (level b2)
+
+20 cefr: reward <n> (level b2)
+
+20 cefr: reward <v> (level b2)
+
+20 cefr: rhythm <n> (level b2)
+
+20 cefr: rice <n> (level a1)
+
+20 cefr: rich <aj> (level a1)
+
+10 cefr: rid <v> (level b2)
+
+10 cefr: ride <n> (level a2)
+
+10 cefr: ride <v> (level a1)
+
+10 cefr: right <aj> (level a1)
+
+10 cefr: right <av> (level a1)
+
+10 cefr: right <n> (level a1)
+
+10 cefr: ring <n> (level a2)
+
+10 cefr: ring <v> (level a2)
+
+10 cefr: rise <n> (level b1)
+
+10 cefr: rise <v> (level a2)
+
+10 cefr: risk <n> (level b1)
+
+10 cefr: risk <v> (level b1)
+
+10 cefr: river <n> (level a1)
+
+10 cefr: road <n> (level a1)
+
+20 cefr: robot <n> (level b1)
+
+20 cefr: rock <n> {stone} (level a2)
+
+20 cefr: rock <n> {music} (level a2)
+
+10 cefr: role <n> (level a2)
+
+10 cefr: roll <n> (level b1)
+
+10 cefr: roll <v> (level b1)
+
+20 cefr: romantic <aj> (level b1)
+
+20 cefr: roof <n> (level a2)
+
+10 cefr: room <n> (level a1)
+
+10 cefr: root <n> (level b2)
+
+20 cefr: rope <n> (level b1)
+
+10 cefr: rough <aj> (level b1)
+
+10 cefr: round <aj> (level a2)
+
+10 cefr: round <av> (level a2)
+
+10 cefr: round <n> (level b2)
+
+10 cefr: round <pp> (level a2)
+
+10 cefr: route <n> (level a2)
+
+10 cefr: routine <aj> (level b2)
+
+10 cefr: routine <n> (level a1)
+
+10 cefr: row <n> (level b1)
+
+20 cefr: royal <aj> (level b1)
+
+20 cefr: rub <v> (level b2)
+
+10 cefr: rubber <aj> (level b2)
+
+10 cefr: rubber <n> (level b2)
+
+10 cefr: rubbish <n> (level a2)
+
+20 cefr: rude <aj> (level a2)
+
+35 cefr: rugby <n> (level b1)
+
+10 cefr: rule <n> (level a1)
+
+10 cefr: rule <v> (level b1)
+
+10 cefr: run <n> (level a2)
+
+10 cefr: run <v> (level a1)
+
+35 cefr: runner <n> (level a2)
+
+10 cefr: running <n> (level a2)
+
+20 cefr: rural <aj> (level b2)
+
+10 cefr: rush <n> (level b2)
+
+10 cefr: rush <v> (level b2)
+
+10 cefr: sad <aj> (level a1)
+
+10 cefr: sadly <av> (level a2)
+
+10 cefr: safe <aj> (level a2)
+
+10 cefr: safety <n> (level b1)
+
+20 cefr: sail <n> (level b1)
+
+20 cefr: sail <v> (level a2)
+
+20 cefr: sailing <n> (level a2)
+
+35 cefr: sailor <n> (level b1)
+
+35 cefr: salad <n> (level a1)
+
+20 cefr: salary <n> (level a2)
+
+10 cefr: sale <n> (level a2)
+
+20 cefr: salt <n> (level a1)
+
+10 cefr: same <aj> (level a1)
+
+10 cefr: same <av> (level a1)
+
+10 cefr: same <pn> (level a1)
+
+10 cefr: sample <n> (level b1)
+
+10 cefr: sample <v> (level b2)
+
+20 cefr: sand <n> (level b1)
+
+20 cefr: sandwich <n> (level a1)
+
+20 cefr: satellite <n> (level b2)
+
+10 cefr: satisfied <aj> (level b2)
+
+10 cefr: satisfy <v> (level b2)
+
+80 cefr: Saturday <n> (level a1)
+
+20 cefr: sauce <n> (level a2)
+
+10 cefr: save <v> (level a2)
+
+10 cefr: saving <n> (level b2)
+
+10 cefr: say <v> (level a1)
+
+10 cefr: scale <n> (level b2)
+
+10 cefr: scan <v> (level b1)
+
+20 cefr: scared <aj> (level a2)
+
+35 cefr: scary <aj> (level a2)
+
+10 cefr: scene <n> (level a2)
+
+20 cefr: schedule <n> (level a2)
+
+20 cefr: schedule <v> (level b2)
+
+10 cefr: scheme <n> (level b2)
+
+10 cefr: school <n> (level a1)
+
+10 cefr: science <n> (level a1)
+
+10 cefr: scientific <aj> (level b1)
+
+20 cefr: scientist <n> (level a1)
+
+10 cefr: score <n> (level a2)
+
+10 cefr: score <v> (level a2)
+
+20 cefr: scream <n> (level b2)
+
+20 cefr: scream <v> (level b2)
+
+10 cefr: screen <n> (level a2)
+
+10 cefr: screen <v> (level b2)
+
+10 cefr: script <n> (level b1)
+
+35 cefr: sculpture <n> (level b1)
+
+20 cefr: sea <n> (level a1)
+
+10 cefr: search <n> (level a2)
+
+10 cefr: search <v> (level a2)
+
+10 cefr: season <n> (level a2)
+
+20 cefr: seat <n> (level a2)
+
+20 cefr: seat <v> (level b2)
+
+10 cefr: second <d> {next after the first} (level a1)
+
+10 cefr: second <n/ordinal> {next after the first} (level a1)
+
+10 cefr: second <av> {next after the first} (level a2)
+
+10 cefr: second <n> {unit of time} (level a1)
+
+10 cefr: secondary <aj> (level b1)
+
+10 cefr: secondly <av> (level a2)
+
+10 cefr: secret <aj> (level a2)
+
+10 cefr: secret <n> (level a2)
+
+10 cefr: secretary <n> (level a2)
+
+10 cefr: section <n> (level a1)
+
+20 cefr: sector <n> (level b2)
+
+10 cefr: secure <aj> (level b2)
+
+10 cefr: secure <v> (level b2)
+
+10 cefr: security <n> (level b1)
+
+10 cefr: see <v> (level a1)
+
+20 cefr: seed <n> (level b1)
+
+10 cefr: seek <v> (level b2)
+
+10 cefr: seem <v> (level a2)
+
+10 cefr: select <v> (level b2)
+
+10 cefr: selection <n> (level b2)
+
+10 cefr: self <n> (level b2)
+
+10 cefr: sell <v> (level a1)
+
+10 cefr: send <v> (level a1)
+
+10 cefr: senior <aj> (level b2)
+
+10 cefr: sense <n> (level a2)
+
+10 cefr: sense <v> (level b2)
+
+10 cefr: sensible <aj> (level b1)
+
+10 cefr: sensitive <aj> (level b2)
+
+10 cefr: sentence <n> (level a1)
+
+10 cefr: sentence <v> (level b2)
+
+10 cefr: separate <aj> (level a2)
+
+10 cefr: separate <v> (level b1)
+
+70 cefr: September <n> (level a1)
+
+10 cefr: sequence <n> (level b2)
+
+10 cefr: series <n> (level a2)
+
+10 cefr: serious <aj> (level a2)
+
+10 cefr: seriously <av> (level b1)
+
+20 cefr: servant <n> (level b1)
+
+10 cefr: serve <v> (level a2)
+
+10 cefr: service <n> (level a2)
+
+10 cefr: session <n> (level b2)
+
+10 cefr: set <v> {put} (level b1)
+
+10 cefr: set <n> {group} (level b1)
+
+10 cefr: setting <n> (level b1)
+
+10 cefr: settle <v> (level b2)
+
+10 cefr: seven <n> (level a1)
+
+35 cefr: seventeen <n> (level a1)
+
+35 cefr: seventy <n> (level a1)
+
+10 cefr: several <d> (level a2)
+
+10 cefr: several <pn> (level a2)
+
+10 cefr: severe <aj> (level b2)
+
+10 cefr: sex <n> (level b1)
+
+20 cefr: sexual <aj> (level b1)
+
+20 cefr: shade <n> (level b2)
+
+20 cefr: shadow <n> (level b2)
+
+20 cefr: shake <n> (level b1)
+
+20 cefr: shake <v> (level a2)
+
+10 cefr: shall <v/modal> (level a2)
+
+20 cefr: shallow <aj> (level b2)
+
+10 cefr: shame <n> (level b2)
+
+10 cefr: shape <n> (level a2)
+
+10 cefr: shape <v> (level b2)
+
+10 cefr: share <n> (level b1)
+
+10 cefr: share <v> (level a1)
+
+10 cefr: sharp <aj> (level b1)
+
+10 cefr: she <pn> (level a1)
+
+20 cefr: sheep <n> (level a1)
+
+10 cefr: sheet <n> (level a2)
+
+10 cefr: shelf <n> (level b1)
+
+10 cefr: shell <n> (level b1)
+
+20 cefr: shelter <n> (level b2)
+
+20 cefr: shelter <v> (level b2)
+
+10 cefr: shift <n> (level b1)
+
+10 cefr: shift <v> (level b2)
+
+20 cefr: shine <v> (level b1)
+
+20 cefr: shiny <aj> (level b1)
+
+10 cefr: ship <n> (level a2)
+
+10 cefr: ship <v> (level b2)
+
+20 cefr: shirt <n> (level a1)
+
+20 cefr: shock <n> (level b2)
+
+20 cefr: shock <v> (level b2)
+
+20 cefr: shocked <aj> (level b2)
+
+20 cefr: shoe <n> (level a1)
+
+10 cefr: shoot <v> (level b1)
+
+20 cefr: shooting <n> (level b2)
+
+10 cefr: shop <n> (level a1)
+
+10 cefr: shop <v> (level a1)
+
+10 cefr: shopping <n> (level a1)
+
+10 cefr: short <aj> (level a1)
+
+20 cefr: shot <n> (level b2)
+
+10 cefr: should <v/modal> (level a1)
+
+20 cefr: shoulder <n> (level a2)
+
+20 cefr: shout <n> (level a2)
+
+20 cefr: shout <v> (level a2)
+
+10 cefr: show <n> (level a1)
+
+10 cefr: show <v> (level a1)
+
+20 cefr: shower <n> (level a1)
+
+10 cefr: shut <aj> (level a2)
+
+10 cefr: shut <v> (level a2)
+
+20 cefr: shy <aj> (level b1)
+
+20 cefr: sick <aj> (level a1)
+
+10 cefr: side <n> (level a2)
+
+10 cefr: sight <n> (level b1)
+
+10 cefr: sign <n> (level a2)
+
+10 cefr: sign <v> (level a2)
+
+10 cefr: signal <n> (level b1)
+
+10 cefr: signal <v> (level b1)
+
+10 cefr: significant <aj> (level b2)
+
+10 cefr: significantly <av> (level b2)
+
+20 cefr: silence <n> (level b2)
+
+20 cefr: silent <aj> (level b1)
+
+35 cefr: silk <n> (level b2)
+
+10 cefr: silly <aj> (level b1)
+
+20 cefr: silver <aj> (level a2)
+
+20 cefr: silver <n> (level a2)
+
+10 cefr: similar <aj> (level a1)
+
+20 cefr: similarity <n> (level b1)
+
+10 cefr: similarly <av> (level b1)
+
+10 cefr: simple <aj> (level a2)
+
+10 cefr: simply <av> (level b1)
+
+10 cefr: since <av> (level b1)
+
+10 cefr: since <c> (level a2)
+
+10 cefr: since <pp> (level a2)
+
+20 cefr: sincere <aj> (level b2)
+
+20 cefr: sing <v> (level a1)
+
+20 cefr: singer <n> (level a1)
+
+20 cefr: singing <n> (level a2)
+
+10 cefr: single <aj> (level a2)
+
+10 cefr: single <n> (level a2)
+
+20 cefr: sink <v> (level b1)
+
+20 cefr: sir <n> (level a2)
+
+20 cefr: sister <n> (level a1)
+
+10 cefr: sit <v> (level a1)
+
+10 cefr: site <n> (level a2)
+
+10 cefr: situation <n> (level a1)
+
+10 cefr: six <n> (level a1)
+
+20 cefr: sixteen <n> (level a1)
+
+20 cefr: sixty <n> (level a1)
+
+10 cefr: size <n> (level a2)
+
+35 cefr: ski <aj> (level a2)
+
+35 cefr: ski <n> (level a2)
+
+35 cefr: ski <v> (level a2)
+
+35 cefr: skiing <n> (level a2)
+
+10 cefr: skill <n> (level a1)
+
+20 cefr: skin <n> (level a2)
+
+20 cefr: skirt <n> (level a1)
+
+20 cefr: sky <n> (level a2)
+
+20 cefr: slave <n> (level b2)
+
+10 cefr: sleep <n> (level a2)
+
+10 cefr: sleep <v> (level a1)
+
+20 cefr: slice <n> (level b1)
+
+20 cefr: slice <v> (level b1)
+
+20 cefr: slide <n> (level b2)
+
+20 cefr: slide <v> (level b2)
+
+10 cefr: slight <aj> (level b2)
+
+10 cefr: slightly <av> (level b1)
+
+10 cefr: slip <v> (level b2)
+
+20 cefr: slope <n> (level b2)
+
+20 cefr: slope <v> (level b2)
+
+10 cefr: slow <aj> (level a1)
+
+10 cefr: slow <v> (level b1)
+
+10 cefr: slowly <av> (level a2)
+
+10 cefr: small <aj> (level a1)
+
+20 cefr: smart <aj> (level b1)
+
+50 cefr: smartphone <n> (level a2)
+
+20 cefr: smell <n> (level a2)
+
+20 cefr: smell <v> (level a2)
+
+10 cefr: smile <n> (level a2)
+
+10 cefr: smile <v> (level a2)
+
+20 cefr: smoke <n> (level a2)
+
+20 cefr: smoke <v> (level a2)
+
+20 cefr: smoking <n> (level a2)
+
+10 cefr: smooth <aj> (level b1)
+
+35 cefr: snake <n> (level a1)
+
+20 cefr: snow <n> (level a1)
+
+20 cefr: snow <v> (level a1)
+
+10 cefr: so <av> (level a1)
+
+10 cefr: so <c> (level a1)
+
+20 cefr: soap <n> (level a2)
+
+35 cefr: soccer <n> (level a2)
+
+10 cefr: social <aj> (level a2)
+
+10 cefr: society <n> (level a2)
+
+20 cefr: sock <n> (level a2)
+
+10 cefr: soft <aj> (level a2)
+
+10 cefr: software <n> (level b1)
+
+20 cefr: soil <n> (level b1)
+
+20 cefr: solar <aj> (level b2)
+
+20 cefr: soldier <n> (level a2)
+
+10 cefr: solid <aj> (level b1)
+
+10 cefr: solid <n> (level b1)
+
+10 cefr: solution <n> (level a2)
+
+10 cefr: solve <v> (level a2)
+
+10 cefr: some <d> (level a1)
+
+10 cefr: some <pn> (level a1)
+
+10 cefr: somebody <pn> (level a1)
+
+10 cefr: someone <pn> (level a1)
+
+10 cefr: something <pn> (level a1)
+
+10 cefr: sometimes <av> (level a1)
+
+10 cefr: somewhat <av> (level b2)
+
+10 cefr: somewhere <av> (level a2)
+
+10 cefr: somewhere <pn> (level a2)
+
+10 cefr: son <n> (level a1)
+
+20 cefr: song <n> (level a1)
+
+10 cefr: soon <av> (level a1)
+
+10 cefr: sorry <aj> (level a1)
+
+10 cefr: sorry <i> (level a1)
+
+10 cefr: sort <n> (level a2)
+
+10 cefr: sort <v> (level b1)
+
+20 cefr: soul <n> (level b2)
+
+10 cefr: sound <n> (level a1)
+
+10 cefr: sound <v> (level a1)
+
+20 cefr: soup <n> (level a1)
+
+10 cefr: source <n> (level a2)
+
+10 cefr: south <aj> (level a1)
+
+10 cefr: south <av> (level a1)
+
+10 cefr: south <n> (level a1)
+
+10 cefr: southern <aj> (level b1)
+
+10 cefr: space <n> (level a1)
+
+10 cefr: speak <v> (level a1)
+
+10 cefr: speaker <n> (level a2)
+
+10 cefr: special <aj> (level a1)
+
+20 cefr: specialist <aj> (level b2)
+
+20 cefr: specialist <n> (level b2)
+
+20 cefr: species <n> (level b2)
+
+10 cefr: specific <aj> (level a2)
+
+10 cefr: specifically <av> (level b1)
+
+10 cefr: speech <n> (level a2)
+
+10 cefr: speed <n> (level a2)
+
+10 cefr: speed <v> (level b2)
+
+10 cefr: spell <v> (level a1)
+
+10 cefr: spelling <n> (level a1)
+
+10 cefr: spend <v> (level a1)
+
+10 cefr: spending <n> (level b1)
+
+35 cefr: spicy <aj> (level b1)
+
+35 cefr: spider <n> (level a2)
+
+10 cefr: spirit <n> (level b1)
+
+20 cefr: spiritual <aj> (level b2)
+
+10 cefr: split <n> (level b2)
+
+10 cefr: split <v> (level b2)
+
+10 cefr: spoken <aj> (level b1)
+
+20 cefr: sponsor <n> (level b2)
+
+20 cefr: sponsor <v> (level b2)
+
+35 cefr: spoon <n> (level a2)
+
+20 cefr: sport <n> (level a1)
+
+10 cefr: spot <n> (level b1)
+
+10 cefr: spot <v> (level b2)
+
+10 cefr: spread <n> (level b2)
+
+10 cefr: spread <v> (level b1)
+
+10 cefr: spring <n> (level a1)
+
+10 cefr: spring <v> (level b2)
+
+10 cefr: square <aj> (level a2)
+
+10 cefr: square <n> (level a2)
+
+10 cefr: stable <aj> (level b2)
+
+35 cefr: stadium <n> (level b1)
+
+10 cefr: staff <n> (level b1)
+
+10 cefr: stage <n> (level a2)
+
+10 cefr: stage <v> (level b2)
+
+20 cefr: stair <n> (level a2)
+
+20 cefr: stamp <n> (level a2)
+
+10 cefr: stand <n> (level b2)
+
+10 cefr: stand <v> (level a1)
+
+10 cefr: standard <aj> (level b1)
+
+10 cefr: standard <n> (level b1)
+
+20 cefr: star <n> (level a1)
+
+20 cefr: star <v> (level a2)
+
+20 cefr: stare <v> (level b2)
+
+10 cefr: start <n> (level a2)
+
+10 cefr: start <v> (level a1)
+
+10 cefr: state <aj> (level b1)
+
+10 cefr: state <n> (level a2)
+
+10 cefr: state <v> (level b1)
+
+10 cefr: statement <n> (level a1)
+
+10 cefr: station <n> (level a1)
+
+10 cefr: statistic <n> (level b1)
+
+35 cefr: statue <n> (level b1)
+
+10 cefr: status <n> (level b2)
+
+10 cefr: stay <n> (level a2)
+
+10 cefr: stay <v> (level a1)
+
+20 cefr: steady <aj> (level b2)
+
+10 cefr: steal <v> (level a2)
+
+20 cefr: steel <n> (level b2)
+
+20 cefr: steep <aj> (level b2)
+
+10 cefr: step <n> (level a2)
+
+10 cefr: step <v> (level b2)
+
+10 cefr: stick <v> {push into/attach} (level b1)
+
+10 cefr: stick <n> {piece of wood} (level b1)
+
+20 cefr: sticky <aj> (level b2)
+
+20 cefr: stiff <aj> (level b2)
+
+10 cefr: still <aj> (level b1)
+
+10 cefr: still <av> (level a1)
+
+10 cefr: stock <n> (level b2)
+
+20 cefr: stomach <n> (level a2)
+
+10 cefr: stone <n> (level a2)
+
+10 cefr: stop <n> (level a1)
+
+10 cefr: stop <v> (level a1)
+
+10 cefr: store <n> (level a2)
+
+10 cefr: store <v> (level b1)
+
+20 cefr: storm <n> (level a2)
+
+10 cefr: story <n> (level a1)
+
+10 cefr: straight <aj> (level a2)
+
+10 cefr: straight <av> (level a2)
+
+10 cefr: strange <aj> (level a2)
+
+20 cefr: stranger <n> (level b1)
+
+10 cefr: strategy <n> (level a2)
+
+10 cefr: stream <n> (level b2)
+
+10 cefr: street <n> (level a1)
+
+10 cefr: strength <n> (level b1)
+
+20 cefr: stress <n> (level a2)
+
+20 cefr: stress <v> (level a2)
+
+20 cefr: stretch <n> (level b2)
+
+20 cefr: stretch <v> (level b2)
+
+10 cefr: strict <aj> (level b2)
+
+10 cefr: strike <n> (level b2)
+
+10 cefr: strike <v> (level b2)
+
+10 cefr: string <n> (level b1)
+
+10 cefr: strong <aj> (level a1)
+
+10 cefr: strongly <av> (level b1)
+
+10 cefr: structure <n> (level a2)
+
+10 cefr: structure <v> (level b2)
+
+20 cefr: struggle <n> (level b2)
+
+20 cefr: struggle <v> (level b2)
+
+10 cefr: student <n> (level a1)
+
+20 cefr: studio <n> (level b1)
+
+10 cefr: study <n> (level a1)
+
+10 cefr: study <v> (level a1)
+
+10 cefr: stuff <n> (level b1)
+
+10 cefr: stuff <v> (level b2)
+
+10 cefr: stupid <aj> (level a2)
+
+10 cefr: style <n> (level a1)
+
+10 cefr: subject <aj> (level b2)
+
+10 cefr: subject <n> (level a1)
+
+10 cefr: submit <v> (level b2)
+
+20 cefr: substance <n> (level b1)
+
+35 cefr: suburb <n> (level b2)
+
+10 cefr: succeed <v> (level a2)
+
+10 cefr: success <n> (level a1)
+
+10 cefr: successful <aj> (level a2)
+
+10 cefr: successfully <av> (level b1)
+
+10 cefr: such <d> (level a2)
+
+10 cefr: such <pn> (level a2)
+
+10 cefr: sudden <aj> (level b1)
+
+10 cefr: suddenly <av> (level a2)
+
+10 cefr: suffer <v> (level b1)
+
+10 cefr: sugar <n> (level a1)
+
+10 cefr: suggest <v> (level a2)
+
+10 cefr: suggestion <n> (level a2)
+
+10 cefr: suit <n> (level a2)
+
+10 cefr: suit <v> (level b1)
+
+10 cefr: suitable <aj> (level b1)
+
+10 cefr: sum <n> (level b2)
+
+10 cefr: sum <v> (level b2)
+
+20 cefr: summarize <v> (level b1)
+
+10 cefr: summary <n> (level b1)
+
+10 cefr: summer <n> (level a1)
+
+10 cefr: sun <n> (level a1)
+
+80 cefr: Sunday <n> (level a1)
+
+20 cefr: supermarket <n> (level a1)
+
+10 cefr: supply <n> (level b1)
+
+10 cefr: supply <v> (level b1)
+
+10 cefr: support <n> (level a2)
+
+10 cefr: support <v> (level a2)
+
+20 cefr: supporter <n> (level b1)
+
+10 cefr: suppose <v> (level a2)
+
+10 cefr: sure <aj> (level a1)
+
+10 cefr: sure <av> (level a2)
+
+10 cefr: surely <av> (level b1)
+
+10 cefr: surface <n> (level b1)
+
+20 cefr: surgery <n> (level b2)
+
+10 cefr: surprise <n> (level a2)
+
+10 cefr: surprise <v> (level a2)
+
+10 cefr: surprised <aj> (level a2)
+
+10 cefr: surprising <aj> (level a2)
+
+20 cefr: surround <v> (level b2)
+
+20 cefr: surrounding <aj> (level b2)
+
+10 cefr: survey <n> (level a2)
+
+10 cefr: survey <v> (level b2)
+
+10 cefr: survive <v> (level b1)
+
+10 cefr: suspect <n> (level b2)
+
+10 cefr: suspect <v> (level b2)
+
+20 cefr: swear <v> (level b2)
+
+35 cefr: sweater <n> (level a1)
+
+20 cefr: sweep <v> (level b2)
+
+20 cefr: sweet <aj> (level a2)
+
+20 cefr: sweet <n> (level a2)
+
+20 cefr: swim <n> (level b1)
+
+20 cefr: swim <v> (level a1)
+
+20 cefr: swimming <n> (level a1)
+
+10 cefr: switch <n> (level b2)
+
+10 cefr: switch <v> (level b1)
+
+10 cefr: symbol <n> (level a2)
+
+20 cefr: sympathy <n> (level b2)
+
+20 cefr: symptom <n> (level b1)
+
+10 cefr: system <n> (level a2)
+
+60 cefr: T-shirt <n> (level a1)
+
+10 cefr: table <n> (level a1)
+
+35 cefr: tablet <n> (level a2)
+
+20 cefr: tail <n> (level b1)
+
+10 cefr: take <v> (level a1)
+
+20 cefr: tale <n> (level b2)
+
+20 cefr: talent <n> (level b1)
+
+20 cefr: talented <aj> (level b1)
+
+10 cefr: talk <n> (level a2)
+
+10 cefr: talk <v> (level a1)
+
+20 cefr: tall <aj> (level a1)
+
+10 cefr: tank <n> (level b2)
+
+10 cefr: tape <n> (level b1)
+
+10 cefr: target <n> (level a2)
+
+10 cefr: target <v> (level b2)
+
+10 cefr: task <n> (level a2)
+
+10 cefr: taste <n> (level a2)
+
+10 cefr: taste <v> (level a2)
+
+10 cefr: tax <n> (level b1)
+
+10 cefr: tax <v> (level b1)
+
+20 cefr: taxi <n> (level a1)
+
+10 cefr: tea <n> (level a1)
+
+10 cefr: teach <v> (level a1)
+
+10 cefr: teacher <n> (level a1)
+
+10 cefr: teaching <n> (level a2)
+
+10 cefr: team <n> (level a1)
+
+20 cefr: tear <n> (level b2)
+
+20 cefr: tear <v> (level b2)
+
+10 cefr: technical <aj> (level b1)
+
+10 cefr: technique <n> (level b1)
+
+10 cefr: technology <n> (level a2)
+
+20 cefr: teenage <aj> (level a2)
+
+20 cefr: teenager <n> (level a1)
+
+10 cefr: telephone <n> (level a1)
+
+10 cefr: telephone <v> (level a1)
+
+10 cefr: television <n> (level a1)
+
+10 cefr: tell <v> (level a1)
+
+10 cefr: temperature <n> (level a2)
+
+10 cefr: temporary <aj> (level b2)
+
+10 cefr: ten <n> (level a1)
+
+10 cefr: tend <v> (level b1)
+
+20 cefr: tennis <n> (level a1)
+
+35 cefr: tent <n> (level b1)
+
+10 cefr: term <n> (level a2)
+
+10 cefr: term <v> (level b2)
+
+20 cefr: terrible <aj> (level a1)
+
+10 cefr: test <n> (level a1)
+
+10 cefr: test <v> (level a1)
+
+10 cefr: text <n> (level a1)
+
+10 cefr: text <v> (level a2)
+
+10 cefr: than <c> (level a1)
+
+10 cefr: than <pp> (level a1)
+
+10 cefr: thank <v> (level a1)
+
+10 cefr: thanks <i> (level a1)
+
+10 cefr: thanks <n> (level a1)
+
+10 cefr: that <av> (level b1)
+
+10 cefr: that <c> (level a1)
+
+10 cefr: that <d> (level a1)
+
+10 cefr: that <pn> (level a1)
+
+10 cefr: the <d> (level a1)
+
+20 cefr: theatre <n> (level a1)
+
+20 cefr: theft <n> (level b2)
+
+10 cefr: their <d> (level a1)
+
+20 cefr: theirs <pn> (level b1)
+
+10 cefr: them <pn> (level a1)
+
+20 cefr: theme <n> (level b1)
+
+10 cefr: themselves <pn> (level a2)
+
+10 cefr: then <av> (level a1)
+
+10 cefr: theory <n> (level b1)
+
+20 cefr: therapy <n> (level b2)
+
+10 cefr: there <av> (level a1)
+
+10 cefr: therefore <av> (level b1)
+
+10 cefr: they <pn> (level a1)
+
+20 cefr: thick <aj> (level a2)
+
+20 cefr: thief <n> (level a2)
+
+10 cefr: thin <aj> (level a2)
+
+10 cefr: thing <n> (level a1)
+
+10 cefr: think <v> (level a1)
+
+10 cefr: thinking <n> (level a2)
+
+10 cefr: third <n> (level a2)
+
+10 cefr: third <n/ordinal> (level a1)
+
+35 cefr: thirsty <aj> (level a1)
+
+35 cefr: thirteen <n> (level a1)
+
+20 cefr: thirty <n> (level a1)
+
+10 cefr: this <av> (level b1)
+
+10 cefr: this <d> (level a1)
+
+10 cefr: this <pn> (level a1)
+
+10 cefr: though <av> (level b1)
+
+10 cefr: though <c> (level b1)
+
+10 cefr: thought <n> (level a2)
+
+10 cefr: thousand <n> (level a1)
+
+10 cefr: threat <n> (level b2)
+
+20 cefr: threaten <v> (level b2)
+
+10 cefr: three <n> (level a1)
+
+20 cefr: throat <n> (level b1)
+
+10 cefr: through <av> (level a1)
+
+10 cefr: through <pp> (level a1)
+
+10 cefr: throughout <av> (level b1)
+
+10 cefr: throughout <pp> (level b1)
+
+10 cefr: throw <v> (level a2)
+
+80 cefr: Thursday <n> (level a1)
+
+10 cefr: thus <av> (level b2)
+
+10 cefr: ticket <n> (level a1)
+
+20 cefr: tidy <aj> (level a2)
+
+20 cefr: tidy <v> (level a2)
+
+10 cefr: tie <n> (level a2)
+
+10 cefr: tie <v> (level a2)
+
+10 cefr: tight <aj> (level b1)
+
+10 cefr: till <c> (level b1)
+
+10 cefr: till <pp> (level b1)
+
+10 cefr: time <n> (level a1)
+
+10 cefr: time <v> (level b2)
+
+10 cefr: tin <n> (level b1)
+
+20 cefr: tiny <aj> (level b1)
+
+20 cefr: tip <n> (level a2)
+
+20 cefr: tip <v> (level b1)
+
+20 cefr: tired <aj> (level a1)
+
+10 cefr: title <n> (level a1)
+
+10 cefr: title <v> (level b2)
+
+10 cefr: to  (level a1)
+
+10 cefr: to <pp> (level a1)
+
+10 cefr: today <av> (level a1)
+
+10 cefr: today <n> (level a1)
+
+20 cefr: toe <n> (level b1)
+
+10 cefr: together <av> (level a1)
+
+20 cefr: toilet <n> (level a1)
+
+20 cefr: tomato <n> (level a1)
+
+10 cefr: tomorrow <av> (level a1)
+
+10 cefr: tomorrow <n> (level a1)
+
+20 cefr: tone <n> (level b2)
+
+20 cefr: tongue <n> (level b1)
+
+10 cefr: tonight <av> (level a1)
+
+10 cefr: tonight <n> (level a1)
+
+10 cefr: too <av> (level a1)
+
+20 cefr: tool <n> (level a2)
+
+10 cefr: tooth <n> (level a1)
+
+10 cefr: top <aj> (level a2)
+
+10 cefr: top <n> (level a2)
+
+10 cefr: topic <n> (level a1)
+
+10 cefr: total <aj> (level b1)
+
+10 cefr: total <n> (level b1)
+
+10 cefr: totally <av> (level b1)
+
+10 cefr: touch <n> (level b1)
+
+10 cefr: touch <v> (level a2)
+
+20 cefr: tough <aj> (level b2)
+
+20 cefr: tour <n> (level a2)
+
+20 cefr: tour <v> (level b1)
+
+40 cefr: tourism <n> (level a2)
+
+20 cefr: tourist <n> (level a1)
+
+10 cefr: towards <pp> (level a2)
+
+35 cefr: towel <n> (level a2)
+
+20 cefr: tower <n> (level a2)
+
+10 cefr: town <n> (level a1)
+
+20 cefr: toy <aj> (level a2)
+
+20 cefr: toy <n> (level a2)
+
+10 cefr: track <n> (level a2)
+
+10 cefr: track <v> (level b2)
+
+20 cefr: trade <n> (level b1)
+
+20 cefr: trade <v> (level b1)
+
+20 cefr: tradition <n> (level a2)
+
+10 cefr: traditional <aj> (level a2)
+
+10 cefr: traffic <n> (level a1)
+
+10 cefr: train <n> (level a1)
+
+10 cefr: train <v> (level a2)
+
+35 cefr: trainer <n> (level a2)
+
+10 cefr: training <n> (level a2)
+
+10 cefr: transfer <n> (level b2)
+
+10 cefr: transfer <v> (level b2)
+
+20 cefr: transform <v> (level b2)
+
+20 cefr: transition <n> (level b2)
+
+10 cefr: translate <v> (level b1)
+
+10 cefr: translation <n> (level b1)
+
+10 cefr: transport <n> (level a2)
+
+10 cefr: transport <v> (level b1)
+
+10 cefr: travel <n> (level a1)
+
+10 cefr: travel <v> (level a1)
+
+35 cefr: traveller <n> (level a2)
+
+10 cefr: treat <v> (level b1)
+
+10 cefr: treatment <n> (level b1)
+
+10 cefr: tree <n> (level a1)
+
+20 cefr: trend <n> (level b1)
+
+10 cefr: trial <n> (level b2)
+
+10 cefr: trick <n> (level b1)
+
+10 cefr: trick <v> (level b1)
+
+10 cefr: trip <n> (level a1)
+
+10 cefr: trip <v> (level b2)
+
+35 cefr: tropical <aj> (level b2)
+
+10 cefr: trouble <n> (level a2)
+
+10 cefr: trouble <v> (level b2)
+
+20 cefr: trousers <n> (level a1)
+
+10 cefr: truck <n> (level a2)
+
+80 cefr: true <aj> (level a1)
+
+10 cefr: truly <av> (level b2)
+
+10 cefr: trust <n> (level b2)
+
+10 cefr: trust <v> (level b2)
+
+10 cefr: truth <n> (level b1)
+
+10 cefr: try <n> (level b2)
+
+10 cefr: try <v> (level a1)
+
+20 cefr: tube <n> (level b1)
+
+80 cefr: Tuesday <n> (level a1)
+
+10 cefr: tune <n> (level b2)
+
+20 cefr: tunnel <n> (level b2)
+
+10 cefr: turn <n> (level a1)
+
+10 cefr: turn <v> (level a1)
+
+80 cefr: TV <n> (level a1)
+
+10 cefr: twelve <n> (level a1)
+
+10 cefr: twenty <n> (level a1)
+
+10 cefr: twice <av> (level a1)
+
+20 cefr: twin <aj> (level a2)
+
+20 cefr: twin <n> (level a2)
+
+10 cefr: two <n> (level a1)
+
+10 cefr: type <n> (level a1)
+
+10 cefr: type <v> (level b1)
+
+10 cefr: typical <aj> (level a2)
+
+20 cefr: typically <av> (level b1)
+
+35 cefr: tyre <n> (level b1)
+
+10 cefr: ugly <aj> (level b1)
+
+10 cefr: ultimately <av> (level b2)
+
+20 cefr: umbrella <n> (level a1)
+
+10 cefr: unable <aj> (level b1)
+
+20 cefr: uncle <n> (level a1)
+
+70 cefr: uncomfortable <aj> (level b1)
+
+20 cefr: unconscious <aj> (level b2)
+
+10 cefr: under <av> (level a1)
+
+10 cefr: under <pp> (level a1)
+
+20 cefr: underground <aj> (level a2)
+
+20 cefr: underground <av> (level a2)
+
+10 cefr: understand <v> (level a1)
+
+70 cefr: understanding <n> (level a2)
+
+35 cefr: underwear <n> (level b1)
+
+20 cefr: unemployed <aj> (level b1)
+
+20 cefr: unemployment <n> (level b1)
+
+20 cefr: unexpected <aj> (level b2)
+
+20 cefr: unfair <aj> (level b1)
+
+10 cefr: unfortunately <av> (level a2)
+
+10 cefr: unhappy <aj> (level a2)
+
+10 cefr: uniform <n> (level a2)
+
+20 cefr: union <n> (level b1)
+
+10 cefr: unique <aj> (level b2)
+
+10 cefr: unit <n> (level a2)
+
+20 cefr: united <aj> (level a2)
+
+20 cefr: universe <n> (level b2)
+
+10 cefr: university <n> (level a1)
+
+10 cefr: unknown <aj> (level b2)
+
+10 cefr: unless <c> (level b1)
+
+10 cefr: unlike <pp> (level b1)
+
+10 cefr: unlikely <aj> (level b1)
+
+10 cefr: unnecessary <aj> (level b1)
+
+10 cefr: unpleasant <aj> (level b1)
+
+10 cefr: until <c> (level a1)
+
+10 cefr: until <pp> (level a1)
+
+10 cefr: unusual <aj> (level a2)
+
+10 cefr: up <av> (level a1)
+
+10 cefr: up <pp> (level a1)
+
+10 cefr: update <n> (level b1)
+
+10 cefr: update <v> (level b1)
+
+10 cefr: upon <pp> (level b1)
+
+10 cefr: upper <aj> (level b2)
+
+10 cefr: upset <aj> (level b1)
+
+10 cefr: upset <v> (level b1)
+
+20 cefr: upstairs <aj> (level a2)
+
+20 cefr: upstairs <av> (level a1)
+
+10 cefr: upwards <av> (level b2)
+
+20 cefr: urban <aj> (level b2)
+
+20 cefr: urge <v> (level b2)
+
+10 cefr: us <pn> (level a1)
+
+10 cefr: use <n> (level a2)
+
+10 cefr: use <v> (level a1)
+
+10 cefr: used <aj> (level b1)
+
+10 cefr: used to <v/modal> (level a2)
+
+10 cefr: useful <aj> (level a1)
+
+10 cefr: user <n> (level a2)
+
+10 cefr: usual <aj> (level a2)
+
+10 cefr: usually <av> (level a1)
+
+10 cefr: vacation <n> (level a1)
+
+20 cefr: valley <n> (level a2)
+
+10 cefr: valuable <aj> (level b1)
+
+10 cefr: value <n> (level b1)
+
+10 cefr: value <v> (level b2)
+
+10 cefr: van <n> (level a2)
+
+10 cefr: variety <n> (level a2)
+
+10 cefr: various <aj> (level b1)
+
+10 cefr: vary <v> (level b2)
+
+10 cefr: vast <aj> (level b2)
+
+20 cefr: vegetable <n> (level a1)
+
+20 cefr: vehicle <n> (level a2)
+
+20 cefr: venue <n> (level b2)
+
+10 cefr: version <n> (level b1)
+
+10 cefr: very <aj> (level b2)
+
+10 cefr: very <av> (level a1)
+
+10 cefr: via <pp> (level b2)
+
+20 cefr: victim <n> (level b1)
+
+20 cefr: victory <n> (level b2)
+
+10 cefr: video <n> (level a1)
+
+10 cefr: view <n> (level a2)
+
+10 cefr: view <v> (level b1)
+
+20 cefr: viewer <n> (level b1)
+
+20 cefr: village <n> (level a1)
+
+20 cefr: violence <n> (level b2)
+
+20 cefr: violent <aj> (level b1)
+
+20 cefr: virtual <aj> (level b2)
+
+20 cefr: virus <n> (level a2)
+
+10 cefr: vision <n> (level b2)
+
+10 cefr: visit <n> (level a1)
+
+10 cefr: visit <v> (level a1)
+
+20 cefr: visitor <n> (level a1)
+
+20 cefr: visual <aj> (level b2)
+
+10 cefr: vital <aj> (level b2)
+
+35 cefr: vitamin <n> (level b2)
+
+10 cefr: voice <n> (level a2)
+
+10 cefr: volume <n> (level b2)
+
+20 cefr: volunteer <n> (level b1)
+
+20 cefr: volunteer <v> (level b1)
+
+10 cefr: vote <n> (level b1)
+
+10 cefr: vote <v> (level b1)
+
+20 cefr: wage <n> (level b2)
+
+10 cefr: wait <n> (level a2)
+
+10 cefr: wait <v> (level a1)
+
+35 cefr: waiter <n> (level a1)
+
+20 cefr: wake <v> (level a1)
+
+10 cefr: walk <n> (level a1)
+
+10 cefr: walk <v> (level a1)
+
+10 cefr: wall <n> (level a1)
+
+10 cefr: want <v> (level a1)
+
+10 cefr: war <n> (level a2)
+
+10 cefr: warm <aj> (level a1)
+
+10 cefr: warm <v> (level b1)
+
+10 cefr: warn <v> (level b1)
+
+10 cefr: warning <n> (level b1)
+
+10 cefr: wash <n> (level a2)
+
+10 cefr: wash <v> (level a1)
+
+20 cefr: washing <n> (level a2)
+
+10 cefr: waste <aj> (level b1)
+
+10 cefr: waste <n> (level b1)
+
+10 cefr: waste <v> (level b1)
+
+10 cefr: watch <n> (level a1)
+
+10 cefr: watch <v> (level a1)
+
+10 cefr: water <n> (level a1)
+
+10 cefr: water <v> (level b1)
+
+20 cefr: wave <n> (level a2)
+
+20 cefr: wave <v> (level b1)
+
+10 cefr: way <av> (level b2)
+
+10 cefr: way <n> (level a1)
+
+10 cefr: we <pn> (level a1)
+
+20 cefr: weak <aj> (level a2)
+
+20 cefr: weakness <n> (level b2)
+
+20 cefr: wealth <n> (level b2)
+
+20 cefr: wealthy <aj> (level b2)
+
+10 cefr: weapon <n> (level b1)
+
+10 cefr: wear <v> (level a1)
+
+10 cefr: weather <n> (level a1)
+
+35 cefr: web <n> (level a2)
+
+40 cefr: website <n> (level a1)
+
+20 cefr: wedding <n> (level a2)
+
+80 cefr: Wednesday <n> (level a1)
+
+10 cefr: week <n> (level a1)
+
+10 cefr: weekend <n> (level a1)
+
+20 cefr: weigh <v> (level b1)
+
+10 cefr: weight <n> (level a2)
+
+10 cefr: welcome <aj> (level a1)
+
+10 cefr: welcome <i> (level a1)
+
+10 cefr: welcome <n> (level a2)
+
+10 cefr: welcome <v> (level a1)
+
+10 cefr: well <aj> (level a1)
+
+10 cefr: well <av> (level a1)
+
+10 cefr: well <i> (level a1)
+
+10 cefr: west <aj> (level a1)
+
+10 cefr: west <av> (level a1)
+
+10 cefr: west <n> (level a1)
+
+10 cefr: western <aj> (level b1)
+
+20 cefr: wet <aj> (level a2)
+
+10 cefr: what <d> (level a1)
+
+10 cefr: what <pn> (level a1)
+
+10 cefr: whatever <d> (level b1)
+
+10 cefr: whatever <pn> (level b1)
+
+10 cefr: wheel <n> (level a2)
+
+10 cefr: when <av> (level a1)
+
+10 cefr: when <c> (level a1)
+
+10 cefr: when <pn> (level a1)
+
+10 cefr: whenever <c> (level b1)
+
+10 cefr: where <av> (level a1)
+
+10 cefr: where <c> (level a1)
+
+10 cefr: whereas <c> (level b2)
+
+10 cefr: wherever <c> (level b2)
+
+10 cefr: whether <c> (level b1)
+
+10 cefr: which <d> (level a1)
+
+10 cefr: which <pn> (level a1)
+
+10 cefr: while <c> (level a2)
+
+10 cefr: while <n> (level b1)
+
+35 cefr: whisper <n> (level b2)
+
+35 cefr: whisper <v> (level b2)
+
+10 cefr: white <aj> (level a1)
+
+10 cefr: white <n> (level a1)
+
+10 cefr: who <pn> (level a1)
+
+10 cefr: whole <aj> (level a2)
+
+10 cefr: whole <n> (level b1)
+
+10 cefr: whom <pn> (level b2)
+
+10 cefr: whose <d> (level a2)
+
+10 cefr: whose <pn> (level a2)
+
+10 cefr: why <av> (level a1)
+
+10 cefr: wide <aj> (level a2)
+
+10 cefr: widely <av> (level b2)
+
+10 cefr: wife <n> (level a1)
+
+10 cefr: wild <aj> (level a2)
+
+35 cefr: wildlife <n> (level b2)
+
+10 cefr: will <n> (level b1)
+
+10 cefr: will <v/modal> (level a1)
+
+10 cefr: willing <aj> (level b2)
+
+10 cefr: win <n> (level b1)
+
+10 cefr: win <v> (level a1)
+
+10 cefr: wind <n> (level a2)
+
+10 cefr: wind <v> (level b2)
+
+10 cefr: window <n> (level a1)
+
+10 cefr: wine <n> (level a1)
+
+20 cefr: wing <n> (level b1)
+
+20 cefr: winner <n> (level a2)
+
+10 cefr: winter <n> (level a1)
+
+10 cefr: wire <n> (level b2)
+
+10 cefr: wise <aj> (level b2)
+
+10 cefr: wish <n> (level a2)
+
+10 cefr: wish <v> (level a2)
+
+10 cefr: with <pp> (level a1)
+
+10 cefr: within <pp> (level b1)
+
+10 cefr: without <pp> (level a1)
+
+20 cefr: witness <n> (level b2)
+
+20 cefr: witness <v> (level b2)
+
+10 cefr: woman <n> (level a1)
+
+10 cefr: wonder <n> (level b1)
+
+10 cefr: wonder <v> (level b1)
+
+10 cefr: wonderful <aj> (level a1)
+
+20 cefr: wood <n> (level a2)
+
+10 cefr: wooden <aj> (level a2)
+
+35 cefr: wool <n> (level b1)
+
+10 cefr: word <n> (level a1)
+
+10 cefr: work <n> (level a1)
+
+10 cefr: work <v> (level a1)
+
+10 cefr: worker <n> (level a1)
+
+10 cefr: working <aj> (level a2)
+
+10 cefr: world <n> (level a1)
+
+20 cefr: worldwide <aj> (level b1)
+
+20 cefr: worldwide <av> (level b1)
+
+10 cefr: worried <aj> (level a2)
+
+10 cefr: worry <n> (level b1)
+
+10 cefr: worry <v> (level a2)
+
+10 cefr: worse <aj> (level a2)
+
+10 cefr: worse <av> (level b1)
+
+10 cefr: worse <n> (level b2)
+
+10 cefr: worst <aj> (level a2)
+
+10 cefr: worst <av> (level b1)
+
+10 cefr: worst <n> (level b2)
+
+10 cefr: worth <aj> (level b1)
+
+10 cefr: worth <n> (level b2)
+
+10 cefr: would <v/modal> (level a1)
+
+20 cefr: wound <n> (level b2)
+
+20 cefr: wound <v> (level b2)
+
+20 cefr: wow <i> (level a2)
+
+20 cefr: wrap <v> (level b2)
+
+20 cefr: wrist <n> (level b2)
+
+10 cefr: write <v> (level a1)
+
+10 cefr: writer <n> (level a1)
+
+10 cefr: writing <n> (level a1)
+
+10 cefr: written <aj> (level b1)
+
+10 cefr: wrong <aj> (level a1)
+
+10 cefr: wrong <av> (level b1)
+
+10 cefr: wrong <n> (level b2)
+
+20 cefr: yard <n> (level b1)
+
+40 cefr: yeah <i> (level a1)
+
+10 cefr: year <n> (level a1)
+
+10 cefr: yellow <aj> (level a1)
+
+10 cefr: yellow <n> (level a1)
+
+10 cefr: yes <i> (level a1)
+
+10 cefr: yesterday <av> (level a1)
+
+10 cefr: yesterday <n> (level a1)
+
+10 cefr: yet <av> (level a2)
+
+10 cefr: yet <c> (level b2)
+
+10 cefr: you <pn> (level a1)
+
+10 cefr: young <aj> (level a1)
+
+10 cefr: young <n> (level b1)
+
+10 cefr: your <d> (level a1)
+
+10 cefr: yours <pn> (level a2)
+
+10 cefr: yourself <pn> (level a1)
+
+20 cefr: youth <n> (level b1)
+
+10 cefr: zero <n> (level a2)
+
+20 cefr: zone <n> (level b2)
+

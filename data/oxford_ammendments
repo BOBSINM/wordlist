@@ -1,0 +1,70 @@
+#:: adjust
+
+- _: downward <av>
+- _.: downwards <av>
++ A C D: downward
++ B Z: downwards
+
+- _: upward <av>
+- _.: upwards <av>
++ A C D: upward
++ B Z: upwards
+
+- _: anymore <av>
+- _: any more <av>
++ A C D: anymore
++ B Z: any more
+
+- inquire <v>
++ A B C D: inquire
+- enquire <v>
++ Z: enquire
+
+- inquiry <n>
++ A B C D: inquiry
+- enquiry <n>
++ Z: enquiry
+
+- program <n>
+programme <n>
++ A B C D Z: program
+
+- program <v>
+programme <v>
++ A B C D Z: program
+
+- filmmaker <n>
++ A C D: filmmaker
+- _v: film-maker <n>
++ B Z: film-maker
+
+- _: fund-raising <n>
++ A C D: fund-raising
+- _v: fundraising <n>
++ B Z: fundraising
+
+- lineup <n>
++ A C D: lineup
+- _v: line-up <n>
++ B Z: line-up
+
+- longtime <aj>
++ A C D: longtime
+- _v: long-time <aj>
++ B Z: long-time
+
+- makeup <n>
++ A C D: makeup
+- _v: make-up <n>
++ B Z: make-up
+
+- postwar <aj>
++ A C D: postwar
+- _v: post-war <aj>
++ B Z: post-war
+
+- setup <n>
++ A C D: setup
+- _v: set-up <n>
++ B Z: set-up
+
