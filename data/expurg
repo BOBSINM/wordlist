@@ -1,758 +1,758 @@
 #:: adjust
 
-_: abo <n> (offensive-1)
+_: abo <n> (offensive-5)
 
-_: apeshit (vulgar-1)
-_: ape shit (vulgar-1)
+_: apeshit (vulgar-5)
+_: ape shit (vulgar-5)
 
-B: arse <n> (vulgar-1)
+B: arse <n> (vulgar-5)
 
-B: arse <v> (vulgar-1)
+B: arse <v> (vulgar-5)
 
-A: ass <n> {buttocks} (vulgar-1)
-B: arse <n> {buttocks} (vulgar-1)
+A: ass <n> {buttocks} (vulgar-5)
+B: arse <n> {buttocks} (vulgar-5)
 
-A B: ass <n> {donkey} (offensive-1)
+A B: ass <n> {donkey} (offensive-5)
 
-_: badass <n> (vulgar-3)
+_: badass <n> (vulgar-5)
 
-_: badassed (vulgar-3)
+_: badassed (vulgar-5)
 
-_: baldy <n> (offensive-2)
+_: baldy <n> (offensive-5)
 
-_: ballocks <m> (offensive-3)
+_: ballocks <m> (offensive-5)
 
-_: ballsiness (offensive-3)
+_: ballsiness (offensive-5)
 
-_: ballsy <a> (offensive-3)
+_: ballsy <a> (offensive-5)
 
-_: bastard <n> (offensive-3)
+_: bastard <n> (offensive-5)
 
-_: bastard <aj> (offensive-3)
+_: bastard <aj> (offensive-5)
 
-_: bastardism (offensive-3)
+_: bastardism (offensive-5)
 
-_: bastardization <n> (offensive-3)
-_: bastardisation <n> (offensive-3)
+_: bastardization <n> (offensive-5)
+_: bastardisation <n> (offensive-5)
 
-_: bastardize <v> (offensive-3)
-_: bastardise <v> (offensive-3)
+_: bastardize <v> (offensive-5)
+_: bastardise <v> (offensive-5)
 
-_: bastardized <aj> (offensive-3)
-_: bastardised <aj> (offensive-3)
+_: bastardized <aj> (offensive-5)
+_: bastardised <aj> (offensive-5)
 
-_: bastardly <aj> (offensive-3)
+_: bastardly <aj> (offensive-5)
 
-_: bastardy <n> (offensive-3)
+_: bastardy <n> (offensive-5)
 
-_: bazooms (vulgar-2)
+_: bazooms (vulgar-5)
 
-_: bitch <n> (offensive-3)
+_: bitch <n> (offensive-5)
 
-_: bitch <v> (offensive-3)
+_: bitch <v> (offensive-5)
 
-_: bitchen (offensive-3)
+_: bitchen (offensive-5)
 
-_: bitchery <n> (offensive-3)
+_: bitchery <n> (offensive-5)
 
-_: bitchily <a> (offensive-3)
+_: bitchily <a> (offensive-5)
 
-_: bitchin (offensive-3)
+_: bitchin (offensive-5)
 
-_: bitchiness <n> (offensive-3)
+_: bitchiness <n> (offensive-5)
 
-_: bitchy <aj> (offensive-3)
+_: bitchy <aj> (offensive-5)
 
-_: blackamoor <n> (offensive-1)
+_: blackamoor <n> (offensive-5)
 
-_: blow job <n> (vulgar-1)
-_: blowjob <n> (vulgar-1)
+_: blow job <n> (vulgar-5)
+_: blowjob <n> (vulgar-5)
 
-_: Boche <n/upper> (offensive-1)
+_: Boche <n/upper> (offensive-5)
 
-_: boche <n> (offensive-1)
+_: boche <n> (offensive-5)
 
-_: boff <m> (vulgar-1)
+_: boff <m> (vulgar-5)
 
-_: bogtrotter <n> (offensive-1)
+_: bogtrotter <n> (offensive-5)
 
-_: bohunk <n> (offensive-1)
+_: bohunk <n> (offensive-5)
 
-_: boink <m> (vulgar-2)
+_: boink <m> (vulgar-5)
 
-_: bollock <n> (offensive-3)
+_: bollock <n> (offensive-5)
 
-_: bollocks <v> (offensive-3)
+_: bollocks <v> (offensive-5)
 
-_: boobie (vulgar-2)
+_: boobie (vulgar-5)
 
-_: booby <n> (vulgar-2)
+_: booby <n> (vulgar-5)
 
-_: boody <n> (vulgar-2)
+_: boody <n> (vulgar-5)
 
-_: bubba <n> (offensive-3)
+_: bubba <n> (offensive-5)
 
-_: bubby <n> (vulgar-2)
+_: bubby <n> (vulgar-5)
 
-_: buckra <n> (offensive-1)
+_: buckra <n> (offensive-5)
 
-_: bulldyke <n> (offensive-1)
+_: bulldyke <n> (offensive-5)
 
-_: butch <n> (offensive-2)
+_: butch <n> (offensive-5)
 
-_: butcher <n> (offensive-2)
+_: butcher <n> (offensive-5)
 
-_: chola <n> (offensive-1)
+_: chola <n> (offensive-5)
 
-_: cholo <n> (offensive-1)
+_: cholo <n> (offensive-5)
 
-_: clit <n> (vulgar-1)
+_: clit <n> (vulgar-5)
 
-_: cojones (vulgar-1)
+_: cojones (vulgar-5)
 
-_: colored <n> (offensive-1)
-_: coloured <n> (offensive-1)
+_: colored <n> (offensive-5)
+_: coloured <n> (offensive-5)
 
-_: Colored <n/upper?> (offensive-1)
+_: Colored <n/upper?> (offensive-5)
 
-_: Coloured <n/upper> (offensive-1)
+_: Coloured <n/upper> (offensive-5)
 
-_: Comsymp <n/upper> (offensive-1)
+_: Comsymp <n/upper> (offensive-5)
 
-_: comsymp <n> (offensive-1)
+_: comsymp <n> (offensive-5)
 
-_: crip <n> (offensive-1)
+_: crip <n> (offensive-5)
 
-_: crumbly <n> (offensive-1)
+_: crumbly <n> (offensive-5)
 
-_: culchie <n> (offensive-1)
+_: culchie <n> (offensive-5)
 
-_: cum <v> (vulgar-1)
+_: cum <v> (vulgar-5)
 
-_: Dago <n/upper> (offensive-1)
+_: Dago <n/upper> (offensive-5)
 
-_: dago <n> (offensive-1)
+_: dago <n> (offensive-5)
 
-_: darkey <n> (offensive-1)
+_: darkey <n> (offensive-5)
 
-_: darkie <n> (offensive-1)
+_: darkie <n> (offensive-5)
 
-_: darky (offensive-1)
+_: darky (offensive-5)
 
-_: dickhead <n> (vulgar-1)
+_: dickhead <n> (vulgar-5)
 
-_: dykey <a> (offensive-1)
-_: dikey <a> (offensive-1)
+_: dykey <a> (offensive-5)
+_: dikey <a> (offensive-5)
 
-_: dipshit <n> (vulgar-1)
+_: dipshit <n> (vulgar-5)
 
-_: dipso <n> (offensive-1)
+_: dipso <n> (offensive-5)
 
-_: dipsomania <n> (offensive-1)
+_: dipsomania <n> (offensive-5)
 
-_: dipsomaniac <n> (offensive-1)
+_: dipsomaniac <n> (offensive-5)
 
-_: dipsomaniacal (offensive-1)
+_: dipsomaniacal (offensive-5)
 
-_: dipstick <n> (offensive-1)
-_: dip-stick <n> (offensive-1)
+_: dipstick <n> (offensive-5)
+_: dip-stick <n> (offensive-5)
 
-_: eff <v> (vulgar-1)
+_: eff <v> (vulgar-5)
 
-_: fag <n> (offensive-1)
+_: fag <n> (offensive-5)
 
-_: faggot <n> (offensive-1)
+_: faggot <n> (offensive-5)
 
-_: faggotry <n> (offensive-1)
+_: faggotry <n> (offensive-5)
 
-_: faggoty (offensive-1)
+_: faggoty (offensive-5)
 
-_: faggy <a> (offensive-1)
+_: faggy <a> (offensive-5)
 
-_: fanny <n> (offensive-1)
+_: fanny <n> (offensive-5)
 
-_: fatso <n> (offensive-1)
+_: fatso <n> (offensive-5)
 
-_: fist <v> (vulgar-1)
+_: fist <v> (vulgar-5)
 
-_: fistfuck <m> (vulgar-1)
+_: fistfuck <m> (vulgar-5)
 
-_: frig <v> (offensive-3)
+_: frig <v> (offensive-5)
 
-_: frigging <n> (offensive-3)
+_: frigging <n> (offensive-5)
 
-_: fubar (offensive-2)
+_: fubar (offensive-5)
 
-_: fuck all <n> (vulgar-1)
+_: fuck all <n> (vulgar-5)
 
-_: fucked up (vulgar-1)
+_: fucked up (vulgar-5)
 
-_: fuckface <n> (vulgar-1)
+_: fuckface <n> (vulgar-5)
 
-_: fuckoff <n> (vulgar-1)
+_: fuckoff <n> (vulgar-5)
 
-_: fuckup <n> (vulgar-1)
-_: fuck-up <n> (vulgar-1)
+_: fuckup <n> (vulgar-5)
+_: fuck-up <n> (vulgar-5)
 
-_: gang bang <n> (vulgar-1)
+_: gang bang <n> (vulgar-5)
 
-_: gangbang <m> (vulgar-1)
+_: gangbang <m> (vulgar-5)
 
-_: gangbanger <n> (offensive-1)
+_: gangbanger <n> (offensive-5)
 
-_: gazoo <n> (vulgar-1)
+_: gazoo <n> (vulgar-5)
 
-_: ginzo <n> (offensive-1)
+_: ginzo <n> (offensive-5)
 
-_: girly <a> (offensive-3)
-_: girlie <a> (offensive-3)
+_: girly <a> (offensive-5)
+_: girlie <a> (offensive-5)
 
-_: girly <n> (offensive-3)
-_: girlie <n> (offensive-3)
+_: girly <n> (offensive-5)
+_: girlie <n> (offensive-5)
 
-_: gobshite <n> (offensive-1)
+_: gobshite <n> (offensive-5)
 
-_: goddammit <i> (offensive-3)
+_: goddammit <i> (offensive-5)
 
-_: goddamn <aj> (offensive-3)
-_: goddam <aj> (offensive-3)
+_: goddamn <aj> (offensive-5)
+_: goddam <aj> (offensive-5)
 
-_: goddamn <av> (offensive-3)
-_: goddam <av> (offensive-3)
+_: goddamn <av> (offensive-5)
+_: goddam <av> (offensive-5)
 
-_: goddamn <i> (offensive-3)
-_: goddam <i> (offensive-3)
+_: goddamn <i> (offensive-5)
+_: goddam <i> (offensive-5)
 
-_: goddamn <n> (offensive-3)
-_: goddam <n> (offensive-3)
+_: goddamn <n> (offensive-5)
+_: goddam <n> (offensive-5)
 
-_: goddamn <v> (offensive-3)
-_: goddam <v> (offensive-3)
+_: goddamn <v> (offensive-5)
+_: goddam <v> (offensive-5)
 
-_: Goddam <m/upper?> (offensive-3)
+_: Goddam <m/upper?> (offensive-5)
 
-_: Goddamn <m/upper?> (offensive-3)
+_: Goddamn <m/upper?> (offensive-5)
 
-_: goddamned <aj> (offensive-3)
-_: goddamed <aj> (offensive-3)
+_: goddamned <aj> (offensive-5)
+_: goddamed <aj> (offensive-5)
 
-_: goddamned <av> (offensive-3)
-_: goddamed <av> (offensive-3)
+_: goddamned <av> (offensive-5)
+_: goddamed <av> (offensive-5)
 
-_: goolie <n> (offensive-3)
+_: goolie <n> (offensive-5)
 
-_: gooly <n> (offensive-3)
+_: gooly <n> (offensive-5)
 
-_: goy <n> (offensive-1)
+_: goy <n> (offensive-5)
 
-_: goyim (offensive-1)
+_: goyim (offensive-5)
 
-_: goyish (offensive-1)
+_: goyish (offensive-5)
 
-_: graybeard <n> (offensive-3)
+_: graybeard <n> (offensive-5)
 
-_: greaseball <n> (offensive-2)
+_: greaseball <n> (offensive-5)
 
-_: greybeard <n> (offensive-3)
+_: greybeard <n> (offensive-5)
 
-_: gringa <n> (offensive-3)
+_: gringa <n> (offensive-5)
 
-_: gringo <n> (offensive-3)
+_: gringo <n> (offensive-5)
 
-_: gynarchic (offensive-3)
+_: gynarchic (offensive-5)
 
-_: gynarchy <n> (offensive-3)
+_: gynarchy <n> (offensive-5)
 
-_: gynecocracy <n> (offensive-3)
-_: gynaecocracy <n> (offensive-3)
+_: gynecocracy <n> (offensive-5)
+_: gynaecocracy <n> (offensive-5)
 
-_: gynecocratic <a> (offensive-3)
-_: gynaecocratic <a> (offensive-3)
+_: gynecocratic <a> (offensive-5)
+_: gynaecocratic <a> (offensive-5)
 
-_: gynecoid (offensive-3)
-_: gynaecoid (offensive-3)
+_: gynecoid (offensive-5)
+_: gynaecoid (offensive-5)
 
-_: gynephobia <n> (offensive-3)
+_: gynephobia <n> (offensive-5)
 
-_: gyniolatry (offensive-3)
+_: gyniolatry (offensive-5)
 
-_: gynocracy <n> (offensive-3)
+_: gynocracy <n> (offensive-5)
 
-_: gynocratic (offensive-3)
+_: gynocratic (offensive-5)
 
-_: haole <n> (offensive-2)
+_: haole <n> (offensive-5)
 
-_: hardass <n> (vulgar-1)
+_: hardass <n> (vulgar-5)
 
-_: harelipped <a> (offensive-1)
-_: hare-lipped (offensive-1)
+_: harelipped <a> (offensive-5)
+_: hare-lipped (offensive-5)
 
-_: Hebe <n/upper> (offensive-1)
+_: Hebe <n/upper> (offensive-5)
 
-_: hebe <n> (offensive-1)
+_: hebe <n> (offensive-5)
 
-_: ho <n> (offensive-1)
+_: ho <n> (offensive-5)
 
-_: honky <n> (offensive-1)
-_: honkie <n> (offensive-1)
-_: honkey <n> (offensive-1)
+_: honky <n> (offensive-5)
+_: honkie <n> (offensive-5)
+_: honkey <n> (offensive-5)
 
-_: hunkey <n> (offensive-1)
+_: hunkey <n> (offensive-5)
 
-_: hunks <n> (offensive-3)
+_: hunks <n> (offensive-5)
 
-_: hunky <a> (offensive-3)
+_: hunky <a> (offensive-5)
 
-_: hunky <n> (offensive-3)
+_: hunky <n> (offensive-5)
 
-_: hunkie <a> (offensive-3)
+_: hunkie <a> (offensive-5)
 
-_: Hymie <n/upper?> (offensive-1)
+_: Hymie <n/upper?> (offensive-5)
 
-_: jailbait (vulgar-1)
-_: jail-bait (vulgar-1)
+_: jailbait (vulgar-5)
+_: jail-bait (vulgar-5)
 
-_: Jesuit <aj/upper> (offensive-3)
+_: Jesuit <aj/upper> (offensive-5)
 
-_: Jesuit <n/upper> (offensive-3)
+_: Jesuit <n/upper> (offensive-5)
 
-_: jesuit <n> (offensive-3)
+_: jesuit <n> (offensive-5)
 
-_: Jesuitic <aj/upper> (offensive-3)
+_: Jesuitic <aj/upper> (offensive-5)
 
-_: jesuitic (offensive-3)
+_: jesuitic (offensive-5)
 
-_: jesuitical (offensive-3)
+_: jesuitical (offensive-5)
 
-_: jesuitically (offensive-3)
+_: jesuitically (offensive-5)
 
-_: jesuitism <n> (offensive-3)
+_: jesuitism <n> (offensive-5)
 
-_: Jesuitry <n/upper> (offensive-3)
+_: Jesuitry <n/upper> (offensive-5)
 
-_: jesuitry <n> (offensive-3)
+_: jesuitry <n> (offensive-5)
 
-_: Jew <n/upper> (offensive-1)
+_: Jew <n/upper> (offensive-5)
 
-_: jew <v> (offensive-1)
+_: jew <v> (offensive-5)
 
-_: jigaboo <n> (offensive-1)
+_: jigaboo <n> (offensive-5)
 
-_: jism <n> (vulgar-1)
+_: jism <n> (vulgar-5)
 
-_: jiveass (vulgar-1)
+_: jiveass (vulgar-5)
 
-_: jizz <n> (vulgar-1)
+_: jizz <n> (vulgar-5)
 
-_: kanaka <n> (offensive-3)
+_: kanaka <n> (offensive-5)
 
-_: kike <n> (vulgar-1)
+_: kike <n> (vulgar-5)
 
-_: les <n> (offensive-1)
+_: les <n> (offensive-5)
 
-_: lesbo <n> (offensive-1)
+_: lesbo <n> (offensive-5)
 
-_: lez <n> (offensive-1)
+_: lez <n> (offensive-5)
 
-_: lezes (offensive-1)
+_: lezes (offensive-5)
 
-_: lezzie <n> (offensive-1)
+_: lezzie <n> (offensive-5)
 
-_: lezzy (offensive-1)
+_: lezzy (offensive-5)
 
-_: libber <n> (offensive-3)
+_: libber <n> (offensive-5)
 
-_: mental retardation <n> (offensive-1)
+_: mental retardation <n> (offensive-5)
 
-_: merde <n> (vulgar-3)
+_: merde <n> (vulgar-5)
 
-_: Mick <n/upper> (offensive-1)
+_: Mick <n/upper> (offensive-5)
 
-_: mick <n> (offensive-1)
+_: mick <n> (offensive-5)
 
-_: mindfuck <m> (vulgar-1)
+_: mindfuck <m> (vulgar-5)
 
-_: minge <n> (vulgar-1)
+_: minge <n> (vulgar-5)
 
-_: minger <n> (offensive-1)
+_: minger <n> (offensive-5)
 
-_: mongol <n> (offensive-1)
+_: mongol <n> (offensive-5)
 
-_: mongolism <n> (offensive-1)
+_: mongolism <n> (offensive-5)
 
-_: mongoloid <n> (offensive-1)
+_: mongoloid <n> (offensive-5)
 
-_: mongoloid <aj> (offensive-1)
+_: mongoloid <aj> (offensive-5)
 
-_: mulatto <n> (offensive-1)
+_: mulatto <n> (offensive-5)
 
-_: mulatto <a> (offensive-1)
+_: mulatto <a> (offensive-5)
 
-_: nance <n> (offensive-2)
+_: nance <n> (offensive-5)
 
-_: nancy <n> (offensive-2)
+_: nancy <n> (offensive-5)
 
-_: negroid <n> (offensive-1)
+_: negroid <n> (offensive-5)
 
-_: negroism <n> (offensive-1)
+_: negroism <n> (offensive-5)
 
-_: negrophil <n> (offensive-1)
+_: negrophil <n> (offensive-5)
 
-_: negrophile <n> (offensive-1)
+_: negrophile <n> (offensive-5)
 
-_: negrophilism <n> (offensive-1)
+_: negrophilism <n> (offensive-5)
 
-_: negrophilist <n> (offensive-1)
+_: negrophilist <n> (offensive-5)
 
-_: negrophobe <n> (offensive-1)
+_: negrophobe <n> (offensive-5)
 
-_: negrophobia <n> (offensive-1)
+_: negrophobia <n> (offensive-5)
 
-_: niggard <n> (offensive-1)
+_: niggard <n> (offensive-5)
 
-_: niggard <a> (offensive-1)
+_: niggard <a> (offensive-5)
 
-_: niggard <v> (offensive-1)
+_: niggard <v> (offensive-5)
 
-_: niggardise <m> (offensive-1)
-_: niggardize <m> (offensive-1)
+_: niggardise <m> (offensive-5)
+_: niggardize <m> (offensive-5)
 
-_: niggardliness <n> (offensive-1)
+_: niggardliness <n> (offensive-5)
 
-_: niggardly <aj> (offensive-1)
+_: niggardly <aj> (offensive-5)
 
-_: niggerdom (offensive-1)
+_: niggerdom (offensive-5)
 
-_: niggerhead (offensive-1)
-_: nigger-head (offensive-1)
+_: niggerhead (offensive-5)
+_: nigger-head (offensive-5)
 
-_: niggerish (offensive-1)
+_: niggerish (offensive-5)
 
-_: niggerism <n> (offensive-1)
+_: niggerism <n> (offensive-5)
 
-_: niggerling <n> (offensive-1)
+_: niggerling <n> (offensive-5)
 
-_: niggery (offensive-1)
+_: niggery (offensive-5)
 
-_: nitchie <n> (offensive-1)
+_: nitchie <n> (offensive-5)
 
-_: nonhandicapped (offensive-3)
+_: nonhandicapped (offensive-5)
 
-_: nonpapal (offensive-3)
+_: nonpapal (offensive-5)
 
-_: nonpapist <n> (offensive-3)
+_: nonpapist <n> (offensive-5)
 
-_: nookie <n> (vulgar-2)
+_: nookie <n> (vulgar-5)
 
-_: nooky <n> (vulgar-2)
+_: nooky <n> (vulgar-5)
 
-_: ofay <n> (offensive-1)
+_: ofay <n> (offensive-5)
 
-_: outbitch <m> (offensive-3)
+_: outbitch <m> (offensive-5)
 
-_: papism <n> (offensive-3)
+_: papism <n> (offensive-5)
 
-_: papist <n> (offensive-3)
+_: papist <n> (offensive-5)
 
-_: papist <aj> (offensive-3)
+_: papist <aj> (offensive-5)
 
-_: Papist <n/upper?> (offensive-3)
+_: Papist <n/upper?> (offensive-5)
 
-_: papistic <aj> (offensive-3)
+_: papistic <aj> (offensive-5)
 
-_: papistical <aj> (offensive-3)
+_: papistical <aj> (offensive-5)
 
-_: papistically (offensive-3)
+_: papistically (offensive-5)
 
-_: papistry <n> (offensive-3)
+_: papistry <n> (offensive-5)
 
-_: peckerwood <n> (vulgar-1)
+_: peckerwood <n> (vulgar-5)
 
-_: pee <n> (vulgar-2)
+_: pee <n> (vulgar-5)
 
-_: pee <v> (vulgar-2)
+_: pee <v> (vulgar-5)
 
-_: peeing <n> (vulgar-2)
+_: peeing <n> (vulgar-5)
 
-_: picaninny <n> (offensive-1)
+_: picaninny <n> (offensive-5)
 
-_: piccaninny <n> (offensive-1)
+_: piccaninny <n> (offensive-5)
 
-_: pickaninny <n> (offensive-1)
+_: pickaninny <n> (offensive-5)
 
-_: pissant <n> (offensive-2)
+_: pissant <n> (offensive-5)
 
-_: pissed off <aj> (offensive-3)
+_: pissed off <aj> (offensive-5)
 
-_: pisshead <n> (vulgar-1)
+_: pisshead <n> (vulgar-5)
 
-_: piss-poor (vulgar-2)
+_: piss-poor (vulgar-5)
 
-_: pisspot <n> (vulgar-3)
-_: piss-pot <n> (vulgar-3)
+_: pisspot <n> (vulgar-5)
+_: piss-pot <n> (vulgar-5)
 
-_: piss-take <n> (vulgar-2)
+_: piss-take <n> (vulgar-5)
 
-_: piss-up <n> (vulgar-2)
+_: piss-up <n> (vulgar-5)
 
-_: Polack <n/upper> (offensive-1)
+_: Polack <n/upper> (offensive-5)
 
-_: pom <n> (offensive-1)
+_: pom <n> (offensive-5)
 
-_: Pom <n/upper?> (offensive-1)
+_: Pom <n/upper?> (offensive-5)
 
-_: pommie (offensive-1)
+_: pommie (offensive-5)
 
-_: Pommie <n/upper?> (offensive-1)
+_: Pommie <n/upper?> (offensive-5)
 
-_: pommy <n> (offensive-1)
+_: pommy <n> (offensive-5)
 
-_: Pommy <n/upper?> (offensive-1)
+_: Pommy <n/upper?> (offensive-5)
 
-_: poncey (offensive-2)
+_: poncey (offensive-5)
 
-_: poncy (offensive-2)
+_: poncy (offensive-5)
 
-_: poo <m> (vulgar-2)
+_: poo <m> (vulgar-5)
 
-_: poof <n> (offensive-1)
+_: poof <n> (offensive-5)
 
-_: poof <i> (offensive-1)
+_: poof <i> (offensive-5)
 
-_: pooftah <n> (offensive-1)
+_: pooftah <n> (offensive-5)
 
-_: poofter <n> (offensive-1)
+_: poofter <n> (offensive-5)
 
-_: poofy (offensive-1)
+_: poofy (offensive-5)
 
-_: poontang <n> (vulgar-1)
+_: poontang <n> (vulgar-5)
 
-_: poop <n> (vulgar-2)
+_: poop <n> (vulgar-5)
 
-_: poop <v> (vulgar-2)
+_: poop <v> (vulgar-5)
 
-_: pooped (vulgar-2)
+_: pooped (vulgar-5)
 
-_: poove <n> (offensive-1)
+_: poove <n> (offensive-5)
 
-_: poovery (offensive-1)
+_: poovery (offensive-5)
 
-_: poovy (offensive-1)
+_: poovy (offensive-5)
 
-_: popery <n> (offensive-1)
+_: popery <n> (offensive-5)
 
-_: popish <aj> (offensive-1)
+_: popish <aj> (offensive-5)
 
-_: popishness <n> (offensive-1)
+_: popishness <n> (offensive-5)
 
-_: popishly <av> (offensive-1)
+_: popishly <av> (offensive-5)
 
-_: prick <n> (offensive-3)
+_: prick <n> (offensive-5)
 
-_: pricker <n> (offensive-3)
+_: pricker <n> (offensive-5)
 
-_: pussy <n> (vulgar-1)
+_: pussy <n> (vulgar-5)
 
-_: pussy <aj> (vulgar-1)
+_: pussy <aj> (vulgar-5)
 
-_: ratshit (vulgar-1)
+_: ratshit (vulgar-5)
 
-_: redneck <n> (offensive-1)
+_: redneck <n> (offensive-5)
 
-_: redneck <a> (offensive-1)
+_: redneck <a> (offensive-5)
 
-_: rednecked (offensive-1)
+_: rednecked (offensive-5)
 
-_: redskin <n> (offensive-1)
+_: redskin <n> (offensive-5)
 
-_: retard <n> (offensive-1)
+_: retard <n> (offensive-5)
 
-_: retard <v> (offensive-1)
+_: retard <v> (offensive-5)
 
-_: retardant <n> (offensive-1)
+_: retardant <n> (offensive-5)
 
-_: retardant <a> (offensive-1)
+_: retardant <a> (offensive-5)
 
-_: retardate <n> (offensive-1)
+_: retardate <n> (offensive-5)
 
-_: retardation <n> (offensive-1)
+_: retardation <n> (offensive-5)
 
-_: retardative (offensive-1)
+_: retardative (offensive-5)
 
-_: retardatory (offensive-1)
+_: retardatory (offensive-5)
 
-_: retarded <n> (offensive-1)
+_: retarded <n> (offensive-5)
 
-_: retarded <aj> (offensive-1)
+_: retarded <aj> (offensive-5)
 
-_: retarder <n> (offensive-1)
+_: retarder <n> (offensive-5)
 
-_: retardment <n> (offensive-1)
+_: retardment <n> (offensive-5)
 
-_: sambo <n> (offensive-1)
+_: sambo <n> (offensive-5)
 
-_: shag <n> (vulgar-3)
+_: shag <n> (vulgar-5)
 
-_: shagged out (vulgar-3)
+_: shagged out (vulgar-5)
 
-_: shagpile (vulgar-3)
+_: shagpile (vulgar-5)
 
-_: shagger <n> (vulgar-3)
+_: shagger <n> (vulgar-5)
 
-_: shamateur <n> (offensive-3)
+_: shamateur <n> (offensive-5)
 
-_: shamateurism (offensive-3)
+_: shamateurism (offensive-5)
 
-_: shaveling <n> (offensive-2)
+_: shaveling <n> (offensive-5)
 
-_: sheeney <n> (offensive-1)
+_: sheeney <n> (offensive-5)
 
-_: sheeney <a> (offensive-1)
+_: sheeney <a> (offensive-5)
 
-_: sheenie <a> (offensive-1)
+_: sheenie <a> (offensive-5)
 
-_: sheeny <n> (offensive-1)
+_: sheeny <n> (offensive-5)
 
-_: Sheenie <n/upper?> (offensive-1)
+_: Sheenie <n/upper?> (offensive-5)
 
-_: sheeny <aj> (offensive-1)
+_: sheeny <aj> (offensive-5)
 
-_: Sheeny <n/upper?> (offensive-1)
+_: Sheeny <n/upper?> (offensive-5)
 
-_: shegetz <n> (offensive-1)
+_: shegetz <n> (offensive-5)
 
-_: shicksa <n> (offensive-1)
+_: shicksa <n> (offensive-5)
 
-_: shiksa <n> (offensive-1)
+_: shiksa <n> (offensive-5)
 
-_: shikse <n> (offensive-1)
+_: shikse <n> (offensive-5)
 
-_: shikseh  <n> (offensive-1)
+_: shikseh  <n> (offensive-5)
 
-_: shitfaced (vulgar-1)
-_: shit-faced (vulgar-1)
+_: shitfaced (vulgar-5)
+_: shit-faced (vulgar-5)
 
-_: shit-hot (vulgar-1)
+_: shit-hot (vulgar-5)
 
-_: shiting (vulgar-1)
+_: shiting (vulgar-5)
 
-_: shitkicker <n> (vulgar-1)
+_: shitkicker <n> (vulgar-5)
 
-_: shitless <aj> (vulgar-1)
+_: shitless <aj> (vulgar-5)
 
-_: shitlist <n> (vulgar-1)
+_: shitlist <n> (vulgar-5)
 
-_: shittiness (vulgar-1)
+_: shittiness (vulgar-5)
 
-_: shitwork <n> (vulgar-1)
+_: shitwork <n> (vulgar-5)
 
-_: shkotzim (offensive-1)
+_: shkotzim (offensive-5)
 
-_: shtup <n> (vulgar-2)
+_: shtup <n> (vulgar-5)
 
-_: shvartze <n> (offensive-1)
+_: shvartze <n> (offensive-5)
 
-_: Shylock <n/upper> (offensive-1)
+_: Shylock <n/upper> (offensive-5)
 
-_: shylock <n> (offensive-1)
+_: shylock <n> (offensive-5)
 
-_: shylock <v> (offensive-1)
+_: shylock <v> (offensive-5)
 
-_: Shylockian <n/name?> (offensive-1)
+_: Shylockian <n/name?> (offensive-5)
 
-_: skimo <n> (offensive-1)
+_: skimo <n> (offensive-5)
 
-_: slut <n> (vulgar-1)
+_: slut <n> (vulgar-5)
 
-_: sluttery <n> (vulgar-1)
+_: sluttery <n> (vulgar-5)
 
-_: sluttish <aj> (vulgar-1)
+_: sluttish <aj> (vulgar-5)
 
-_: sluttishly (vulgar-1)
+_: sluttishly (vulgar-5)
 
-_: sluttishness <n> (vulgar-1)
+_: sluttishness <n> (vulgar-5)
 
-_: slutty <a> (vulgar-1)
+_: slutty <a> (vulgar-5)
 
-_: snatch <n> (vulgar-1)
+_: snatch <n> (vulgar-5)
 
-_: snatchy <a> (vulgar-1)
+_: snatchy <a> (vulgar-5)
 
-_: son of a bitch <n> (offensive-3)
-_: sonofabitch (offensive-3)
-_: sonsofbitches (offensive-3)
-_: sons of bitches (offensive-3)
+_: son of a bitch <n> (offensive-5)
+_: sonofabitch (offensive-5)
+_: sonsofbitches (offensive-5)
+_: sons of bitches (offensive-5)
 
-_: spaz <m> (offensive-2)
+_: spaz <m> (offensive-5)
 
-_: spazz <m> (offensive-2) 
+_: spazz <m> (offensive-5) 
 
-_: spic <n> (offensive-2)
-_: spick <n> (offensive-2)
-_: spik <n> (offensive-2)
+_: spic <n> (offensive-5)
+_: spick <n> (offensive-5)
+_: spik <n> (offensive-5)
 
-_: spic <aj> (offensive-2)
-_: spick <aj> (offensive-2)
-_: spik <aj> (offensive-2)
+_: spic <aj> (offensive-5)
+_: spick <aj> (offensive-5)
+_: spik <aj> (offensive-5)
 
-_: spic <v> (offensive-2)
-_: spick <v> (offensive-2)
-_: spik <v> (offensive-2)
+_: spic <v> (offensive-5)
+_: spick <v> (offensive-5)
+_: spik <v> (offensive-5)
 
-_: squaw <n> (offensive-1)
+_: squaw <n> (offensive-5)
 
-_: suckhole (vulgar-1)
+_: suckhole (vulgar-5)
 
-_: superbitch <n> (offensive-3)
+_: superbitch <n> (offensive-5)
 
-_: tit <n> (vulgar-2)
+_: tit <n> (vulgar-5)
 
-_: tit <v> (vulgar-2)
+_: tit <v> (vulgar-5)
 
-_: tom <n> (offensive-1)
+_: tom <n> (offensive-5)
 
-_: tom <a> (offensive-1)
+_: tom <a> (offensive-5)
 
-_: tom <v> (offensive-1)
+_: tom <v> (offensive-5)
 
-_: turd <n> (vulgar-1)
+_: turd <n> (vulgar-5)
 
-_: twat <n> (offensive-1)
+_: twat <n> (offensive-5)
 
-_: vendue <n> (offensive-3)
+_: vendue <n> (offensive-5)
 
-_: wank <n> (vulgar-1)
+_: wank <n> (vulgar-5)
 
-_: wank <v> (vulgar-1)
+_: wank <v> (vulgar-5)
 
-_: wanker <n> (offensive-1)
+_: wanker <n> (offensive-5)
 
-_: wazoo <n> (vulgar-1)
+_: wazoo <n> (vulgar-5)
 
-_: wetback <n> (offensive-1)
+_: wetback <n> (offensive-5)
 
-_: whitey <n> (offensive-1)
+_: whitey <n> (offensive-5)
 
-_: whity <n> (offensive-1)
+_: whity <n> (offensive-5)
 
-_: whity <a> (offensive-1)
+_: whity <a> (offensive-5)
 
-_: willy <n> (vulgar-1)
-_: willie <n> (vulgar-1)
+_: willy <n> (vulgar-5)
+_: willie <n> (vulgar-5)
 
-_: willy <v> (vulgar-1)
-_: willie <v> (vulgar-1)
+_: willy <v> (vulgar-5)
+_: willie <v> (vulgar-5)
 
-_: willies <n> (vulgar-1)
+_: willies <n> (vulgar-5)
 
-_: wog <n> (offensive-1)
+_: wog <n> (offensive-5)
 
-_: Wop <n/upper?> (offensive-2)
+_: Wop <n/upper?> (offensive-5)
 
-_: woggish (offensive-1)
+_: woggish (offensive-5)
 
-_: wrinkly <n> (offensive-3)
+_: wrinkly <n> (offensive-5)
 
-_: Yid <n/upper> (offensive-1)
+_: Yid <n/upper> (offensive-5)
 
-_: yid <n> (offensive-1)
+_: yid <n> (offensive-5)
